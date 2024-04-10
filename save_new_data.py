@@ -15,7 +15,7 @@ regexp = re.compile(pattern)
 
 while 1:
 
-
+ print("again")
  files=os.listdir(path=pathC)
 
  for file in files:
