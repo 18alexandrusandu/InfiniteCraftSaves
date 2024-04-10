@@ -27,8 +27,7 @@ os.system("git add .")
 
 os.system("git commit -m \"first\"")
 
-
-
+os.system("git push origin main")
 
 
 
