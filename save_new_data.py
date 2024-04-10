@@ -22,7 +22,7 @@ while 1:
  files=os.listdir(path=pathC)
 
  for file in files:
-  if re.search(pattern,file) is not None or  re.search(pattern,file) is not  None:
+  if (re.search(pattern,file) is not None) or  (re.search(pattern,file) is not  None):
     nameFile=pathC+file
     shutil.copy(nameFile, './')
     print(file)
