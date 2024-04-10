@@ -27,6 +27,6 @@ while 1:
  os.system("git add .")
  os.system("git commit -m \"first\"")
  os.system("git push origin main")
- time.sleep(120000)
+ time.sleep(10000)
 
 
