@@ -1,0 +1,1693 @@
+{
+	"elements": [
+		{
+			"text": "Water",
+			"emoji": "💧",
+			"discovered": false
+		},
+		{
+			"text": "Fire",
+			"emoji": "🔥",
+			"discovered": false
+		},
+		{
+			"text": "Wind",
+			"emoji": "🌬️",
+			"discovered": false
+		},
+		{
+			"text": "Earth",
+			"emoji": "🌍",
+			"discovered": false
+		},
+		{
+			"text": "Steam",
+			"emoji": "💨",
+			"discovered": false
+		},
+		{
+			"text": "Engine",
+			"emoji": "🚗",
+			"discovered": false
+		},
+		{
+			"text": "Smoke",
+			"emoji": "💨",
+			"discovered": false
+		},
+		{
+			"text": "Train",
+			"emoji": "🚂",
+			"discovered": false
+		},
+		{
+			"text": "Tractor",
+			"emoji": "🚜",
+			"discovered": false
+		},
+		{
+			"text": "Plant",
+			"emoji": "🌱",
+			"discovered": false
+		},
+		{
+			"text": "Incense",
+			"emoji": "🕯️",
+			"discovered": false
+		},
+		{
+			"text": "Tea",
+			"emoji": "🍵",
+			"discovered": false
+		},
+		{
+			"text": "Car",
+			"emoji": "🚗",
+			"discovered": false
+		},
+		{
+			"text": "Windmill",
+			"emoji": "🌬️",
+			"discovered": false
+		},
+		{
+			"text": "Rocket",
+			"emoji": "🚀",
+			"discovered": false
+		},
+		{
+			"text": "Satellite",
+			"emoji": "🛰️",
+			"discovered": false
+		},
+		{
+			"text": "Moon",
+			"emoji": "🌙",
+			"discovered": false
+		},
+		{
+			"text": "Planet",
+			"emoji": "🪐",
+			"discovered": false
+		},
+		{
+			"text": "Star",
+			"emoji": "⭐️",
+			"discovered": false
+		},
+		{
+			"text": "Galaxy",
+			"emoji": "🌌",
+			"discovered": false
+		},
+		{
+			"text": "Black Hole",
+			"emoji": "🕳️",
+			"discovered": false
+		},
+		{
+			"text": "Universe",
+			"emoji": "🌌",
+			"discovered": false
+		},
+		{
+			"text": "Multiverse",
+			"emoji": "🌌",
+			"discovered": false
+		},
+		{
+			"text": "Sun",
+			"emoji": "☀️",
+			"discovered": false
+		},
+		{
+			"text": "Solar",
+			"emoji": "☀️",
+			"discovered": false
+		},
+		{
+			"text": "Sunflower",
+			"emoji": "🌻",
+			"discovered": false
+		},
+		{
+			"text": "Chai",
+			"emoji": "🍵",
+			"discovered": false
+		},
+		{
+			"text": "Teapot",
+			"emoji": "🍵",
+			"discovered": false
+		},
+		{
+			"text": "Solar System",
+			"emoji": "🌌",
+			"discovered": false
+		},
+		{
+			"text": "Mountain",
+			"emoji": "🏔️",
+			"discovered": false
+		},
+		{
+			"text": "Mountain Range",
+			"emoji": "🏔️",
+			"discovered": false
+		},
+		{
+			"text": "Volcano",
+			"emoji": "🌋",
+			"discovered": false
+		},
+		{
+			"text": "Lava",
+			"emoji": "🌋",
+			"discovered": false
+		},
+		{
+			"text": "Eruption",
+			"emoji": "🌋",
+			"discovered": false
+		},
+		{
+			"text": "Lake",
+			"emoji": "🌊",
+			"discovered": false
+		},
+		{
+			"text": "Island",
+			"emoji": "🏝️",
+			"discovered": false
+		},
+		{
+			"text": "Continent",
+			"emoji": "🌎",
+			"discovered": false
+		},
+		{
+			"text": "America",
+			"emoji": "🇺🇸",
+			"discovered": false
+		},
+		{
+			"text": "North America",
+			"emoji": "🌎",
+			"discovered": false
+		},
+		{
+			"text": "Canada",
+			"emoji": "🍁",
+			"discovered": false
+		},
+		{
+			"text": "Tornado",
+			"emoji": "🌪️",
+			"discovered": false
+		},
+		{
+			"text": "Teacup",
+			"emoji": "🍵",
+			"discovered": false
+		},
+		{
+			"text": "Tsunami",
+			"emoji": "🌊",
+			"discovered": false
+		},
+		{
+			"text": "Destruction",
+			"emoji": "💥",
+			"discovered": false
+		},
+		{
+			"text": "Atlantis",
+			"emoji": "🌊",
+			"discovered": false
+		},
+		{
+			"text": "Archipelago",
+			"emoji": "🏝️",
+			"discovered": false
+		},
+		{
+			"text": "Pangaea",
+			"emoji": "🌎",
+			"discovered": false
+		},
+		{
+			"text": "Supercontinent",
+			"emoji": "🌎",
+			"discovered": false
+		},
+		{
+			"text": "Wave",
+			"emoji": "🌊",
+			"discovered": false
+		},
+		{
+			"text": "Tree",
+			"emoji": "🌳",
+			"discovered": false
+		},
+		{
+			"text": "Forest",
+			"emoji": "🌲",
+			"discovered": false
+		},
+		{
+			"text": "Jungle",
+			"emoji": "🌴",
+			"discovered": false
+		},
+		{
+			"text": "GPS",
+			"emoji": "📍",
+			"discovered": false
+		},
+		{
+			"text": "Cloud",
+			"emoji": "☁️",
+			"discovered": false
+		},
+		{
+			"text": "Mud",
+			"emoji": "💩",
+			"discovered": false
+		},
+		{
+			"text": "Stone",
+			"emoji": "🪨",
+			"discovered": false
+		},
+		{
+			"text": "Sand",
+			"emoji": "🏖️",
+			"discovered": false
+		},
+		{
+			"text": "Glass",
+			"emoji": "🥃",
+			"discovered": false
+		},
+		{
+			"text": "Window",
+			"emoji": "🪟",
+			"discovered": false
+		},
+		{
+			"text": "House",
+			"emoji": "🏠",
+			"discovered": false
+		},
+		{
+			"text": "Town",
+			"emoji": "🏡",
+			"discovered": false
+		},
+		{
+			"text": "City",
+			"emoji": "🏙️",
+			"discovered": false
+		},
+		{
+			"text": "Metropolis",
+			"emoji": "🏙️",
+			"discovered": false
+		},
+		{
+			"text": "Megalopolis",
+			"emoji": "🌆",
+			"discovered": false
+		},
+		{
+			"text": "Megatropolis",
+			"emoji": "🏙️",
+			"discovered": false
+		},
+		{
+			"text": "Skyscraper",
+			"emoji": "🏙️",
+			"discovered": false
+		},
+		{
+			"text": "Hourglass",
+			"emoji": "⌛",
+			"discovered": false
+		},
+		{
+			"text": "Greenhouse",
+			"emoji": "🏡",
+			"discovered": false
+		},
+		{
+			"text": "Lens",
+			"emoji": "🔍",
+			"discovered": false
+		},
+		{
+			"text": "Telescope",
+			"emoji": "🔭",
+			"discovered": false
+		},
+		{
+			"text": "Camera",
+			"emoji": "📷",
+			"discovered": false
+		},
+		{
+			"text": "Observatory",
+			"emoji": "🔭",
+			"discovered": false
+		},
+		{
+			"text": "Astronomer",
+			"emoji": "🔭",
+			"discovered": false
+		},
+		{
+			"text": "Galileo",
+			"emoji": "🌌",
+			"discovered": false
+		},
+		{
+			"text": "Crescent",
+			"emoji": "🌙",
+			"discovered": false
+		},
+		{
+			"text": "Meteor",
+			"emoji": "💫",
+			"discovered": false
+		},
+		{
+			"text": "Meteorite",
+			"emoji": "💫",
+			"discovered": false
+		}
+	],
+	"darkMode": true,
+	"pinned": [],
+	"recipes": {
+		"Steam": [
+			[
+				{
+					"text": "Fire",
+					"emoji": "🔥"
+				},
+				{
+					"text": "Water",
+					"emoji": "💧"
+				}
+			],
+			[
+				{
+					"text": "Engine",
+					"emoji": "🚗"
+				},
+				{
+					"text": "Smoke",
+					"emoji": "💨"
+				}
+			],
+			[
+				{
+					"text": "Engine",
+					"emoji": "🚗"
+				},
+				{
+					"text": "Fire",
+					"emoji": "🔥"
+				}
+			]
+		],
+		"Engine": [
+			[
+				{
+					"text": "Fire",
+					"emoji": "🔥"
+				},
+				{
+					"text": "Steam",
+					"emoji": "💨"
+				}
+			]
+		],
+		"Smoke": [
+			[
+				{
+					"text": "Fire",
+					"emoji": "🔥"
+				},
+				{
+					"text": "Wind",
+					"emoji": "🌬️"
+				}
+			],
+			[
+				{
+					"text": "Incense",
+					"emoji": "🕯️"
+				},
+				{
+					"text": "Tea",
+					"emoji": "🍵"
+				}
+			],
+			[
+				{
+					"text": "Fire",
+					"emoji": "🔥"
+				},
+				{
+					"text": "Plant",
+					"emoji": "🌱"
+				}
+			]
+		],
+		"Train": [
+			[
+				{
+					"text": "Engine",
+					"emoji": "🚗"
+				},
+				{
+					"text": "Steam",
+					"emoji": "💨"
+				}
+			]
+		],
+		"Tractor": [
+			[
+				{
+					"text": "Earth",
+					"emoji": "🌍"
+				},
+				{
+					"text": "Train",
+					"emoji": "🚂"
+				}
+			]
+		],
+		"Plant": [
+			[
+				{
+					"text": "Earth",
+					"emoji": "🌍"
+				},
+				{
+					"text": "Water",
+					"emoji": "💧"
+				}
+			]
+		],
+		"Incense": [
+			[
+				{
+					"text": "Plant",
+					"emoji": "🌱"
+				},
+				{
+					"text": "Smoke",
+					"emoji": "💨"
+				}
+			]
+		],
+		"Tea": [
+			[
+				{
+					"text": "Plant",
+					"emoji": "🌱"
+				},
+				{
+					"text": "Steam",
+					"emoji": "💨"
+				}
+			],
+			[
+				{
+					"text": "Teapot",
+					"emoji": "🍵"
+				},
+				{
+					"text": "Windmill",
+					"emoji": "🌬️"
+				}
+			]
+		],
+		"Car": [
+			[
+				{
+					"text": "Engine",
+					"emoji": "🚗"
+				},
+				{
+					"text": "Plant",
+					"emoji": "🌱"
+				}
+			]
+		],
+		"Windmill": [
+			[
+				{
+					"text": "Engine",
+					"emoji": "🚗"
+				},
+				{
+					"text": "Wind",
+					"emoji": "🌬️"
+				}
+			]
+		],
+		"Rocket": [
+			[
+				{
+					"text": "Engine",
+					"emoji": "🚗"
+				},
+				{
+					"text": "Engine",
+					"emoji": "🚗"
+				}
+			],
+			[
+				{
+					"text": "Engine",
+					"emoji": "🚗"
+				},
+				{
+					"text": "Satellite",
+					"emoji": "🛰️"
+				}
+			]
+		],
+		"Satellite": [
+			[
+				{
+					"text": "Rocket",
+					"emoji": "🚀"
+				},
+				{
+					"text": "Rocket",
+					"emoji": "🚀"
+				}
+			]
+		],
+		"Moon": [
+			[
+				{
+					"text": "Satellite",
+					"emoji": "🛰️"
+				},
+				{
+					"text": "Satellite",
+					"emoji": "🛰️"
+				}
+			],
+			[
+				{
+					"text": "Earth",
+					"emoji": "🌍"
+				},
+				{
+					"text": "Planet",
+					"emoji": "🪐"
+				}
+			],
+			[
+				{
+					"text": "Crescent",
+					"emoji": "🌙"
+				},
+				{
+					"text": "Telescope",
+					"emoji": "🔭"
+				}
+			],
+			[
+				{
+					"text": "Crescent",
+					"emoji": "🌙"
+				},
+				{
+					"text": "Lava",
+					"emoji": "🌋"
+				}
+			]
+		],
+		"Planet": [
+			[
+				{
+					"text": "Moon",
+					"emoji": "🌙"
+				},
+				{
+					"text": "Moon",
+					"emoji": "🌙"
+				}
+			]
+		],
+		"Star": [
+			[
+				{
+					"text": "Planet",
+					"emoji": "🪐"
+				},
+				{
+					"text": "Planet",
+					"emoji": "🪐"
+				}
+			]
+		],
+		"Galaxy": [
+			[
+				{
+					"text": "Star",
+					"emoji": "⭐️"
+				},
+				{
+					"text": "Star",
+					"emoji": "⭐️"
+				}
+			]
+		],
+		"Black Hole": [
+			[
+				{
+					"text": "Galaxy",
+					"emoji": "🌌"
+				},
+				{
+					"text": "Galaxy",
+					"emoji": "🌌"
+				}
+			]
+		],
+		"Universe": [
+			[
+				{
+					"text": "Black Hole",
+					"emoji": "🕳️"
+				},
+				{
+					"text": "Galaxy",
+					"emoji": "🌌"
+				}
+			]
+		],
+		"Multiverse": [
+			[
+				{
+					"text": "Universe",
+					"emoji": "🌌"
+				},
+				{
+					"text": "Universe",
+					"emoji": "🌌"
+				}
+			]
+		],
+		"Sun": [
+			[
+				{
+					"text": "Fire",
+					"emoji": "🔥"
+				},
+				{
+					"text": "Planet",
+					"emoji": "🪐"
+				}
+			]
+		],
+		"Solar": [
+			[
+				{
+					"text": "Fire",
+					"emoji": "🔥"
+				},
+				{
+					"text": "Sun",
+					"emoji": "☀️"
+				}
+			],
+			[
+				{
+					"text": "Engine",
+					"emoji": "🚗"
+				},
+				{
+					"text": "Sun",
+					"emoji": "☀️"
+				}
+			]
+		],
+		"Sunflower": [
+			[
+				{
+					"text": "Sun",
+					"emoji": "☀️"
+				},
+				{
+					"text": "Tractor",
+					"emoji": "🚜"
+				}
+			]
+		],
+		"Chai": [
+			[
+				{
+					"text": "Fire",
+					"emoji": "🔥"
+				},
+				{
+					"text": "Tea",
+					"emoji": "🍵"
+				}
+			]
+		],
+		"Teapot": [
+			[
+				{
+					"text": "Engine",
+					"emoji": "🚗"
+				},
+				{
+					"text": "Tea",
+					"emoji": "🍵"
+				}
+			]
+		],
+		"Wind": [
+			[
+				{
+					"text": "Engine",
+					"emoji": "🚗"
+				},
+				{
+					"text": "Windmill",
+					"emoji": "🌬️"
+				}
+			]
+		],
+		"Solar System": [
+			[
+				{
+					"text": "Galaxy",
+					"emoji": "🌌"
+				},
+				{
+					"text": "Planet",
+					"emoji": "🪐"
+				}
+			]
+		],
+		"Mountain": [
+			[
+				{
+					"text": "Earth",
+					"emoji": "🌍"
+				},
+				{
+					"text": "Earth",
+					"emoji": "🌍"
+				}
+			],
+			[
+				{
+					"text": "Mountain Range",
+					"emoji": "🏔️"
+				},
+				{
+					"text": "Mountain Range",
+					"emoji": "🏔️"
+				}
+			],
+			[
+				{
+					"text": "Volcano",
+					"emoji": "🌋"
+				},
+				{
+					"text": "Volcano",
+					"emoji": "🌋"
+				}
+			]
+		],
+		"Mountain Range": [
+			[
+				{
+					"text": "Mountain",
+					"emoji": "🏔️"
+				},
+				{
+					"text": "Mountain",
+					"emoji": "🏔️"
+				}
+			]
+		],
+		"Volcano": [
+			[
+				{
+					"text": "Fire",
+					"emoji": "🔥"
+				},
+				{
+					"text": "Mountain Range",
+					"emoji": "🏔️"
+				}
+			],
+			[
+				{
+					"text": "Eruption",
+					"emoji": "🌋"
+				},
+				{
+					"text": "Eruption",
+					"emoji": "🌋"
+				}
+			],
+			[
+				{
+					"text": "Earth",
+					"emoji": "🌍"
+				},
+				{
+					"text": "Smoke",
+					"emoji": "💨"
+				}
+			],
+			[
+				{
+					"text": "Fire",
+					"emoji": "🔥"
+				},
+				{
+					"text": "Smoke",
+					"emoji": "💨"
+				}
+			],
+			[
+				{
+					"text": "Fire",
+					"emoji": "🔥"
+				},
+				{
+					"text": "Lava",
+					"emoji": "🌋"
+				}
+			],
+			[
+				{
+					"text": "Lava",
+					"emoji": "🌋"
+				},
+				{
+					"text": "Telescope",
+					"emoji": "🔭"
+				}
+			],
+			[
+				{
+					"text": "Lava",
+					"emoji": "🌋"
+				},
+				{
+					"text": "Moon",
+					"emoji": "🌙"
+				}
+			],
+			[
+				{
+					"text": "Lava",
+					"emoji": "🌋"
+				},
+				{
+					"text": "Meteor",
+					"emoji": "💫"
+				}
+			]
+		],
+		"Earth": [
+			[
+				{
+					"text": "Planet",
+					"emoji": "🪐"
+				},
+				{
+					"text": "Volcano",
+					"emoji": "🌋"
+				}
+			]
+		],
+		"Lava": [
+			[
+				{
+					"text": "Earth",
+					"emoji": "🌍"
+				},
+				{
+					"text": "Volcano",
+					"emoji": "🌋"
+				}
+			],
+			[
+				{
+					"text": "Earth",
+					"emoji": "🌍"
+				},
+				{
+					"text": "Fire",
+					"emoji": "🔥"
+				}
+			],
+			[
+				{
+					"text": "Fire",
+					"emoji": "🔥"
+				},
+				{
+					"text": "Volcano",
+					"emoji": "🌋"
+				}
+			],
+			[
+				{
+					"text": "Skyscraper",
+					"emoji": "🏙️"
+				},
+				{
+					"text": "Volcano",
+					"emoji": "🌋"
+				}
+			]
+		],
+		"Eruption": [
+			[
+				{
+					"text": "Lava",
+					"emoji": "🌋"
+				},
+				{
+					"text": "Volcano",
+					"emoji": "🌋"
+				}
+			],
+			[
+				{
+					"text": "Tornado",
+					"emoji": "🌪️"
+				},
+				{
+					"text": "Volcano",
+					"emoji": "🌋"
+				}
+			]
+		],
+		"Lake": [
+			[
+				{
+					"text": "Water",
+					"emoji": "💧"
+				},
+				{
+					"text": "Water",
+					"emoji": "💧"
+				}
+			]
+		],
+		"Island": [
+			[
+				{
+					"text": "Lake",
+					"emoji": "🌊"
+				},
+				{
+					"text": "Volcano",
+					"emoji": "🌋"
+				}
+			],
+			[
+				{
+					"text": "Archipelago",
+					"emoji": "🏝️"
+				},
+				{
+					"text": "Archipelago",
+					"emoji": "🏝️"
+				}
+			]
+		],
+		"Continent": [
+			[
+				{
+					"text": "Island",
+					"emoji": "🏝️"
+				},
+				{
+					"text": "Island",
+					"emoji": "🏝️"
+				}
+			]
+		],
+		"America": [
+			[
+				{
+					"text": "Continent",
+					"emoji": "🌎"
+				},
+				{
+					"text": "Lake",
+					"emoji": "🌊"
+				}
+			]
+		],
+		"North America": [
+			[
+				{
+					"text": "America",
+					"emoji": "🇺🇸"
+				},
+				{
+					"text": "Continent",
+					"emoji": "🌎"
+				}
+			],
+			[
+				{
+					"text": "Canada",
+					"emoji": "🍁"
+				},
+				{
+					"text": "Continent",
+					"emoji": "🌎"
+				}
+			]
+		],
+		"Canada": [
+			[
+				{
+					"text": "Lake",
+					"emoji": "🌊"
+				},
+				{
+					"text": "North America",
+					"emoji": "🌎"
+				}
+			]
+		],
+		"Tornado": [
+			[
+				{
+					"text": "Wind",
+					"emoji": "🌬️"
+				},
+				{
+					"text": "Wind",
+					"emoji": "🌬️"
+				}
+			]
+		],
+		"Teacup": [
+			[
+				{
+					"text": "Tea",
+					"emoji": "🍵"
+				},
+				{
+					"text": "Tornado",
+					"emoji": "🌪️"
+				}
+			],
+			[
+				{
+					"text": "Teapot",
+					"emoji": "🍵"
+				},
+				{
+					"text": "Tornado",
+					"emoji": "🌪️"
+				}
+			]
+		],
+		"Tsunami": [
+			[
+				{
+					"text": "Tornado",
+					"emoji": "🌪️"
+				},
+				{
+					"text": "Water",
+					"emoji": "💧"
+				}
+			]
+		],
+		"Destruction": [
+			[
+				{
+					"text": "Tornado",
+					"emoji": "🌪️"
+				},
+				{
+					"text": "Tsunami",
+					"emoji": "🌊"
+				}
+			]
+		],
+		"Atlantis": [
+			[
+				{
+					"text": "Continent",
+					"emoji": "🌎"
+				},
+				{
+					"text": "Destruction",
+					"emoji": "💥"
+				}
+			]
+		],
+		"Archipelago": [
+			[
+				{
+					"text": "Continent",
+					"emoji": "🌎"
+				},
+				{
+					"text": "Island",
+					"emoji": "🏝️"
+				}
+			]
+		],
+		"Pangaea": [
+			[
+				{
+					"text": "Continent",
+					"emoji": "🌎"
+				},
+				{
+					"text": "Continent",
+					"emoji": "🌎"
+				}
+			],
+			[
+				{
+					"text": "Supercontinent",
+					"emoji": "🌎"
+				},
+				{
+					"text": "Supercontinent",
+					"emoji": "🌎"
+				}
+			]
+		],
+		"Supercontinent": [
+			[
+				{
+					"text": "Pangaea",
+					"emoji": "🌎"
+				},
+				{
+					"text": "Pangaea",
+					"emoji": "🌎"
+				}
+			]
+		],
+		"Wave": [
+			[
+				{
+					"text": "Water",
+					"emoji": "💧"
+				},
+				{
+					"text": "Wind",
+					"emoji": "🌬️"
+				}
+			]
+		],
+		"Tree": [
+			[
+				{
+					"text": "Earth",
+					"emoji": "🌍"
+				},
+				{
+					"text": "Plant",
+					"emoji": "🌱"
+				}
+			],
+			[
+				{
+					"text": "Forest",
+					"emoji": "🌲"
+				},
+				{
+					"text": "Plant",
+					"emoji": "🌱"
+				}
+			]
+		],
+		"Forest": [
+			[
+				{
+					"text": "Plant",
+					"emoji": "🌱"
+				},
+				{
+					"text": "Tree",
+					"emoji": "🌳"
+				}
+			],
+			[
+				{
+					"text": "Jungle",
+					"emoji": "🌴"
+				},
+				{
+					"text": "Jungle",
+					"emoji": "🌴"
+				}
+			]
+		],
+		"Jungle": [
+			[
+				{
+					"text": "Forest",
+					"emoji": "🌲"
+				},
+				{
+					"text": "Forest",
+					"emoji": "🌲"
+				}
+			]
+		],
+		"GPS": [
+			[
+				{
+					"text": "Car",
+					"emoji": "🚗"
+				},
+				{
+					"text": "Satellite",
+					"emoji": "🛰️"
+				}
+			]
+		],
+		"Cloud": [
+			[
+				{
+					"text": "Island",
+					"emoji": "🏝️"
+				},
+				{
+					"text": "Steam",
+					"emoji": "💨"
+				}
+			]
+		],
+		"Mud": [
+			[
+				{
+					"text": "Earth",
+					"emoji": "🌍"
+				},
+				{
+					"text": "Steam",
+					"emoji": "💨"
+				}
+			]
+		],
+		"Stone": [
+			[
+				{
+					"text": "Lava",
+					"emoji": "🌋"
+				},
+				{
+					"text": "Water",
+					"emoji": "💧"
+				}
+			]
+		],
+		"Sand": [
+			[
+				{
+					"text": "Stone",
+					"emoji": "🪨"
+				},
+				{
+					"text": "Wind",
+					"emoji": "🌬️"
+				}
+			]
+		],
+		"Glass": [
+			[
+				{
+					"text": "Fire",
+					"emoji": "🔥"
+				},
+				{
+					"text": "Sand",
+					"emoji": "🏖️"
+				}
+			],
+			[
+				{
+					"text": "Skyscraper",
+					"emoji": "🏙️"
+				},
+				{
+					"text": "Window",
+					"emoji": "🪟"
+				}
+			],
+			[
+				{
+					"text": "House",
+					"emoji": "🏠"
+				},
+				{
+					"text": "Window",
+					"emoji": "🪟"
+				}
+			]
+		],
+		"Window": [
+			[
+				{
+					"text": "Glass",
+					"emoji": "🥃"
+				},
+				{
+					"text": "Glass",
+					"emoji": "🥃"
+				}
+			],
+			[
+				{
+					"text": "Glass",
+					"emoji": "🥃"
+				},
+				{
+					"text": "Skyscraper",
+					"emoji": "🏙️"
+				}
+			],
+			[
+				{
+					"text": "Glass",
+					"emoji": "🥃"
+				},
+				{
+					"text": "Mud",
+					"emoji": "💩"
+				}
+			]
+		],
+		"House": [
+			[
+				{
+					"text": "Glass",
+					"emoji": "🥃"
+				},
+				{
+					"text": "Window",
+					"emoji": "🪟"
+				}
+			],
+			[
+				{
+					"text": "Town",
+					"emoji": "🏡"
+				},
+				{
+					"text": "Window",
+					"emoji": "🪟"
+				}
+			]
+		],
+		"Town": [
+			[
+				{
+					"text": "House",
+					"emoji": "🏠"
+				},
+				{
+					"text": "House",
+					"emoji": "🏠"
+				}
+			]
+		],
+		"City": [
+			[
+				{
+					"text": "Town",
+					"emoji": "🏡"
+				},
+				{
+					"text": "Town",
+					"emoji": "🏡"
+				}
+			]
+		],
+		"Metropolis": [
+			[
+				{
+					"text": "City",
+					"emoji": "🏙️"
+				},
+				{
+					"text": "City",
+					"emoji": "🏙️"
+				}
+			]
+		],
+		"Megalopolis": [
+			[
+				{
+					"text": "Metropolis",
+					"emoji": "🏙️"
+				},
+				{
+					"text": "Metropolis",
+					"emoji": "🏙️"
+				}
+			]
+		],
+		"Megatropolis": [
+			[
+				{
+					"text": "Megalopolis",
+					"emoji": "🌆"
+				},
+				{
+					"text": "Metropolis",
+					"emoji": "🏙️"
+				}
+			]
+		],
+		"Skyscraper": [
+			[
+				{
+					"text": "Metropolis",
+					"emoji": "🏙️"
+				},
+				{
+					"text": "Window",
+					"emoji": "🪟"
+				}
+			],
+			[
+				{
+					"text": "Glass",
+					"emoji": "🥃"
+				},
+				{
+					"text": "Megatropolis",
+					"emoji": "🏙️"
+				}
+			]
+		],
+		"Hourglass": [
+			[
+				{
+					"text": "Glass",
+					"emoji": "🥃"
+				},
+				{
+					"text": "Sand",
+					"emoji": "🏖️"
+				}
+			]
+		],
+		"Greenhouse": [
+			[
+				{
+					"text": "Glass",
+					"emoji": "🥃"
+				},
+				{
+					"text": "Jungle",
+					"emoji": "🌴"
+				}
+			]
+		],
+		"Lens": [
+			[
+				{
+					"text": "Glass",
+					"emoji": "🥃"
+				},
+				{
+					"text": "Wave",
+					"emoji": "🌊"
+				}
+			]
+		],
+		"Telescope": [
+			[
+				{
+					"text": "Lens",
+					"emoji": "🔍"
+				},
+				{
+					"text": "Lens",
+					"emoji": "🔍"
+				}
+			],
+			[
+				{
+					"text": "Camera",
+					"emoji": "📷"
+				},
+				{
+					"text": "Camera",
+					"emoji": "📷"
+				}
+			],
+			[
+				{
+					"text": "Observatory",
+					"emoji": "🔭"
+				},
+				{
+					"text": "Observatory",
+					"emoji": "🔭"
+				}
+			],
+			[
+				{
+					"text": "Astronomer",
+					"emoji": "🔭"
+				},
+				{
+					"text": "Galileo",
+					"emoji": "🌌"
+				}
+			]
+		],
+		"Camera": [
+			[
+				{
+					"text": "Lens",
+					"emoji": "🔍"
+				},
+				{
+					"text": "Plant",
+					"emoji": "🌱"
+				}
+			]
+		],
+		"Observatory": [
+			[
+				{
+					"text": "Telescope",
+					"emoji": "🔭"
+				},
+				{
+					"text": "Telescope",
+					"emoji": "🔭"
+				}
+			],
+			[
+				{
+					"text": "Skyscraper",
+					"emoji": "🏙️"
+				},
+				{
+					"text": "Telescope",
+					"emoji": "🔭"
+				}
+			]
+		],
+		"Astronomer": [
+			[
+				{
+					"text": "Observatory",
+					"emoji": "🔭"
+				},
+				{
+					"text": "Telescope",
+					"emoji": "🔭"
+				}
+			],
+			[
+				{
+					"text": "Moon",
+					"emoji": "🌙"
+				},
+				{
+					"text": "Telescope",
+					"emoji": "🔭"
+				}
+			]
+		],
+		"Galileo": [
+			[
+				{
+					"text": "Astronomer",
+					"emoji": "🔭"
+				},
+				{
+					"text": "Telescope",
+					"emoji": "🔭"
+				}
+			]
+		],
+		"Crescent": [
+			[
+				{
+					"text": "Moon",
+					"emoji": "🌙"
+				},
+				{
+					"text": "Mountain",
+					"emoji": "🏔️"
+				}
+			]
+		],
+		"Meteor": [
+			[
+				{
+					"text": "Astronomer",
+					"emoji": "🔭"
+				},
+				{
+					"text": "Volcano",
+					"emoji": "🌋"
+				}
+			]
+		],
+		"Meteorite": [
+			[
+				{
+					"text": "Meteor",
+					"emoji": "💫"
+				},
+				{
+					"text": "Volcano",
+					"emoji": "🌋"
+				}
+			]
+		]
+	}
+}

@@ -65542,1613 +65542,2963 @@
 		},
 		{
 			"text": "\"pen\"",
-			"emoji": "🖊️",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🖊️"
 		},
 		{
 			"text": "\"bec\"",
-			"emoji": "🤔",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🤔"
 		},
 		{
 			"text": "\"ec\"",
-			"emoji": "🇪🇨",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🇪🇨"
 		},
 		{
 			"text": "\"arec\"",
-			"emoji": "🤔",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🤔"
 		},
 		{
 			"text": "\"areci\"",
-			"emoji": "🤔",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🤔"
 		},
 		{
 			"text": "\"arecipen\"",
-			"emoji": "🤔",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🤔"
 		},
 		{
 			"text": "\"arecipe\"",
-			"emoji": "👩‍🍳",
-			"discovered": false
+			"discovered": false,
+			"emoji": "👩‍🍳"
 		},
 		{
 			"text": "\"arecipeplease\"",
-			"emoji": "👩‍🍳",
-			"discovered": false
+			"discovered": false,
+			"emoji": "👩‍🍳"
 		},
 		{
 			"text": "\"recipeplease\"",
-			"emoji": "👩‍🍳",
-			"discovered": false
+			"discovered": false,
+			"emoji": "👩‍🍳"
 		},
 		{
 			"text": "Recipe Please",
-			"emoji": "📝",
-			"discovered": false
+			"discovered": false,
+			"emoji": "📝"
 		},
 		{
 			"text": "\"aprepend.al\"",
-			"emoji": "❌",
-			"discovered": true
+			"discovered": true,
+			"emoji": "❌"
 		},
 		{
 			"text": "\"aprependel\"",
-			"emoji": "🤔",
-			"discovered": true
+			"discovered": true,
+			"emoji": "🤔"
 		},
 		{
 			"text": ".li",
-			"emoji": "❌",
-			"discovered": false
+			"discovered": false,
+			"emoji": "❌"
 		},
 		{
 			"text": ".lt",
-			"emoji": "🇱🇹",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🇱🇹"
 		},
 		{
 			"text": ".le",
-			"emoji": "❓",
-			"discovered": false
+			"discovered": false,
+			"emoji": "❓"
 		},
 		{
 			"text": ".el",
-			"emoji": "🤖",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🤖"
 		},
 		{
 			"text": "\"aprepend.el\"",
-			"emoji": "🤔",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🤔"
 		},
 		{
 			"text": "\"aprepend.el.li\"",
-			"emoji": "🤔",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🤔"
 		},
 		{
 			"text": "\"ps\"",
-			"emoji": "📝",
-			"discovered": false
+			"discovered": false,
+			"emoji": "📝"
 		},
 		{
 			"text": "\"aprepend.el.lips\"",
-			"emoji": "👄",
-			"discovered": false
+			"discovered": false,
+			"emoji": "👄"
 		},
 		{
 			"text": "\"the.\"",
-			"emoji": "🤔",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🤔"
 		},
 		{
 			"text": "“sis”",
-			"emoji": "💁‍♀️",
-			"discovered": false
+			"discovered": false,
+			"emoji": "💁‍♀️"
 		},
 		{
 			"text": "“aprepend.el.lips.sis”",
-			"emoji": "👄",
-			"discovered": true
+			"discovered": true,
+			"emoji": "👄"
 		},
 		{
 			"text": "\"append.el.lips\"",
-			"emoji": "👄",
-			"discovered": false
+			"discovered": false,
+			"emoji": "👄"
 		},
 		{
 			"text": "“append.el.lips.sis”",
-			"emoji": "👄",
-			"discovered": true
+			"discovered": true,
+			"emoji": "👄"
 		},
 		{
 			"text": "“the appendix of the lips”",
-			"emoji": "💋",
-			"discovered": true
+			"discovered": true,
+			"emoji": "💋"
 		},
 		{
 			"text": "\"aprepend.el.lipsi\"",
-			"emoji": "🤔",
-			"discovered": true
+			"discovered": true,
+			"emoji": "🤔"
 		},
 		{
 			"text": "“aprepend.el.lipsi.sis”",
-			"emoji": "🤔",
-			"discovered": true
+			"discovered": true,
+			"emoji": "🤔"
 		},
 		{
 			"text": "appendellips",
-			"emoji": "❌",
-			"discovered": false
+			"discovered": false,
+			"emoji": "❌"
 		},
 		{
 			"text": "\"append.ellipsis\"",
-			"emoji": "🔗",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🔗"
 		},
 		{
 			"text": "\"append.the.ellipsis\"",
-			"emoji": "🔗",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🔗"
 		},
 		{
 			"text": "append.ellipsis",
-			"emoji": "🔗",
-			"discovered": true
+			"discovered": true,
+			"emoji": "🔗"
 		},
 		{
 			"text": "#append.the.ellipsis",
-			"emoji": "🔍",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🔍"
 		},
 		{
 			"text": "Append Ellipsis",
-			"emoji": "...",
-			"discovered": false
+			"discovered": false,
+			"emoji": "..."
 		},
 		{
 			"text": "#soitgoes…",
-			"emoji": "📖",
-			"discovered": false
+			"discovered": false,
+			"emoji": "📖"
 		},
 		{
 			"text": "So It Goes…",
-			"emoji": "📖",
-			"discovered": false
+			"discovered": false,
+			"emoji": "📖"
 		},
 		{
 			"text": "The Best",
-			"emoji": "💛",
-			"discovered": false
+			"discovered": false,
+			"emoji": "💛"
 		},
 		{
 			"text": "The Boss",
-			"emoji": "👑",
-			"discovered": false
+			"discovered": false,
+			"emoji": "👑"
 		},
 		{
 			"text": "Anime Scene",
-			"emoji": "🎬",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🎬"
 		},
 		{
 			"text": "Anime Fight",
-			"emoji": "💥👊🏻",
-			"discovered": false
+			"discovered": false,
+			"emoji": "💥👊🏻"
 		},
 		{
 			"text": "Anime Art",
-			"emoji": "🎎",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🎎"
 		},
 		{
 			"text": "Anime Battle",
-			"emoji": "⚔️",
-			"discovered": false
+			"discovered": false,
+			"emoji": "⚔️"
 		},
 		{
 			"text": "Anime Maid",
-			"emoji": "🎀👩‍",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🎀👩‍"
 		},
 		{
 			"text": "The Best Maid",
-			"emoji": "👩‍🍳",
-			"discovered": false
+			"discovered": false,
+			"emoji": "👩‍🍳"
 		},
 		{
 			"text": "The Best Hug",
-			"emoji": "🤗",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🤗"
 		},
 		{
 			"text": "Bear Hug",
-			"emoji": "🐻",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🐻"
 		},
 		{
 			"text": "The Bear",
-			"emoji": "🐻",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🐻"
 		},
 		{
 			"text": "The Bear Hug",
-			"emoji": "🐻🤗",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🐻🤗"
 		},
 		{
 			"text": "The Bear Best",
-			"emoji": "🐻",
-			"discovered": true
+			"discovered": true,
+			"emoji": "🐻"
 		},
 		{
 			"text": "The Best Bear Hug",
-			"emoji": "🐻🤗",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🐻🤗"
 		},
 		{
 			"text": "Linuces",
-			"emoji": "🐧",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🐧"
 		},
 		{
 			"text": "\"ima\"",
-			"emoji": "🤔",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🤔"
 		},
 		{
 			"text": "\"demon\"",
-			"emoji": "😈",
-			"discovered": false
+			"discovered": false,
+			"emoji": "😈"
 		},
 		{
 			"text": "\"ima.de\"",
-			"emoji": "🤔",
-			"discovered": true
+			"discovered": true,
+			"emoji": "🤔"
 		},
 		{
 			"text": "\"imade\"",
-			"emoji": "👍",
-			"discovered": false
+			"discovered": false,
+			"emoji": "👍"
 		},
 		{
 			"text": "\"imadeda\"",
-			"emoji": "🤔",
-			"discovered": true
+			"discovered": true,
+			"emoji": "🤔"
 		},
 		{
 			"text": "\"imadethis\"",
-			"emoji": "👍",
-			"discovered": false
+			"discovered": false,
+			"emoji": "👍"
 		},
 		{
 			"text": "\"gimadethis\"",
-			"emoji": "🤖",
-			"discovered": true
+			"discovered": true,
+			"emoji": "🤖"
 		},
 		{
 			"text": "“imag”",
-			"emoji": "📸",
-			"discovered": true
+			"discovered": true,
+			"emoji": "📸"
 		},
 		{
 			"text": "\"asap\"",
-			"emoji": "🕒",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🕒"
 		},
 		{
 			"text": "\"asper\"",
-			"emoji": "👋",
-			"discovered": false
+			"discovered": false,
+			"emoji": "👋"
 		},
 		{
 			"text": "\"asparagus\"",
-			"emoji": "🌱",
-			"discovered": false
+			"discovered": false,
+			"emoji": "🌱"
 		},
 		{
 			"text": "\"asimade\"",
-			"emoji": "🤔",
-			"discovered": true
+			"discovered": true,
+			"emoji": "🤔"
 		},
 		{
 			"text": "\"dimade\"",
-			"emoji": "🤔",
-			"discovered": true
+			"discovered": true,
+			"emoji": "🤔"
 		},
 		{
 			"text": "\"dimade.as\"",
-			"emoji": "🤔",
-			"discovered": true
+			"discovered": true,
+			"emoji": "🤔"
 		},
 		{
 			"text": "\"dima.desp\"",
-			"emoji": "🤔",
-			"discovered": true
+			"discovered": true,
+			"emoji": "🤔"
 		},
 		{
 			"text": "\"dimadeas\"",
-			"emoji": "🤔",
-			"discovered": true
+			"discovered": true,
+			"emoji": "🤔"
 		},
 		{
 			"text": "\"dimadeas.p\"",
-			"emoji": "🤔",
-			"discovered": true
+			"discovered": true,
+			"emoji": "🤔"
 		},
 		{
 			"text": "\"dimadeas.re\"",
+			"discovered": true,
+			"emoji": "🔒"
+		},
+		{
+			"text": ".sp",
+			"discovered": false,
+			"emoji": "🤔"
+		},
+		{
+			"text": "\"imadeas.p\"",
+			"discovered": true,
+			"emoji": "🤔"
+		},
+		{
+			"text": "\"imadeaspaces\"",
+			"discovered": true,
+			"emoji": "🚀"
+		},
+		{
+			"text": "\"imadeasp\"",
+			"discovered": false,
+			"emoji": "💡"
+		},
+		{
+			"text": "\"imadeaspre\"",
+			"discovered": true,
+			"emoji": "☕️"
+		},
+		{
+			"text": "\"imadeaspread\"",
+			"discovered": true,
+			"emoji": "🤔"
+		},
+		{
+			"text": "\"imadeaspreadsheet\"",
+			"discovered": false,
+			"emoji": "📊"
+		},
+		{
+			"text": "\"imadeaspreadsheeton\"",
+			"discovered": true,
+			"emoji": "📊"
+		},
+		{
+			"text": "\"imadeaspreadsheeton.li\"",
+			"discovered": true,
+			"emoji": "👩‍💻"
+		},
+		{
+			"text": "\"imadeaspreadsheeton.li/nu\"",
+			"discovered": true,
+			"emoji": "🔗"
+		},
+		{
+			"text": "\"imadeaspreadsheetonli\"",
+			"discovered": false,
+			"emoji": "🤔"
+		},
+		{
+			"text": "\"imadeaspreadsheetonlinu\"",
+			"discovered": true,
+			"emoji": "🤔"
+		},
+		{
+			"text": "\"imadeaspreadsheetonlinux\"",
+			"discovered": false,
+			"emoji": "🐧"
+		},
+		{
+			"text": "#imadeaspreadsheetonlinux",
+			"discovered": true,
+			"emoji": "📊"
+		},
+		{
+			"text": "I made a spreadsheet on Linux",
+			"discovered": false,
+			"emoji": "🐧"
+		},
+		{
+			"text": "#imadeaspreadsheet",
+			"discovered": false,
+			"emoji": "📊"
+		},
+		{
+			"text": "I made a spreadsheet",
+			"discovered": false,
+			"emoji": "👩‍💻"
+		},
+		{
+			"text": "#imadethis",
+			"discovered": false,
+			"emoji": "👩‍🍳"
+		},
+		{
+			"text": "#imade",
+			"discovered": false,
+			"emoji": "👩‍🍳"
+		},
+		{
+			"text": "I am the best",
+			"discovered": false,
+			"emoji": "👍"
+		},
+		{
+			"text": "I made",
+			"discovered": false,
+			"emoji": "👍"
+		},
+		{
+			"text": "\"imadethat\"",
+			"discovered": true,
+			"emoji": "👍"
+		},
+		{
+			"text": "#imadethat",
+			"discovered": false,
+			"emoji": "👩‍🍳"
+		},
+		{
+			"text": "I made that",
+			"discovered": true,
+			"emoji": "👏"
+		},
+		{
+			"text": "\"hash\"",
+			"discovered": false,
+			"emoji": "#️⃣"
+		},
+		{
+			"text": "\"hash ta\"",
+			"discovered": false,
+			"emoji": "#️⃣"
+		},
+		{
+			"text": "\"hash.ta\"",
+			"discovered": false,
+			"emoji": "🤔"
+		},
+		{
+			"text": "\"hash.tagi\"",
+			"discovered": false,
+			"emoji": "#️⃣"
+		},
+		{
+			"text": "\"hashtagi\"",
+			"discovered": false,
+			"emoji": "#️⃣"
+		},
+		{
+			"text": "\"fy\"",
+			"discovered": false,
+			"emoji": "👍"
+		},
+		{
+			"text": "\"dhashtagi\"",
+			"discovered": false,
+			"emoji": "🤔"
+		},
+		{
+			"text": "\"dhashtagify\"",
+			"discovered": false,
+			"emoji": "🔍"
+		},
+		{
+			"text": "\"hashtagify\"",
+			"discovered": false,
+			"emoji": "🔗"
+		},
+		{
+			"text": "#hashtagify",
+			"discovered": false,
+			"emoji": "🔗"
+		},
+		{
+			"text": "Hashtagify",
+			"discovered": false,
+			"emoji": "🔗"
+		},
+		{
+			"text": "\"prepend.hashtagify\"",
+			"discovered": false,
+			"emoji": "🔖"
+		},
+		{
+			"text": "Prepend Hashtagify",
+			"discovered": false,
+			"emoji": "🔗"
+		},
+		{
+			"text": "Add Word",
+			"discovered": false,
+			"emoji": "🔡"
+		},
+		{
+			"text": "Add White Space",
+			"discovered": false,
+			"emoji": "ℹ️"
+		},
+		{
+			"text": "\"linu\"",
+			"discovered": true,
+			"emoji": "🐱"
+		},
+		{
+			"text": "\"linu.x\"",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "\"linux\"",
+			"discovered": false,
+			"emoji": "🐧"
+		},
+		{
+			"text": "\"bobolinux\"",
+			"discovered": true,
+			"emoji": "🤖"
+		},
+		{
+			"text": "\"linux.bo\"",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "\".bo\"",
+			"discovered": true,
+			"emoji": "🇧🇴"
+		},
+		{
+			"text": "\"linuxbo\"",
+			"discovered": false,
+			"emoji": "🤔"
+		},
+		{
+			"text": ".dart",
+			"discovered": false,
+			"emoji": "🎯"
+		},
+		{
+			"text": ".ard",
+			"discovered": false,
+			"emoji": "🃏"
+		},
+		{
+			"text": "\"linuxbo.ard\"",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "\"linuxboard\"",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "#linuxboard",
+			"discovered": false,
+			"emoji": "💻"
+		},
+		{
+			"text": "Linux Board",
+			"discovered": false,
+			"emoji": "💻"
+		},
+		{
+			"text": "\"linux.co\"",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "\"linux.co.command\"",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "\".co.command\"",
+			"discovered": true,
+			"emoji": "🤖"
+		},
+		{
+			"text": "\"linuxco\"",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "\"linuxcoma\"",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "linuxco.m",
+			"discovered": true,
+			"emoji": "🤖"
+		},
+		{
+			"text": "\"man\"",
+			"discovered": false,
+			"emoji": "👨‍🦰"
+		},
+		{
+			"text": "\"linuxcoman\"",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "linuxcoman.d",
+			"discovered": true,
+			"emoji": "🤖"
+		},
+		{
+			"text": "#linuxcoman",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "Linuxcoman",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "Linux Coman",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "\"linuxcom\"",
+			"discovered": false,
+			"emoji": "💻"
+		},
+		{
+			"text": "\"linuxcommand.org\"",
+			"discovered": false,
+			"emoji": "💻"
+		},
+		{
+			"text": "\"linuxcomma\"",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "\"linux,comma\"",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "“linux,comma,d”",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "\"linux,comma,n\"",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "\"d,comma,n\"",
+			"discovered": true,
+			"emoji": "📝"
+		},
+		{
+			"text": "\"comman\"",
+			"discovered": false,
+			"emoji": "❓"
+		},
+		{
+			"text": "\"command\"",
+			"discovered": false,
+			"emoji": "💬"
+		},
+		{
+			"text": "\"commandline\"",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "\"command & conquer\"",
+			"discovered": true,
+			"emoji": "🎮"
+		},
+		{
+			"text": "\"comandlinco\"",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "\"alien\"",
+			"discovered": false,
+			"emoji": "👽"
+		},
+		{
+			"text": "“linuxa”",
+			"discovered": true,
+			"emoji": "🤔"
+		},
+		{
+			"text": "\"blnux\"",
+			"discovered": true,
+			"emoji": "🤖"
+		},
+		{
+			"text": "\"c linux\"",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "#commandline",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "Command Line",
+			"discovered": false,
+			"emoji": "💻"
+		},
+		{
+			"text": "\"colinux\"",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "\"co-colinux\"",
+			"discovered": true,
+			"emoji": "🤔"
+		},
+		{
+			"text": "\"colinux.com\"",
+			"discovered": true,
+			"emoji": "🌐"
+		},
+		{
+			"text": "\"colinux.com/command\"",
+			"discovered": true,
+			"emoji": "🔗"
+		},
+		{
+			"text": "colinux.co",
+			"discovered": true,
+			"emoji": "🔗"
+		},
+		{
+			"text": "“linux,comma,n,d”",
+			"discovered": true,
+			"emoji": "🐧"
+		},
+		{
+			"text": "colinux",
+			"discovered": true,
+			"emoji": "🐧"
+		},
+		{
+			"text": "“nd”",
+			"discovered": false,
+			"emoji": "👍"
+		},
+		{
+			"text": "“linux, and”",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "n/d",
+			"discovered": false,
+			"emoji": "❌"
+		},
+		{
+			"text": ".man",
+			"discovered": false,
+			"emoji": "👨‍💼"
+		},
+		{
+			"text": ".dan",
+			"discovered": false,
+			"emoji": "🕺"
+		},
+		{
+			"text": "\"linuxman\"",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "\"comma linuxman\"",
+			"discovered": true,
+			"emoji": "🦸‍♂️"
+		},
+		{
+			"text": ".danman",
+			"discovered": false,
+			"emoji": "🕵️‍♂️"
+		},
+		{
+			"text": "“blnuxa”",
+			"discovered": true,
+			"emoji": "🤔"
+		},
+		{
+			"text": "\"linuxcom.man\"",
+			"discovered": true,
+			"emoji": "🐧"
+		},
+		{
+			"text": "\"linuxcomman\"",
+			"discovered": false,
+			"emoji": "💻"
+		},
+		{
+			"text": "\"linuxcomman.d\"",
+			"discovered": true,
+			"emoji": "🐧"
+		},
+		{
+			"text": "\"linuxcommand.d\"",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "\"linuxcomman.d#\"",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "\"linuxcommand.d#\"",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "\"linuxcommand\"",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "#linuxcommand",
+			"discovered": false,
+			"emoji": "💻"
+		},
+		{
+			"text": "Linux Command",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "Linux Commands",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "Linux Terminal",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "Linux Command Line",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": "\"imadeaspreadsheetonlinuxcommand\"",
+			"discovered": false,
+			"emoji": "💻"
+		},
+		{
+			"text": "\"imadeaspreadsheetonlinuxboard\"",
+			"discovered": true,
+			"emoji": "💻"
+		},
+		{
+			"text": ".ardboy",
+			"discovered": true,
+			"emoji": "🤖"
+		},
+		{
+			"text": "\"board\"",
+			"discovered": false,
+			"emoji": "🛳️"
+		},
+		{
+			"text": "\"ver.b\"",
+			"discovered": true,
+			"emoji": "👍"
+		},
+		{
+			"text": "\"verbiage\"",
+			"discovered": true,
+			"emoji": "💬"
+		},
+		{
+			"text": "\"ifverb\"",
+			"discovered": false,
+			"emoji": "❓"
+		},
+		{
+			"text": "\"fyver.b\"",
+			"discovered": true,
+			"emoji": "🤔"
+		},
+		{
+			"text": "\"verbose\"",
+			"discovered": true,
+			"emoji": "🗣️"
+		},
+		{
+			"text": ".bee.i",
+			"discovered": true,
+			"emoji": "🐝"
+		},
+		{
+			"text": ".be.i",
+			"discovered": false,
+			"emoji": "👀"
+		},
+		{
+			"text": ".be/i/",
+			"discovered": true,
+			"emoji": "🤔"
+		},
+		{
+			"text": ".bi",
+			"discovered": false,
+			"emoji": "🇧🇮"
+		},
+		{
+			"text": "\"averb\"",
+			"discovered": true,
+			"emoji": "🤔"
+		},
+		{
+			"text": "\"average\"",
+			"discovered": false,
+			"emoji": "📊"
+		},
+		{
+			"text": "\"averbi\"",
+			"discovered": true,
+			"emoji": "🤔"
+		},
+		{
+			"text": "\"verb\"",
+			"discovered": false,
+			"emoji": "🤔"
+		},
+		{
+			"text": "\"noun\"",
+			"discovered": false,
+			"emoji": "📚"
+		},
+		{
+			"text": "“fyi”",
+			"discovered": false,
+			"emoji": "👀"
+		},
+		{
+			"text": "\"verbify\"",
+			"discovered": true,
+			"emoji": "🤔"
+		},
+		{
+			"text": "#verbify",
+			"discovered": true,
+			"emoji": "🔠"
+		},
+		{
+			"text": "Verbs",
+			"discovered": false,
+			"emoji": "🔃"
+		},
+		{
+			"text": "Verbify",
+			"discovered": false,
+			"emoji": "🤔"
+		},
+		{
+			"text": "Extensionify",
+			"discovered": false,
+			"emoji": "🔌"
+		},
+		{
+			"text": ".ap",
+			"discovered": false,
+			"emoji": "❌"
+		},
+		{
+			"text": "\"heap\"",
+			"discovered": false,
+			"emoji": "📚"
+		},
+		{
+			"text": "#heap",
+			"discovered": false,
+			"emoji": "📚"
+		},
+		{
+			"text": "Heap",
+			"discovered": false,
+			"emoji": "🗑️"
+		},
+		{
+			"text": "\"fyheap\"",
+			"discovered": true,
+			"emoji": "🤔"
+		},
+		{
+			"text": "\"a heap\"",
+			"discovered": true,
+			"emoji": "📚"
+		},
+		{
+			"text": "\"beach\"",
+			"discovered": false,
+			"emoji": "🏖️"
+		},
+		{
+			"text": "\"adjective\"",
+			"discovered": false,
+			"emoji": "🤔"
+		},
+		{
+			"text": "\"death\"",
+			"discovered": false,
+			"emoji": "💀"
+		},
+		{
+			"text": "\"cheap\"",
+			"discovered": false,
+			"emoji": "💸"
+		},
+		{
+			"text": "\"heap of\"",
+			"discovered": false,
+			"emoji": "📚"
+		},
+		{
+			"text": "\"heapify\"",
+			"discovered": false,
+			"emoji": "🔀"
+		},
+		{
+			"text": "#heapify",
+			"discovered": false,
+			"emoji": "📚"
+		},
+		{
+			"text": "Heapify",
+			"discovered": false,
+			"emoji": "🔄"
+		},
+		{
+			"text": "U+0021",
+			"discovered": false,
+			"emoji": "❗️"
+		},
+		{
+			"text": "U+0022",
+			"discovered": false,
+			"emoji": "❌"
+		},
+		{
+			"text": "U+0023",
+			"discovered": false,
+			"emoji": "#️⃣"
+		},
+		{
+			"text": "U+0024",
+			"discovered": false,
+			"emoji": "💲"
+		},
+		{
+			"text": "U+0027",
+			"discovered": false,
+			"emoji": "❌"
+		},
+		{
+			"text": "U+0028",
+			"discovered": false,
+			"emoji": "❌"
+		},
+		{
+			"text": "U+0029",
+			"discovered": false,
+			"emoji": "❌"
+		},
+		{
+			"text": "U+002A",
+			"discovered": false,
+			"emoji": "❌"
+		},
+		{
+			"text": "U+002b",
+			"discovered": false,
+			"emoji": "➕"
+		},
+		{
+			"text": "U+002c",
+			"discovered": false,
+			"emoji": "❌"
+		},
+		{
+			"text": "U+002d",
+			"discovered": false,
+			"emoji": "➖"
+		},
+		{
+			"text": "U+003f",
+			"discovered": false,
+			"emoji": "❓"
+		},
+		{
+			"text": "U+0041",
+			"discovered": false,
+			"emoji": "🅰️"
+		},
+		{
+			"text": "U+0042",
+			"discovered": false,
+			"emoji": "🅱️"
+		},
+		{
+			"text": "U+0043",
+			"discovered": false,
+			"emoji": "🇨"
+		},
+		{
+			"text": "U+0044",
+			"discovered": false,
+			"emoji": "🇩"
+		},
+		{
+			"text": "U+0045",
+			"discovered": false,
+			"emoji": "🇪"
+		},
+		{
+			"text": "U+0046",
+			"discovered": false,
+			"emoji": "🇫"
+		},
+		{
+			"text": "U+0047",
+			"discovered": false,
+			"emoji": "🇬"
+		},
+		{
+			"text": "U+0048",
+			"discovered": false,
+			"emoji": "🇭"
+		},
+		{
+			"text": "U+0049",
+			"discovered": false,
+			"emoji": "🇮"
+		},
+		{
+			"text": "U+004A",
+			"discovered": false,
+			"emoji": "🇯"
+		},
+		{
+			"text": "U+004b",
+			"discovered": false,
+			"emoji": "🇰"
+		},
+		{
+			"text": "U+004c",
+			"discovered": false,
+			"emoji": "🇱"
+		},
+		{
+			"text": "U+004d",
+			"discovered": false,
+			"emoji": "🇲"
+		},
+		{
+			"text": "U+004e",
+			"discovered": false,
+			"emoji": "🇳"
+		},
+		{
+			"text": "U+004f",
+			"discovered": false,
+			"emoji": "👌"
+		},
+		{
+			"text": "U+0051",
+			"discovered": false,
+			"emoji": "🇶"
+		},
+		{
+			"text": "U+0052",
+			"discovered": false,
+			"emoji": "🇷"
+		},
+		{
+			"text": "U+0053",
+			"discovered": false,
+			"emoji": "🇸"
+		},
+		{
+			"text": "U+0054",
+			"discovered": false,
+			"emoji": "🇹"
+		},
+		{
+			"text": "U+0056",
+			"discovered": false,
+			"emoji": "❌"
+		},
+		{
+			"text": "U+0057",
+			"discovered": false,
+			"emoji": "❌"
+		},
+		{
+			"text": "U+0058",
+			"discovered": false,
+			"emoji": "❌"
+		},
+		{
+			"text": "U+0059",
+			"discovered": false,
+			"emoji": "🇾"
+		},
+		{
+			"text": "U+0061",
+			"discovered": false,
+			"emoji": "🅰️"
+		},
+		{
+			"text": "U+0062",
+			"discovered": false,
+			"emoji": "🅱️"
+		},
+		{
+			"text": "U+0063",
+			"discovered": false,
+			"emoji": "🔡"
+		},
+		{
+			"text": "U+0064",
+			"discovered": false,
+			"emoji": "🇩"
+		},
+		{
+			"text": "U+0065",
+			"discovered": false,
+			"emoji": "🇪"
+		},
+		{
+			"text": "U+0066",
+			"discovered": false,
+			"emoji": "🇫"
+		},
+		{
+			"text": "U+0067",
+			"discovered": false,
+			"emoji": "❌"
+		},
+		{
+			"text": "U+0068",
+			"discovered": false,
+			"emoji": "❌"
+		},
+		{
+			"text": "U+0069",
+			"discovered": false,
+			"emoji": "ℹ️"
+		},
+		{
+			"text": "U+006A",
+			"discovered": false,
+			"emoji": "🇯"
+		},
+		{
+			"text": "Dg",
+			"discovered": false,
+			"emoji": "🤓"
+		},
+		{
+			"text": "Bc",
+			"discovered": false,
+			"emoji": "🌌"
+		},
+		{
+			"text": "\"beach ball\"",
+			"discovered": false,
+			"emoji": "🏖️"
+		},
+		{
+			"text": "\"haha\"",
+			"discovered": false,
+			"emoji": "😂"
+		},
+		{
+			"text": "\"aha\"",
+			"discovered": false,
+			"emoji": "😄"
+		},
+		{
+			"text": "\"ahappy\"",
+			"discovered": false,
+			"emoji": "😊"
+		},
+		{
+			"text": "\"happy\"",
+			"discovered": false,
+			"emoji": "😊"
+		},
+		{
+			"text": "\"happ\"",
+			"discovered": false,
+			"emoji": "😊"
+		},
+		{
+			"text": "\"happif\"",
+			"discovered": false,
+			"emoji": "😊"
+		},
+		{
+			"text": "\"fyhappif\"",
+			"discovered": true,
+			"emoji": "🤔"
+		},
+		{
+			"text": "\"happify\"",
+			"discovered": false,
+			"emoji": "😊"
+		},
+		{
+			"text": "#happify",
+			"discovered": false,
+			"emoji": "😊"
+		},
+		{
+			"text": "Happify",
+			"discovered": false,
+			"emoji": "😊"
+		},
+		{
+			"text": "\"fryhappif\"",
+			"discovered": false,
+			"emoji": "🍟"
+		},
+		{
+			"text": "\"ahappif\"",
+			"discovered": false,
+			"emoji": "😊"
+		},
+		{
+			"text": "\"happifry\"",
+			"discovered": false,
+			"emoji": "🍟"
+		},
+		{
+			"text": "#happifry",
+			"discovered": false,
+			"emoji": "🍟"
+		},
+		{
+			"text": "Happifry",
+			"discovered": false,
+			"emoji": "🍟"
+		},
+		{
+			"text": "#$",
+			"discovered": false,
+			"emoji": "❌"
+		},
+		{
+			"text": "\"dd\"",
+			"discovered": false,
+			"emoji": "👍"
+		},
+		{
+			"text": "\"ad\"",
+			"discovered": false,
+			"emoji": "💬"
+		},
+		{
+			"text": "\"add\"",
+			"discovered": false,
+			"emoji": "➕"
+		},
+		{
+			"text": "\"addition\"",
+			"discovered": false,
+			"emoji": "➕"
+		},
+		{
+			"text": ".adhash",
+			"discovered": true,
+			"emoji": "❌"
+		},
+		{
+			"text": "\"hash.ta.dhash\"",
+			"discovered": true,
+			"emoji": "🤔"
+		},
+		{
+			"text": "\"adhata\"",
+			"discovered": true,
+			"emoji": "🤔"
+		},
+		{
+			"text": "\"prepend\"",
+			"discovered": false,
+			"emoji": "🔄"
+		},
+		{
+			"text": "#prepend",
+			"discovered": false,
+			"emoji": "🔝"
+		},
+		{
+			"text": "Prepend",
+			"discovered": false,
+			"emoji": "🔙"
+		},
+		{
+			"text": "#PrependTheHashtags",
+			"discovered": false,
+			"emoji": "#️⃣"
+		},
+		{
+			"text": "#circumflex",
+			"discovered": false,
+			"emoji": "🔼"
+		},
+		{
+			"text": "#Romanian",
+			"discovered": false,
+			"emoji": "🇷🇴"
+		},
+		{
+			"text": "#romaniancircumflex",
+			"discovered": false,
+			"emoji": "🇷🇴"
+		},
+		{
+			"text": "Romanian Circumflex",
+			"discovered": false,
+			"emoji": "🇷🇴"
+		},
+		{
+			"text": "'ă'",
+			"discovered": false,
+			"emoji": "🤔"
+		},
+		{
+			"text": "\"om\"",
+			"discovered": false,
+			"emoji": "🕉️"
+		},
+		{
+			"text": "\"â\"n",
+			"discovered": false,
+			"emoji": "❌"
+		},
+		{
+			"text": "\"omâ\"",
+			"discovered": false,
+			"emoji": "👀"
+		},
+		{
+			"text": "\"aromâ\"",
+			"discovered": false,
+			"emoji": "👃"
+		},
+		{
+			"text": "\"aromân\"",
+			"discovered": false,
+			"emoji": "🇷🇴"
+		},
+		{
+			"text": "#român",
+			"discovered": false,
+			"emoji": "🇷🇴"
+		},
+		{
+			"text": "românească",
+			"discovered": false,
+			"emoji": "🇷🇴"
+		},
+		{
+			"text": "În Românească",
+			"discovered": false,
+			"emoji": "🇷🇴"
+		},
+		{
+			"text": "~t",
+			"discovered": false,
+			"emoji": "❌"
+		},
+		{
+			"text": "\"h.a.s.h.t.a.d.a.s.h",
+			"discovered": true,
+			"emoji": "🤔"
+		},
+		{
+			"text": ".la",
+			"discovered": false,
+			"emoji": "🇱🇦"
+		},
+		{
+			"text": "~ta",
+			"discovered": false,
+			"emoji": "🌊"
+		},
+		{
+			"text": ".hashta",
+			"discovered": false,
+			"emoji": "❌"
+		},
+		{
+			"text": "\"addhashta\"",
+			"discovered": false,
+			"emoji": "❌"
+		},
+		{
+			"text": "\"addhashta.g\"",
+			"discovered": false,
+			"emoji": "❌"
+		},
+		{
+			"text": "Addhashta.g",
+			"discovered": false,
+			"emoji": "❌"
+		},
+		{
+			"text": "Add Hashtag",
+			"discovered": false,
+			"emoji": "#️⃣"
+		},
+		{
+			"text": "\"av\"",
+			"discovered": false,
+			"emoji": "🇦🇻"
+		},
+		{
+			"text": "\"avii\"",
+			"discovered": false,
+			"emoji": "📸"
+		},
+		{
+			"text": "\"avici\"",
+			"discovered": false,
+			"emoji": "🎵"
+		},
+		{
+			"text": "\"aic\"",
+			"discovered": false,
+			"emoji": "🎸"
+		},
+		{
+			"text": "\"ic\"",
+			"discovered": false,
+			"emoji": "👌"
+		},
+		{
+			"text": "\"avicii\"",
+			"discovered": false,
+			"emoji": "🎵"
+		},
+		{
+			"text": "#avicii",
+			"discovered": false,
+			"emoji": "🎵"
+		},
+		{
+			"text": "Avicii",
+			"emoji": "🌞",
+			"discovered": false
+		},
+		{
+			"text": "\"aprepend.co\"",
+			"emoji": "🔗",
+			"discovered": false
+		},
+		{
+			"text": "\"aprepend.co.l\"",
 			"emoji": "🔒",
 			"discovered": true
 		},
 		{
-			"text": ".sp",
-			"emoji": "🤔",
-			"discovered": false
-		},
-		{
-			"text": "\"imadeas.p\"",
-			"emoji": "🤔",
-			"discovered": true
-		},
-		{
-			"text": "\"imadeaspaces\"",
-			"emoji": "🚀",
-			"discovered": true
-		},
-		{
-			"text": "\"imadeasp\"",
-			"emoji": "💡",
-			"discovered": false
-		},
-		{
-			"text": "\"imadeaspre\"",
-			"emoji": "☕️",
-			"discovered": true
-		},
-		{
-			"text": "\"imadeaspread\"",
-			"emoji": "🤔",
-			"discovered": true
-		},
-		{
-			"text": "\"imadeaspreadsheet\"",
-			"emoji": "📊",
-			"discovered": false
-		},
-		{
-			"text": "\"imadeaspreadsheeton\"",
-			"emoji": "📊",
-			"discovered": true
-		},
-		{
-			"text": "\"imadeaspreadsheeton.li\"",
-			"emoji": "👩‍💻",
-			"discovered": true
-		},
-		{
-			"text": "\"imadeaspreadsheeton.li/nu\"",
-			"emoji": "🔗",
-			"discovered": true
-		},
-		{
-			"text": "\"imadeaspreadsheetonli\"",
-			"emoji": "🤔",
-			"discovered": false
-		},
-		{
-			"text": "\"imadeaspreadsheetonlinu\"",
-			"emoji": "🤔",
-			"discovered": true
-		},
-		{
-			"text": "\"imadeaspreadsheetonlinux\"",
-			"emoji": "🐧",
-			"discovered": false
-		},
-		{
-			"text": "#imadeaspreadsheetonlinux",
-			"emoji": "📊",
-			"discovered": true
-		},
-		{
-			"text": "I made a spreadsheet on Linux",
-			"emoji": "🐧",
-			"discovered": false
-		},
-		{
-			"text": "#imadeaspreadsheet",
-			"emoji": "📊",
-			"discovered": false
-		},
-		{
-			"text": "I made a spreadsheet",
-			"emoji": "👩‍💻",
-			"discovered": false
-		},
-		{
-			"text": "#imadethis",
-			"emoji": "👩‍🍳",
-			"discovered": false
-		},
-		{
-			"text": "#imade",
-			"emoji": "👩‍🍳",
-			"discovered": false
-		},
-		{
-			"text": "I am the best",
-			"emoji": "👍",
-			"discovered": false
-		},
-		{
-			"text": "I made",
-			"emoji": "👍",
-			"discovered": false
-		},
-		{
-			"text": "\"imadethat\"",
-			"emoji": "👍",
-			"discovered": true
-		},
-		{
-			"text": "#imadethat",
-			"emoji": "👩‍🍳",
-			"discovered": false
-		},
-		{
-			"text": "I made that",
-			"emoji": "👏",
-			"discovered": true
-		},
-		{
-			"text": "\"hash\"",
-			"emoji": "#️⃣",
-			"discovered": false
-		},
-		{
-			"text": "\"hash ta\"",
-			"emoji": "#️⃣",
-			"discovered": false
-		},
-		{
-			"text": "\"hash.ta\"",
-			"emoji": "🤔",
-			"discovered": false
-		},
-		{
-			"text": "\"hash.tagi\"",
-			"emoji": "#️⃣",
-			"discovered": false
-		},
-		{
-			"text": "\"hashtagi\"",
-			"emoji": "#️⃣",
-			"discovered": false
-		},
-		{
-			"text": "\"fy\"",
-			"emoji": "👍",
-			"discovered": false
-		},
-		{
-			"text": "\"dhashtagi\"",
-			"emoji": "🤔",
-			"discovered": false
-		},
-		{
-			"text": "\"dhashtagify\"",
+			"text": "\"aprepend.co.l:on\"",
 			"emoji": "🔍",
-			"discovered": false
-		},
-		{
-			"text": "\"hashtagify\"",
-			"emoji": "🔗",
-			"discovered": false
-		},
-		{
-			"text": "#hashtagify",
-			"emoji": "🔗",
-			"discovered": false
-		},
-		{
-			"text": "Hashtagify",
-			"emoji": "🔗",
-			"discovered": false
-		},
-		{
-			"text": "\"prepend.hashtagify\"",
-			"emoji": "🔖",
-			"discovered": false
-		},
-		{
-			"text": "Prepend Hashtagify",
-			"emoji": "🔗",
-			"discovered": false
-		},
-		{
-			"text": "Add Word",
-			"emoji": "🔡",
-			"discovered": false
-		},
-		{
-			"text": "Add White Space",
-			"emoji": "ℹ️",
-			"discovered": false
-		},
-		{
-			"text": "\"linu\"",
-			"emoji": "🐱",
 			"discovered": true
 		},
 		{
-			"text": "\"linu.x\"",
-			"emoji": "💻",
+			"text": "\"aprependcolon\"",
+			"emoji": "❌",
 			"discovered": true
 		},
 		{
-			"text": "\"linux\"",
-			"emoji": "🐧",
-			"discovered": false
-		},
-		{
-			"text": "\"bobolinux\"",
-			"emoji": "🤖",
-			"discovered": true
-		},
-		{
-			"text": "\"linux.bo\"",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "\".bo\"",
-			"emoji": "🇧🇴",
-			"discovered": true
-		},
-		{
-			"text": "\"linuxbo\"",
-			"emoji": "🤔",
-			"discovered": false
-		},
-		{
-			"text": ".dart",
-			"emoji": "🎯",
-			"discovered": false
-		},
-		{
-			"text": ".ard",
-			"emoji": "🃏",
-			"discovered": false
-		},
-		{
-			"text": "\"linuxbo.ard\"",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "\"linuxboard\"",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "#linuxboard",
-			"emoji": "💻",
-			"discovered": false
-		},
-		{
-			"text": "Linux Board",
-			"emoji": "💻",
-			"discovered": false
-		},
-		{
-			"text": "\"linux.co\"",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "\"linux.co.command\"",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "\".co.command\"",
-			"emoji": "🤖",
-			"discovered": true
-		},
-		{
-			"text": "\"linuxco\"",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "\"linuxcoma\"",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "linuxco.m",
-			"emoji": "🤖",
-			"discovered": true
-		},
-		{
-			"text": "\"man\"",
-			"emoji": "👨‍🦰",
-			"discovered": false
-		},
-		{
-			"text": "\"linuxcoman\"",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "linuxcoman.d",
-			"emoji": "🤖",
-			"discovered": true
-		},
-		{
-			"text": "#linuxcoman",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "Linuxcoman",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "Linux Coman",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "\"linuxcom\"",
-			"emoji": "💻",
-			"discovered": false
-		},
-		{
-			"text": "\"linuxcommand.org\"",
-			"emoji": "💻",
-			"discovered": false
-		},
-		{
-			"text": "\"linuxcomma\"",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "\"linux,comma\"",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "“linux,comma,d”",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "\"linux,comma,n\"",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "\"d,comma,n\"",
-			"emoji": "📝",
-			"discovered": true
-		},
-		{
-			"text": "\"comman\"",
-			"emoji": "❓",
-			"discovered": false
-		},
-		{
-			"text": "\"command\"",
-			"emoji": "💬",
-			"discovered": false
-		},
-		{
-			"text": "\"commandline\"",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "\"command & conquer\"",
-			"emoji": "🎮",
-			"discovered": true
-		},
-		{
-			"text": "\"comandlinco\"",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "\"alien\"",
-			"emoji": "👽",
-			"discovered": false
-		},
-		{
-			"text": "“linuxa”",
-			"emoji": "🤔",
-			"discovered": true
-		},
-		{
-			"text": "\"blnux\"",
-			"emoji": "🤖",
-			"discovered": true
-		},
-		{
-			"text": "\"c linux\"",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "#commandline",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "Command Line",
-			"emoji": "💻",
-			"discovered": false
-		},
-		{
-			"text": "\"colinux\"",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "\"co-colinux\"",
-			"emoji": "🤔",
-			"discovered": true
-		},
-		{
-			"text": "\"colinux.com\"",
-			"emoji": "🌐",
-			"discovered": true
-		},
-		{
-			"text": "\"colinux.com/command\"",
-			"emoji": "🔗",
-			"discovered": true
-		},
-		{
-			"text": "colinux.co",
-			"emoji": "🔗",
-			"discovered": true
-		},
-		{
-			"text": "“linux,comma,n,d”",
-			"emoji": "🐧",
-			"discovered": true
-		},
-		{
-			"text": "colinux",
-			"emoji": "🐧",
-			"discovered": true
-		},
-		{
-			"text": "“nd”",
-			"emoji": "👍",
-			"discovered": false
-		},
-		{
-			"text": "“linux, and”",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "n/d",
+			"text": "\"prependcolon\"",
 			"emoji": "❌",
 			"discovered": false
 		},
 		{
-			"text": ".man",
-			"emoji": "👨‍💼",
-			"discovered": false
-		},
-		{
-			"text": ".dan",
-			"emoji": "🕺",
-			"discovered": false
-		},
-		{
-			"text": "\"linuxman\"",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "\"comma linuxman\"",
-			"emoji": "🦸‍♂️",
-			"discovered": true
-		},
-		{
-			"text": ".danman",
-			"emoji": "🕵️‍♂️",
-			"discovered": false
-		},
-		{
-			"text": "“blnuxa”",
-			"emoji": "🤔",
-			"discovered": true
-		},
-		{
-			"text": "\"linuxcom.man\"",
-			"emoji": "🐧",
-			"discovered": true
-		},
-		{
-			"text": "\"linuxcomman\"",
-			"emoji": "💻",
-			"discovered": false
-		},
-		{
-			"text": "\"linuxcomman.d\"",
-			"emoji": "🐧",
-			"discovered": true
-		},
-		{
-			"text": "\"linuxcommand.d\"",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "\"linuxcomman.d#\"",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "\"linuxcommand.d#\"",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "\"linuxcommand\"",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "#linuxcommand",
-			"emoji": "💻",
-			"discovered": false
-		},
-		{
-			"text": "Linux Command",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "Linux Commands",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "Linux Terminal",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "Linux Command Line",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": "\"imadeaspreadsheetonlinuxcommand\"",
-			"emoji": "💻",
-			"discovered": false
-		},
-		{
-			"text": "\"imadeaspreadsheetonlinuxboard\"",
-			"emoji": "💻",
-			"discovered": true
-		},
-		{
-			"text": ".ardboy",
-			"emoji": "🤖",
-			"discovered": true
-		},
-		{
-			"text": "\"board\"",
-			"emoji": "🛳️",
-			"discovered": false
-		},
-		{
-			"text": "\"ver.b\"",
-			"emoji": "👍",
-			"discovered": true
-		},
-		{
-			"text": "\"verbiage\"",
-			"emoji": "💬",
-			"discovered": true
-		},
-		{
-			"text": "\"ifverb\"",
-			"emoji": "❓",
-			"discovered": false
-		},
-		{
-			"text": "\"fyver.b\"",
-			"emoji": "🤔",
-			"discovered": true
-		},
-		{
-			"text": "\"verbose\"",
-			"emoji": "🗣️",
-			"discovered": true
-		},
-		{
-			"text": ".bee.i",
-			"emoji": "🐝",
-			"discovered": true
-		},
-		{
-			"text": ".be.i",
-			"emoji": "👀",
-			"discovered": false
-		},
-		{
-			"text": ".be/i/",
-			"emoji": "🤔",
-			"discovered": true
-		},
-		{
-			"text": ".bi",
-			"emoji": "🇧🇮",
-			"discovered": false
-		},
-		{
-			"text": "\"averb\"",
-			"emoji": "🤔",
-			"discovered": true
-		},
-		{
-			"text": "\"average\"",
-			"emoji": "📊",
-			"discovered": false
-		},
-		{
-			"text": "\"averbi\"",
-			"emoji": "🤔",
-			"discovered": true
-		},
-		{
-			"text": "\"verb\"",
-			"emoji": "🤔",
-			"discovered": false
-		},
-		{
-			"text": "\"noun\"",
-			"emoji": "📚",
-			"discovered": false
-		},
-		{
-			"text": "“fyi”",
-			"emoji": "👀",
-			"discovered": false
-		},
-		{
-			"text": "\"verbify\"",
-			"emoji": "🤔",
-			"discovered": true
-		},
-		{
-			"text": "#verbify",
-			"emoji": "🔠",
-			"discovered": true
-		},
-		{
-			"text": "Verbs",
-			"emoji": "🔃",
-			"discovered": false
-		},
-		{
-			"text": "Verbify",
-			"emoji": "🤔",
-			"discovered": false
-		},
-		{
-			"text": "Extensionify",
-			"emoji": "🔌",
-			"discovered": false
-		},
-		{
-			"text": ".ap",
-			"emoji": "❌",
-			"discovered": false
-		},
-		{
-			"text": "\"heap\"",
-			"emoji": "📚",
-			"discovered": false
-		},
-		{
-			"text": "#heap",
-			"emoji": "📚",
-			"discovered": false
-		},
-		{
-			"text": "Heap",
-			"emoji": "🗑️",
-			"discovered": false
-		},
-		{
-			"text": "\"fyheap\"",
-			"emoji": "🤔",
-			"discovered": true
-		},
-		{
-			"text": "\"a heap\"",
-			"emoji": "📚",
-			"discovered": true
-		},
-		{
-			"text": "\"beach\"",
-			"emoji": "🏖️",
-			"discovered": false
-		},
-		{
-			"text": "\"adjective\"",
-			"emoji": "🤔",
-			"discovered": false
-		},
-		{
-			"text": "\"death\"",
-			"emoji": "💀",
-			"discovered": false
-		},
-		{
-			"text": "\"cheap\"",
-			"emoji": "💸",
-			"discovered": false
-		},
-		{
-			"text": "\"heap of\"",
-			"emoji": "📚",
-			"discovered": false
-		},
-		{
-			"text": "\"heapify\"",
-			"emoji": "🔀",
-			"discovered": false
-		},
-		{
-			"text": "#heapify",
-			"emoji": "📚",
-			"discovered": false
-		},
-		{
-			"text": "Heapify",
-			"emoji": "🔄",
-			"discovered": false
-		},
-		{
-			"text": "U+0021",
-			"emoji": "❗️",
-			"discovered": false
-		},
-		{
-			"text": "U+0022",
-			"emoji": "❌",
-			"discovered": false
-		},
-		{
-			"text": "U+0023",
+			"text": "#Hashtag",
 			"emoji": "#️⃣",
 			"discovered": false
 		},
 		{
-			"text": "U+0024",
-			"emoji": "💲",
+			"text": "#The Hashtag",
+			"emoji": "#️⃣",
 			"discovered": false
 		},
 		{
-			"text": "U+0027",
+			"text": "#theprependcolon",
+			"emoji": "🤔",
+			"discovered": false
+		},
+		{
+			"text": "Prepend Colon",
+			"emoji": "🔵",
+			"discovered": false
+		},
+		{
+			"text": "Prepend Colon Hashtag",
+			"emoji": "👌",
+			"discovered": false
+		},
+		{
+			"text": "\"aprepend.h\"",
 			"emoji": "❌",
 			"discovered": false
 		},
 		{
-			"text": "U+0028",
-			"emoji": "❌",
+			"text": "\"aprepend.py\"",
+			"emoji": "🐍",
+			"discovered": true
+		},
+		{
+			"text": "\"aprepend.hi\"",
+			"emoji": "🤔",
+			"discovered": true
+		},
+		{
+			"text": "\"aprepend.hi.y\"",
+			"emoji": "🤔",
+			"discovered": true
+		},
+		{
+			"text": "\"aprepend.hi.y.p\"",
+			"emoji": "🤔",
+			"discovered": true
+		},
+		{
+			"text": "\"aprepend.hi.y.p.en\"",
+			"emoji": "🤔",
+			"discovered": true
+		},
+		{
+			"text": "\"aprependhiypen\"",
+			"emoji": "🤔",
+			"discovered": true
+		},
+		{
+			"text": "\"aprependhiypenhashtag\"",
+			"emoji": "🤔",
+			"discovered": true
+		},
+		{
+			"text": "\"rependhiypen\"",
+			"emoji": "🤔",
+			"discovered": true
+		},
+		{
+			"text": "\"aprepend.hi.y.p.h\"",
+			"emoji": "🤔",
+			"discovered": true
+		},
+		{
+			"text": "\"aprepend.hi.y.p.h.en\"",
+			"emoji": "🤔",
+			"discovered": true
+		},
+		{
+			"text": "\"aprependhiyphe\"",
+			"emoji": "🤔",
+			"discovered": true
+		},
+		{
+			"text": "\"Prepend Hi Y\"",
+			"emoji": "👋",
+			"discovered": true
+		},
+		{
+			"text": ".hy",
+			"emoji": "👋",
 			"discovered": false
 		},
 		{
-			"text": "U+0029",
-			"emoji": "❌",
+			"text": "\"aprepend.hy\"",
+			"emoji": "🤔",
 			"discovered": false
 		},
 		{
-			"text": "U+002A",
-			"emoji": "❌",
+			"text": "\"prepend.hy\"",
+			"emoji": "🤖",
 			"discovered": false
 		},
 		{
-			"text": "U+002b",
-			"emoji": "➕",
-			"discovered": false
-		},
-		{
-			"text": "U+002c",
-			"emoji": "❌",
-			"discovered": false
-		},
-		{
-			"text": "U+002d",
+			"text": "\"prepend-hyphen\"",
 			"emoji": "➖",
 			"discovered": false
 		},
 		{
-			"text": "U+003f",
-			"emoji": "❓",
+			"text": "#prepend-hyphen",
+			"emoji": "➖",
 			"discovered": false
 		},
 		{
-			"text": "U+0041",
-			"emoji": "🅰️",
-			"discovered": false
-		},
-		{
-			"text": "U+0042",
-			"emoji": "🅱️",
-			"discovered": false
-		},
-		{
-			"text": "U+0043",
-			"emoji": "🇨",
-			"discovered": false
-		},
-		{
-			"text": "U+0044",
-			"emoji": "🇩",
-			"discovered": false
-		},
-		{
-			"text": "U+0045",
-			"emoji": "🇪",
-			"discovered": false
-		},
-		{
-			"text": "U+0046",
-			"emoji": "🇫",
-			"discovered": false
-		},
-		{
-			"text": "U+0047",
-			"emoji": "🇬",
-			"discovered": false
-		},
-		{
-			"text": "U+0048",
-			"emoji": "🇭",
-			"discovered": false
-		},
-		{
-			"text": "U+0049",
-			"emoji": "🇮",
-			"discovered": false
-		},
-		{
-			"text": "U+004A",
-			"emoji": "🇯",
-			"discovered": false
-		},
-		{
-			"text": "U+004b",
-			"emoji": "🇰",
-			"discovered": false
-		},
-		{
-			"text": "U+004c",
-			"emoji": "🇱",
-			"discovered": false
-		},
-		{
-			"text": "U+004d",
-			"emoji": "🇲",
-			"discovered": false
-		},
-		{
-			"text": "U+004e",
-			"emoji": "🇳",
-			"discovered": false
-		},
-		{
-			"text": "U+004f",
-			"emoji": "👌",
-			"discovered": false
-		},
-		{
-			"text": "U+0051",
-			"emoji": "🇶",
-			"discovered": false
-		},
-		{
-			"text": "U+0052",
-			"emoji": "🇷",
-			"discovered": false
-		},
-		{
-			"text": "U+0053",
-			"emoji": "🇸",
-			"discovered": false
-		},
-		{
-			"text": "U+0054",
-			"emoji": "🇹",
-			"discovered": false
-		},
-		{
-			"text": "U+0056",
+			"text": "Delete The Hyphens",
 			"emoji": "❌",
 			"discovered": false
 		},
 		{
-			"text": "U+0057",
-			"emoji": "❌",
+			"text": "Prepend Hyphen",
+			"emoji": "➖",
 			"discovered": false
 		},
 		{
-			"text": "U+0058",
-			"emoji": "❌",
-			"discovered": false
-		},
-		{
-			"text": "U+0059",
-			"emoji": "🇾",
-			"discovered": false
-		},
-		{
-			"text": "U+0061",
-			"emoji": "🅰️",
-			"discovered": false
-		},
-		{
-			"text": "U+0062",
-			"emoji": "🅱️",
-			"discovered": false
-		},
-		{
-			"text": "U+0063",
-			"emoji": "🔡",
-			"discovered": false
-		},
-		{
-			"text": "U+0064",
-			"emoji": "🇩",
-			"discovered": false
-		},
-		{
-			"text": "U+0065",
-			"emoji": "🇪",
-			"discovered": false
-		},
-		{
-			"text": "U+0066",
-			"emoji": "🇫",
-			"discovered": false
-		},
-		{
-			"text": "U+0067",
-			"emoji": "❌",
-			"discovered": false
-		},
-		{
-			"text": "U+0068",
-			"emoji": "❌",
-			"discovered": false
-		},
-		{
-			"text": "U+0069",
-			"emoji": "ℹ️",
-			"discovered": false
-		},
-		{
-			"text": "U+006A",
-			"emoji": "🇯",
-			"discovered": false
-		},
-		{
-			"text": "Dg",
-			"emoji": "🤓",
-			"discovered": false
-		},
-		{
-			"text": "Bc",
-			"emoji": "🌌",
-			"discovered": false
-		},
-		{
-			"text": "\"beach ball\"",
-			"emoji": "🏖️",
-			"discovered": false
-		},
-		{
-			"text": "\"haha\"",
-			"emoji": "😂",
-			"discovered": false
-		},
-		{
-			"text": "\"aha\"",
-			"emoji": "😄",
-			"discovered": false
-		},
-		{
-			"text": "\"ahappy\"",
-			"emoji": "😊",
-			"discovered": false
-		},
-		{
-			"text": "\"happy\"",
-			"emoji": "😊",
-			"discovered": false
-		},
-		{
-			"text": "\"happ\"",
-			"emoji": "😊",
-			"discovered": false
-		},
-		{
-			"text": "\"happif\"",
-			"emoji": "😊",
-			"discovered": false
-		},
-		{
-			"text": "\"fyhappif\"",
-			"emoji": "🤔",
+			"text": "Prepend Colon-Hyphen",
+			"emoji": ":-",
 			"discovered": true
 		},
 		{
-			"text": "\"happify\"",
-			"emoji": "😊",
+			"text": "\"aprependplus\"",
+			"emoji": "🤔",
 			"discovered": false
 		},
 		{
-			"text": "#happify",
-			"emoji": "😊",
-			"discovered": false
-		},
-		{
-			"text": "Happify",
-			"emoji": "😊",
-			"discovered": false
-		},
-		{
-			"text": "\"fryhappif\"",
-			"emoji": "🍟",
-			"discovered": false
-		},
-		{
-			"text": "\"ahappif\"",
-			"emoji": "😊",
-			"discovered": false
-		},
-		{
-			"text": "\"happifry\"",
-			"emoji": "🍟",
-			"discovered": false
-		},
-		{
-			"text": "#happifry",
-			"emoji": "🍟",
-			"discovered": false
-		},
-		{
-			"text": "Happifry",
-			"emoji": "🍟",
-			"discovered": false
-		},
-		{
-			"text": "#$",
-			"emoji": "❌",
-			"discovered": false
-		},
-		{
-			"text": "\"dd\"",
-			"emoji": "👍",
-			"discovered": false
-		},
-		{
-			"text": "\"ad\"",
-			"emoji": "💬",
-			"discovered": false
-		},
-		{
-			"text": "\"add\"",
+			"text": "\"append\"",
 			"emoji": "➕",
 			"discovered": false
 		},
 		{
-			"text": "\"addition\"",
-			"emoji": "➕",
+			"text": "#append",
+			"emoji": "📌",
 			"discovered": false
 		},
 		{
-			"text": ".adhash",
-			"emoji": "❌",
-			"discovered": true
-		},
-		{
-			"text": "\"hash.ta.dhash\"",
-			"emoji": "🤔",
-			"discovered": true
-		},
-		{
-			"text": "\"adhata\"",
-			"emoji": "🤔",
-			"discovered": true
-		},
-		{
-			"text": "\"prepend\"",
-			"emoji": "🔄",
+			"text": "The Special Character",
+			"emoji": "🔣",
 			"discovered": false
 		},
 		{
-			"text": "#prepend",
+			"text": "#clear",
+			"emoji": "🧹",
+			"discovered": true
+		},
+		{
+			"text": "#thePrepend",
 			"emoji": "🔝",
 			"discovered": false
 		},
 		{
-			"text": "Prepend",
-			"emoji": "🔙",
-			"discovered": false
-		},
-		{
-			"text": "#PrependTheHashtags",
-			"emoji": "#️⃣",
-			"discovered": false
-		},
-		{
-			"text": "#circumflex",
-			"emoji": "🔼",
-			"discovered": false
-		},
-		{
-			"text": "#Romanian",
-			"emoji": "🇷🇴",
-			"discovered": false
-		},
-		{
-			"text": "#romaniancircumflex",
-			"emoji": "🇷🇴",
-			"discovered": false
-		},
-		{
-			"text": "Romanian Circumflex",
-			"emoji": "🇷🇴",
-			"discovered": false
-		},
-		{
-			"text": "'ă'",
+			"text": "\"aprependi\"",
 			"emoji": "🤔",
 			"discovered": false
 		},
 		{
-			"text": "\"om\"",
-			"emoji": "🕉️",
-			"discovered": false
-		},
-		{
-			"text": "\"â\"n",
-			"emoji": "❌",
-			"discovered": false
-		},
-		{
-			"text": "\"omâ\"",
-			"emoji": "👀",
-			"discovered": false
-		},
-		{
-			"text": "\"aromâ\"",
-			"emoji": "👃",
-			"discovered": false
-		},
-		{
-			"text": "\"aromân\"",
-			"emoji": "🇷🇴",
-			"discovered": false
-		},
-		{
-			"text": "#român",
-			"emoji": "🇷🇴",
-			"discovered": false
-		},
-		{
-			"text": "românească",
-			"emoji": "🇷🇴",
-			"discovered": false
-		},
-		{
-			"text": "În Românească",
-			"emoji": "🇷🇴",
-			"discovered": false
-		},
-		{
-			"text": "~t",
-			"emoji": "❌",
-			"discovered": false
-		},
-		{
-			"text": "\"h.a.s.h.t.a.d.a.s.h",
+			"text": "\"aprependi ti\"",
 			"emoji": "🤔",
 			"discovered": true
 		},
 		{
-			"text": ".la",
-			"emoji": "🇱🇦",
+			"text": "\"aprepend.t\"",
+			"emoji": "🤔",
 			"discovered": false
 		},
 		{
-			"text": "~ta",
+			"text": "\"aprepend.i\"",
+			"emoji": "🤔",
+			"discovered": true
+		},
+		{
+			"text": "\"aprepend.it\"",
+			"emoji": "🔗",
+			"discovered": true
+		},
+		{
+			"text": "Retro",
+			"emoji": "📺",
+			"discovered": false
+		},
+		{
+			"text": "Retroverse",
+			"emoji": "🌌",
+			"discovered": false
+		},
+		{
+			"text": "Serious",
+			"emoji": "😐",
+			"discovered": false
+		},
+		{
+			"text": "Turtle Dove",
+			"emoji": "🐦",
+			"discovered": false
+		},
+		{
+			"text": "Noah’s Ark",
+			"emoji": "🐘",
+			"discovered": false
+		},
+		{
+			"text": "Canberra",
+			"emoji": "🇦🇺",
+			"discovered": false
+		},
+		{
+			"text": "Vegemite",
+			"emoji": "🥄",
+			"discovered": false
+		},
+		{
+			"text": "Wiener",
+			"emoji": "🌭",
+			"discovered": false
+		},
+		{
+			"text": "Parthenon",
+			"emoji": "🏛️",
+			"discovered": false
+		},
+		{
+			"text": "Aksara Parthenon",
+			"emoji": "🏛️",
+			"discovered": true
+		},
+		{
+			"text": "\"rependhiypen Huckleberry Finn\"",
+			"emoji": "📚",
+			"discovered": true
+		},
+		{
+			"text": "\"aprepend.ti\"",
+			"emoji": "🤔",
+			"discovered": false
+		},
+		{
+			"text": "\"aprepend.ti.l\"",
+			"emoji": "🤔",
+			"discovered": true
+		},
+		{
+			"text": "\"aprepend.tild.de\"",
+			"emoji": "🤔",
+			"discovered": true
+		},
+		{
+			"text": "\"aprepend.til\"",
+			"emoji": "🤔",
+			"discovered": false
+		},
+		{
+			"text": "\"aprepend.de\"",
+			"emoji": "🤔",
+			"discovered": false
+		},
+		{
+			"text": "\"prepend.til\"",
+			"emoji": "🤔",
+			"discovered": false
+		},
+		{
+			"text": "\"prepend.til.de\"",
+			"emoji": "🤔",
+			"discovered": false
+		},
+		{
+			"text": "#prepend.til.de",
+			"emoji": "🤔",
+			"discovered": false
+		},
+		{
+			"text": "Prepend Tilde",
+			"emoji": "🔴",
+			"discovered": false
+		},
+		{
+			"text": "Taliban",
+			"emoji": "👳",
+			"discovered": false
+		},
+		{
+			"text": "Samaritan",
+			"emoji": "🕊️",
+			"discovered": false
+		},
+		{
+			"text": "Converting To Unicode",
+			"emoji": "💻",
+			"discovered": false
+		},
+		{
+			"text": "\"aprepend.dot\"",
+			"emoji": "❌",
+			"discovered": false
+		},
+		{
+			"text": "\"prepend.dot\"",
+			"emoji": "🔵",
+			"discovered": false
+		},
+		{
+			"text": "#prepend.dot",
+			"emoji": "🔵",
+			"discovered": false
+		},
+		{
+			"text": "Prepend Dot",
+			"emoji": "🔵",
+			"discovered": true
+		},
+		{
+			"text": "\"amp\"",
+			"emoji": "🔊",
+			"discovered": false
+		},
+		{
+			"text": "\"agran prepend dot\"",
+			"emoji": "🔴",
+			"discovered": true
+		},
+		{
+			"text": "\"aprepend.pe\"",
+			"emoji": "🤔",
+			"discovered": false
+		},
+		{
+			"text": "\"aprepend.re\"",
+			"emoji": "🤔",
+			"discovered": false
+		},
+		{
+			"text": ".ri",
+			"emoji": "🤔",
+			"discovered": false
+		},
+		{
+			"text": "\"aprepend.peri\"",
+			"emoji": "🤔",
+			"discovered": false
+		},
+		{
+			"text": "\"aprepend.peri.o\"",
+			"emoji": "🔍",
+			"discovered": false
+		},
+		{
+			"text": "\"aprepend.peri.od\"",
+			"emoji": "🔤",
+			"discovered": false
+		},
+		{
+			"text": "\"peri.od\"",
+			"emoji": "🩸",
+			"discovered": true
+		},
+		{
+			"text": "\"prepend.peri.od\"",
+			"emoji": "🔠",
+			"discovered": false
+		},
+		{
+			"text": "\"prepend.peri.od#the#hashtags\"",
+			"emoji": "🔤",
+			"discovered": true
+		},
+		{
+			"text": "\"prepend.peri.od#\"",
+			"emoji": "🔍",
+			"discovered": false
+		},
+		{
+			"text": "\"prepend.period\"",
+			"emoji": "🔵",
+			"discovered": true
+		},
+		{
+			"text": "\"prepend.period#\"",
+			"emoji": "🔴",
+			"discovered": true
+		},
+		{
+			"text": "#prepend.period",
+			"emoji": "👍",
+			"discovered": true
+		},
+		{
+			"text": "Prepend Period",
+			"emoji": "🔴",
+			"discovered": false
+		},
+		{
+			"text": "Jump. Then. Fall.",
+			"emoji": "🏃‍♂️🔄",
+			"discovered": true
+		},
+		{
+			"text": "Prepend Performing",
+			"emoji": "🎭",
+			"discovered": true
+		},
+		{
+			"text": "Piston Period",
+			"emoji": "🔧",
+			"discovered": true
+		},
+		{
+			"text": "Leave Period",
+			"emoji": "🏖️",
+			"discovered": true
+		},
+		{
+			"text": "The Best Fucking Maid",
+			"emoji": "👩‍🦰",
+			"discovered": true
+		},
+		{
+			"text": "The Fucking Bear Hug",
+			"emoji": "🐻🤗",
+			"discovered": true
+		},
+		{
+			"text": "The Fucking Best Hug",
+			"emoji": "🤗",
+			"discovered": true
+		},
+		{
+			"text": "The Fucking Best Fucking Hug",
+			"emoji": "🤗",
+			"discovered": true
+		},
+		{
+			"text": "The Rest",
+			"emoji": "🛌",
+			"discovered": false
+		},
+		{
+			"text": "The Best Couple",
+			"emoji": "💑",
+			"discovered": false
+		},
+		{
+			"text": "Grizzly",
+			"emoji": "🐻",
+			"discovered": false
+		},
+		{
+			"text": "Grizzly Bear",
+			"emoji": "🐻",
+			"discovered": false
+		},
+		{
+			"text": "Fucking Awesome",
+			"emoji": "💩",
+			"discovered": false
+		},
+		{
+			"text": "Fester",
+			"emoji": "👻",
+			"discovered": false
+		},
+		{
+			"text": "Anime Fuck",
+			"emoji": "🚫",
+			"discovered": false
+		},
+		{
+			"text": "The Best Sex",
+			"emoji": "💋🔥💦",
+			"discovered": false
+		},
+		{
+			"text": "Fuck The Best",
+			"emoji": "🤬",
+			"discovered": true
+		},
+		{
+			"text": "Fucking The Best",
+			"emoji": "👍",
+			"discovered": true
+		},
+		{
+			"text": "The Best Fucking The Best",
+			"emoji": "👌",
+			"discovered": true
+		},
+		{
+			"text": "Festivus",
+			"emoji": "🎄",
+			"discovered": false
+		},
+		{
+			"text": "Anime Fuck The Best",
+			"emoji": "❌",
+			"discovered": true
+		},
+		{
+			"text": "The Best Fucking Hug",
+			"emoji": "🤗",
+			"discovered": true
+		},
+		{
+			"text": "The Best Fucking Bear Hug",
+			"emoji": "🐻🤗",
+			"discovered": true
+		},
+		{
+			"text": "Check The Fucking Pins",
+			"emoji": "📌",
+			"discovered": false
+		},
+		{
+			"text": "Cheque",
+			"emoji": "🧾",
+			"discovered": false
+		},
+		{
+			"text": "The Fucking Best Fucking Bear Hug",
+			"emoji": "🐻🤗",
+			"discovered": true
+		},
+		{
+			"text": "The Best is Yet to Come",
+			"emoji": "🌟",
+			"discovered": false
+		},
+		{
+			"text": "The Best Fucking Maid Is Yet To Come",
+			"emoji": "🤔",
+			"discovered": true
+		},
+		{
+			"text": "Jumping Frog",
+			"emoji": "🐸",
+			"discovered": false
+		},
+		{
+			"text": "Frogger",
+			"emoji": "🐸",
+			"discovered": false
+		},
+		{
+			"text": "Piston Pete",
+			"emoji": "🔧",
+			"discovered": false
+		},
+		{
+			"text": "\"marry\"",
+			"emoji": "💍",
+			"discovered": false
+		},
+		{
+			"text": "\"marry me\"",
+			"emoji": "💍",
+			"discovered": true
+		},
+		{
+			"text": "\"marryma\"",
+			"emoji": "💍",
+			"discovered": true
+		},
+		{
+			"text": "\"marryme\"",
+			"emoji": "💍",
+			"discovered": true
+		},
+		{
+			"text": "#marryme",
+			"emoji": "💍",
+			"discovered": true
+		},
+		{
+			"text": "Marry Me",
+			"emoji": "💍💒",
+			"discovered": false
+		},
+		{
+			"text": "Pretty Please",
+			"emoji": "🙏",
+			"discovered": false
+		},
+		{
+			"text": "Please Please",
+			"emoji": "🙏",
+			"discovered": false
+		},
+		{
+			"text": "Fucking Please",
+			"emoji": "🤬",
+			"discovered": false
+		},
+		{
+			"text": "\"please.ch\"",
+			"emoji": "🙏",
+			"discovered": false
+		},
+		{
+			"text": "\"please.ch.thecheckpins\"",
+			"emoji": "🔍",
+			"discovered": true
+		},
+		{
+			"text": "\"please.ch.ck.the.pins\"",
+			"emoji": "🔒",
+			"discovered": false
+		},
+		{
+			"text": "\"please.check.the.pins\"",
+			"emoji": "📌",
+			"discovered": false
+		},
+		{
+			"text": "#pleasecheckthepins",
+			"emoji": "📌",
+			"discovered": false
+		},
+		{
+			"text": "Please Check The Pins",
+			"emoji": "📌",
+			"discovered": false
+		},
+		{
+			"text": "Fucking Please Check The Pins",
+			"emoji": "📍",
+			"discovered": false
+		},
+		{
+			"text": "Fiston Pete",
+			"emoji": "🤔",
+			"discovered": true
+		},
+		{
+			"text": "20,000 Leagues Under the Sea",
+			"emoji": "🐋",
+			"discovered": false
+		},
+		{
+			"text": "Subtitanic",
+			"emoji": "🚢",
+			"discovered": false
+		},
+		{
+			"text": "Subway Sandwich",
+			"emoji": "🍞",
+			"discovered": false
+		},
+		{
+			"text": "Soggy Subway Sandwich",
+			"emoji": "🥪💦",
+			"discovered": false
+		},
+		{
+			"text": "Captain Nemo's Revenge",
+			"emoji": "🚢⚔️",
+			"discovered": false
+		},
+		{
+			"text": "Coins",
+			"emoji": "💰",
+			"discovered": false
+		},
+		{
+			"text": "Property",
+			"emoji": "🏠",
+			"discovered": false
+		},
+		{
+			"text": "\"ri.al\"",
+			"emoji": "🔍",
+			"discovered": false
+		},
+		{
+			"text": "\"rial\"",
+			"emoji": "💰",
+			"discovered": false
+		},
+		{
+			"text": "#mr. Add Hashtag Rial",
+			"emoji": "#️⃣",
+			"discovered": true
+		},
+		{
+			"text": "\"air\"",
+			"emoji": "💨",
+			"discovered": false
+		},
+		{
+			"text": "\"torn\"",
+			"emoji": "💔",
+			"discovered": false
+		},
+		{
+			"text": "\"tortag\"",
+			"emoji": "🐢",
+			"discovered": false
+		},
+		{
+			"text": "\"riot\"",
+			"emoji": "🔥",
+			"discovered": false
+		},
+		{
+			"text": "\"tor\"mr. Hashtag",
+			"emoji": "🔍",
+			"discovered": true
+		},
+		{
+			"text": "#tor",
+			"emoji": "🔒",
+			"discovered": false
+		},
+		{
+			"text": "\"riall#\"",
+			"emoji": "🤔",
+			"discovered": true
+		},
+		{
+			"text": "\"append.the\"",
+			"emoji": "🤔",
+			"discovered": false
+		},
+		{
+			"text": "Deletethehyphenwithoutspaces",
+			"emoji": "❌",
+			"discovered": false
+		},
+		{
+			"text": "\"append.the.period\"",
+			"emoji": "🔵",
+			"discovered": false
+		},
+		{
+			"text": "#append.the.period",
+			"emoji": "👍",
+			"discovered": false
+		},
+		{
+			"text": "Append.the.period.pluralize",
+			"emoji": "❌",
+			"discovered": false
+		},
+		{
+			"text": "#append.the.periods",
+			"emoji": "❌",
+			"discovered": false
+		},
+		{
+			"text": "Append.the.periods",
+			"emoji": "👍",
+			"discovered": false
+		},
+		{
+			"text": "Append The Periods",
+			"emoji": "🔵",
+			"discovered": false
+		},
+		{
+			"text": ".sea",
 			"emoji": "🌊",
 			"discovered": false
 		},
 		{
-			"text": ".hashta",
+			"text": ".mi.se",
+			"emoji": "🤔",
+			"discovered": false
+		},
+		{
+			"text": "\"aprepend.se\"",
+			"emoji": "🤔",
+			"discovered": true
+		},
+		{
+			"text": "\"aprepend.se.m\"",
+			"emoji": "🤔",
+			"discovered": true
+		},
+		{
+			"text": "\"aprepend.se.m.i\"",
+			"emoji": "🔍",
+			"discovered": true
+		},
+		{
+			"text": "\"aprependsemi\"",
+			"emoji": "🤔",
+			"discovered": true
+		},
+		{
+			"text": ".col",
+			"emoji": "💻",
+			"discovered": false
+		},
+		{
+			"text": ".col/o/",
+			"emoji": "🤖",
+			"discovered": false
+		},
+		{
+			"text": "\"aprependsemi.col\"",
+			"emoji": "❌",
+			"discovered": true
+		},
+		{
+			"text": "\"aprependsemi.colo\"",
+			"emoji": "🤔",
+			"discovered": true
+		},
+		{
+			"text": "\"aprependsemi.colony\"",
+			"emoji": "🤔",
+			"discovered": true
+		},
+		{
+			"text": "/on/",
+			"emoji": "👍",
+			"discovered": false
+		},
+		{
+			"text": "/ol/",
+			"emoji": "🧓‍♂️",
+			"discovered": false
+		},
+		{
+			"text": ".em",
+			"emoji": "❓",
+			"discovered": false
+		},
+		{
+			"text": ".sem",
 			"emoji": "❌",
 			"discovered": false
 		},
 		{
-			"text": "\"addhashta\"",
+			"text": ".semi",
+			"emoji": "🚛",
+			"discovered": false
+		},
+		{
+			"text": "\"aprepend.sem\"",
 			"emoji": "❌",
 			"discovered": false
 		},
 		{
-			"text": "\"addhashta.g\"",
+			"text": "\"aprepend.semi\"",
+			"emoji": "🤔",
+			"discovered": false
+		},
+		{
+			"text": "\"aprepend.semi.col/o/\"",
+			"emoji": "🤔",
+			"discovered": false
+		},
+		{
+			"text": "\"aprepend.semi.col/o/n\"",
+			"emoji": "🤔",
+			"discovered": false
+		},
+		{
+			"text": "\"prepend.semi.colon\"",
+			"emoji": "🔵",
+			"discovered": false
+		},
+		{
+			"text": "\"prependsemicolon\"",
 			"emoji": "❌",
 			"discovered": false
 		},
 		{
-			"text": "Addhashta.g",
+			"text": "Prepend Semicolon",
+			"emoji": "🔵",
+			"discovered": false
+		},
+		{
+			"text": ".qu",
+			"emoji": "❓",
+			"discovered": false
+		},
+		{
+			"text": ".que",
+			"emoji": "🤔",
+			"discovered": false
+		},
+		{
+			"text": ".quest",
+			"emoji": "❓",
+			"discovered": false
+		},
+		{
+			"text": ".question",
+			"emoji": "❓",
+			"discovered": false
+		},
+		{
+			"text": "\"aprepend.question\"",
+			"emoji": "❓",
+			"discovered": false
+		},
+		{
+			"text": "\"aprepend.question.m\"",
+			"emoji": "❓",
+			"discovered": false
+		},
+		{
+			"text": "\"prepend.question.m\"",
+			"emoji": "❓",
+			"discovered": false
+		},
+		{
+			"text": "\"prepend.question.mark\"",
+			"emoji": "❓",
+			"discovered": false
+		},
+		{
+			"text": "#prepend.question.mark",
+			"emoji": "❓",
+			"discovered": false
+		},
+		{
+			"text": "Prepend Question Mark",
+			"emoji": "❓",
+			"discovered": false
+		},
+		{
+			"text": "\"aprepend.el.lips.is\"",
+			"emoji": "👄",
+			"discovered": false
+		},
+		{
+			"text": "\"prepend.el.lips.is\"",
+			"emoji": "👄",
+			"discovered": false
+		},
+		{
+			"text": "\"prependellipsis\"",
+			"emoji": "🔠",
+			"discovered": false
+		},
+		{
+			"text": "#prependellipsis",
+			"emoji": "🔍",
+			"discovered": false
+		},
+		{
+			"text": "Prepend Ellipsis",
+			"emoji": "💬",
+			"discovered": false
+		},
+		{
+			"text": ".apos",
 			"emoji": "❌",
 			"discovered": false
 		},
 		{
-			"text": "Add Hashtag",
+			"text": ".tr",
+			"emoji": "❌",
+			"discovered": false
+		},
+		{
+			"text": ".part",
+			"emoji": "❌",
+			"discovered": false
+		},
+		{
+			"text": ".tor",
+			"emoji": "🔒",
+			"discovered": false
+		},
+		{
+			"text": ".ort",
+			"emoji": "❓",
+			"discovered": false
+		},
+		{
+			"text": ".of",
+			"emoji": "👍",
+			"discovered": false
+		},
+		{
+			"text": ".tra",
+			"emoji": "🚂",
+			"discovered": false
+		},
+		{
+			"text": "/os/",
+			"emoji": "🤖",
+			"discovered": false
+		},
+		{
+			"text": ".ap/os/",
+			"emoji": "🤖",
+			"discovered": false
+		},
+		{
+			"text": ".esp",
+			"emoji": "🇪🇸",
+			"discovered": false
+		},
+		{
+			"text": "\"prepend.esp\"",
+			"emoji": "📄",
+			"discovered": false
+		},
+		{
+			"text": "\"prepend.ap/os/\"",
+			"emoji": "🤖",
+			"discovered": false
+		},
+		{
+			"text": "/rt/",
+			"emoji": "📻",
+			"discovered": false
+		},
+		{
+			"text": "Tart",
+			"emoji": "🍰",
+			"discovered": false
+		},
+		{
+			"text": "Delete The Slash",
+			"emoji": "❌",
+			"discovered": false
+		},
+		{
+			"text": "/rr/",
+			"emoji": "🎢",
+			"discovered": false
+		},
+		{
+			"text": ".tr/",
+			"emoji": "🇹🇷",
+			"discovered": false
+		},
+		{
+			"text": "/tr/",
+			"emoji": "🇹🇷",
+			"discovered": false
+		},
+		{
+			"text": "\"prepend.ap/os/tr/\"",
+			"emoji": "🤔",
+			"discovered": false
+		},
+		{
+			"text": "\"prepend.apostrophe\"",
+			"emoji": "🔠",
+			"discovered": false
+		},
+		{
+			"text": "#Prepend Hashtag",
 			"emoji": "#️⃣",
 			"discovered": false
 		},
 		{
-			"text": "\"av\"",
-			"emoji": "🇦🇻",
+			"text": "#prepend.apostrophe",
+			"emoji": "🔠",
 			"discovered": false
 		},
 		{
-			"text": "\"avii\"",
-			"emoji": "📸",
+			"text": "Prepend Apostrophe",
+			"emoji": "🤔",
 			"discovered": false
 		},
 		{
-			"text": "\"avici\"",
-			"emoji": "🎵",
-			"discovered": false
-		},
-		{
-			"text": "\"aic\"",
-			"emoji": "🎸",
-			"discovered": false
-		},
-		{
-			"text": "\"ic\"",
-			"emoji": "👌",
-			"discovered": false
-		},
-		{
-			"text": "\"avicii\"",
-			"emoji": "🎵",
-			"discovered": false
-		},
-		{
-			"text": "#avicii",
-			"emoji": "🎵",
-			"discovered": false
-		},
-		{
-			"text": "avicii",
-			"emoji": "🎵",
+			"text": "\"sh.da\"",
+			"emoji": "🤫",
 			"discovered": true
+		},
+		{
+			"text": "\"aprepend.da\"",
+			"emoji": "🤔",
+			"discovered": false
+		},
+		{
+			"text": "\"aprepend.dash\"",
+			"emoji": "🤔",
+			"discovered": false
+		},
+		{
+			"text": "\"repend.dash\"",
+			"emoji": "🔍",
+			"discovered": false
+		},
+		{
+			"text": "#repend.dash",
+			"emoji": "🔙",
+			"discovered": false
+		},
+		{
+			"text": "#prepend.dash",
+			"emoji": "➖",
+			"discovered": false
+		},
+		{
+			"text": "Prepend Dash",
+			"emoji": "➖",
+			"discovered": false
+		},
+		{
+			"text": "Backflip",
+			"emoji": "🤸",
+			"discovered": false
+		},
+		{
+			"text": "Backslash",
+			"emoji": "\\",
+			"discovered": false
+		},
+		{
+			"text": "Delete The Backslash",
+			"emoji": "❌",
+			"discovered": true
+		},
+		{
+			"text": "\"adda\"",
+			"emoji": "🤔",
+			"discovered": false
+		},
+		{
+			"text": "#adda",
+			"emoji": "🔗",
+			"discovered": false
+		},
+		{
+			"text": "#adda.hashtag",
+			"emoji": "🔗",
+			"discovered": false
+		},
+		{
+			"text": "Adda",
+			"emoji": "🤔",
+			"discovered": false
+		},
+		{
+			"text": "#addahashtag",
+			"emoji": "#️⃣",
+			"discovered": false
+		},
+		{
+			"text": "Addahashtag",
+			"emoji": "#️⃣",
+			"discovered": false
+		},
+		{
+			"text": "Add A Hashtag",
+			"emoji": "#",
+			"discovered": false
+		},
+		{
+			"text": "Arcane",
+			"emoji": "🧙‍♀️",
+			"discovered": false
+		},
+		{
+			"text": ".ki",
+			"emoji": "🥝",
+			"discovered": false
+		},
+		{
+			"text": ".kid",
+			"emoji": "👶",
+			"discovered": false
+		},
+		{
+			"text": "the.kid",
+			"emoji": "👦",
+			"discovered": true
+		},
+		{
+			"text": "The Backwards",
+			"emoji": "🔄",
+			"discovered": false
+		},
+		{
+			"text": "\"bk\"",
+			"emoji": "🍔",
+			"discovered": false
+		},
+		{
+			"text": "\"bkd\"",
+			"emoji": "🤔",
+			"discovered": false
+		},
+		{
+			"text": "\"kd\"",
+			"emoji": "🤔",
+			"discovered": false
+		},
+		{
+			"text": "“kd”",
+			"emoji": "🏀",
+			"discovered": false
+		},
+		{
+			"text": "The Kids",
+			"emoji": "👶👧👦",
+			"discovered": false
+		},
+		{
+			"text": "The Kids ate",
+			"emoji": "👶🍽️",
+			"discovered": false
+		},
+		{
+			"text": "The Kids Ate My Homework",
+			"emoji": "🤷‍♂️",
+			"discovered": false
+		},
+		{
+			"text": "\"ty\"",
+			"emoji": "👍",
+			"discovered": false
+		},
+		{
+			"text": "\"tys\"",
+			"emoji": "👍",
+			"discovered": false
+		},
+		{
+			"text": "\"tysm\"",
+			"emoji": "🙏",
+			"discovered": false
+		},
+		{
+			"text": "Jonah and the Whale",
+			"emoji": "🐳",
+			"discovered": false
+		},
+		{
+			"text": "Nineveh",
+			"emoji": "🐘",
+			"discovered": false
+		},
+		{
+			"text": "Assyria",
+			"emoji": "🏛️",
+			"discovered": false
+		},
+		{
+			"text": "Aramaic",
+			"emoji": "📖",
+			"discovered": false
+		},
+		{
+			"text": "Hebrew",
+			"emoji": "🕎",
+			"discovered": false
+		},
+		{
+			"text": "Amharic",
+			"emoji": "🇪🇹",
+			"discovered": false
+		},
+		{
+			"text": "Geez",
+			"emoji": "🤦‍♂️",
+			"discovered": false
+		},
+		{
+			"text": "Ethiopic",
+			"emoji": "🇪🇹",
+			"discovered": false
+		},
+		{
+			"text": "Unicode Javanese",
+			"emoji": "🇮🇩",
+			"discovered": false
+		},
+		{
+			"text": "Unicode Sundanese",
+			"emoji": "🇸🇪",
+			"discovered": false
+		},
+		{
+			"text": "Batak Unicode",
+			"emoji": "💻",
+			"discovered": false
+		},
+		{
+			"text": "Ethiopic Unicode",
+			"emoji": "💻",
+			"discovered": false
+		},
+		{
+			"text": "Shavian",
+			"emoji": "🔠",
+			"discovered": false
+		},
+		{
+			"text": "Shavian Unicode",
+			"emoji": "💻",
+			"discovered": false
+		},
+		{
+			"text": "Unicode Buginese",
+			"emoji": "🇮🇩",
+			"discovered": false
+		},
+		{
+			"text": "Unicode Aramaic",
+			"emoji": "🔠",
+			"discovered": false
+		},
+		{
+			"text": "Tav",
+			"emoji": "🌌",
+			"discovered": false
+		},
+		{
+			"text": "Tysm",
+			"emoji": "🙏",
+			"discovered": false
+		},
+		{
+			"text": "Thank You So Much",
+			"emoji": "🙏",
+			"discovered": false
 		}
 	],
 	"darkMode": true,
@@ -70582,6 +71932,16 @@
 					"text": "Wind",
 					"emoji": "🌬️"
 				}
+			],
+			[
+				{
+					"text": "#tor",
+					"emoji": "🔒"
+				},
+				{
+					"text": "Remove The Hashtag",
+					"emoji": "❌"
+				}
 			]
 		],
 		"Sun": [
@@ -73400,6 +74760,16 @@
 					"text": "Paragraph",
 					"emoji": "¶"
 				}
+			],
+			[
+				{
+					"text": "Afghanistan",
+					"emoji": "🇦🇫"
+				},
+				{
+					"text": "USA",
+					"emoji": "🇺🇸"
+				}
 			]
 		],
 		"Zeus": [
@@ -75482,6 +76852,36 @@
 					"text": "Monarchy",
 					"emoji": "👑"
 				}
+			],
+			[
+				{
+					"text": "Checkmate",
+					"emoji": "♟️"
+				},
+				{
+					"text": "Chess",
+					"emoji": "♟️"
+				}
+			],
+			[
+				{
+					"text": "Fuck",
+					"emoji": "🖕"
+				},
+				{
+					"text": "Queen",
+					"emoji": "👑"
+				}
+			],
+			[
+				{
+					"text": "Fucking",
+					"emoji": "🖕"
+				},
+				{
+					"text": "Queen",
+					"emoji": "👑"
+				}
 			]
 		],
 		"Satan": [
@@ -76069,6 +77469,16 @@
 				{
 					"text": "Checkmate",
 					"emoji": "♟️"
+				}
+			],
+			[
+				{
+					"text": "Fucking",
+					"emoji": "🖕"
+				},
+				{
+					"text": "King",
+					"emoji": "👑"
 				}
 			]
 		],
@@ -77806,6 +79216,26 @@
 					"text": "Stock Market",
 					"emoji": "📈"
 				}
+			],
+			[
+				{
+					"text": "Cheque",
+					"emoji": "🧾"
+				},
+				{
+					"text": "Fuck",
+					"emoji": "🖕"
+				}
+			],
+			[
+				{
+					"text": "Cheque",
+					"emoji": "🧾"
+				},
+				{
+					"text": "Cheque",
+					"emoji": "🧾"
+				}
 			]
 		],
 		"Spaghetti": [
@@ -78228,6 +79658,16 @@
 					"text": "Divorce",
 					"emoji": "💔"
 				}
+			],
+			[
+				{
+					"text": "Fucking",
+					"emoji": "🖕"
+				},
+				{
+					"text": "The Best Couple",
+					"emoji": "💑"
+				}
 			]
 		],
 		"Divorce": [
@@ -78255,6 +79695,16 @@
 				{
 					"text": "Delete The Mr.",
 					"emoji": "🚫"
+				},
+				{
+					"text": "Marriage",
+					"emoji": "💍"
+				}
+			],
+			[
+				{
+					"text": "Fucking",
+					"emoji": "🖕"
 				},
 				{
 					"text": "Marriage",
@@ -78500,6 +79950,16 @@
 				},
 				{
 					"text": "Pins",
+					"emoji": "📌"
+				}
+			],
+			[
+				{
+					"text": "Fucking",
+					"emoji": "🖕"
+				},
+				{
+					"text": "The Pins",
 					"emoji": "📌"
 				}
 			]
@@ -78794,6 +80254,36 @@
 					"text": "Checkers",
 					"emoji": "🎮"
 				}
+			],
+			[
+				{
+					"text": "Checkmate",
+					"emoji": "♟️"
+				},
+				{
+					"text": "Fucking",
+					"emoji": "🖕"
+				}
+			],
+			[
+				{
+					"text": "King",
+					"emoji": "👑"
+				},
+				{
+					"text": "The Check Pins",
+					"emoji": "📌"
+				}
+			],
+			[
+				{
+					"text": "Bank",
+					"emoji": "💰"
+				},
+				{
+					"text": "Checkmate",
+					"emoji": "♟️"
+				}
 			]
 		],
 		"Checkers": [
@@ -78887,6 +80377,46 @@
 				{
 					"text": "Check The Bot",
 					"emoji": "🤖"
+				}
+			],
+			[
+				{
+					"text": "Check Pins",
+					"emoji": "📌"
+				},
+				{
+					"text": "Fuck",
+					"emoji": "🖕"
+				}
+			],
+			[
+				{
+					"text": "Check Pins",
+					"emoji": "📌"
+				},
+				{
+					"text": "Fucking",
+					"emoji": "🖕"
+				}
+			],
+			[
+				{
+					"text": "Chess",
+					"emoji": "♟️"
+				},
+				{
+					"text": "Fuck",
+					"emoji": "🖕"
+				}
+			],
+			[
+				{
+					"text": "Chess",
+					"emoji": "♟️"
+				},
+				{
+					"text": "Fester",
+					"emoji": "👻"
 				}
 			]
 		],
@@ -80282,6 +81812,16 @@
 					"text": "Sand",
 					"emoji": "🏖️"
 				}
+			],
+			[
+				{
+					"text": ".it",
+					"emoji": "🇮🇹"
+				},
+				{
+					"text": "Reverse",
+					"emoji": "🔙"
+				}
 			]
 		],
 		"Hourglass": [
@@ -80887,6 +82427,16 @@
 				{
 					"text": "Floating",
 					"emoji": "🛶"
+				}
+			],
+			[
+				{
+					"text": "Cedar",
+					"emoji": "🌲"
+				},
+				{
+					"text": "Noah’s Ark",
+					"emoji": "🐘"
 				}
 			]
 		],
@@ -83645,6 +85195,26 @@
 				{
 					"text": "Infinite Sex",
 					"emoji": "🔞"
+				}
+			],
+			[
+				{
+					"text": "Fuck",
+					"emoji": "🖕"
+				},
+				{
+					"text": "Maid",
+					"emoji": "🧹"
+				}
+			],
+			[
+				{
+					"text": "Fuck",
+					"emoji": "🖕"
+				},
+				{
+					"text": "Pregnant",
+					"emoji": "🤰"
 				}
 			]
 		],
@@ -89030,6 +90600,66 @@
 					"text": "Ellipsis",
 					"emoji": "…"
 				}
+			],
+			[
+				{
+					"text": "\"peri.od\"",
+					"emoji": "🩸"
+				},
+				{
+					"text": "Delete The Spaces",
+					"emoji": "🚫"
+				}
+			],
+			[
+				{
+					"text": "\"peri.od\"",
+					"emoji": "🩸"
+				},
+				{
+					"text": "Without Spacing",
+					"emoji": "👍"
+				}
+			],
+			[
+				{
+					"text": "\"peri.od\"",
+					"emoji": "🩸"
+				},
+				{
+					"text": "Without Spaces",
+					"emoji": "🚫"
+				}
+			],
+			[
+				{
+					"text": "\"peri.od\"",
+					"emoji": "🩸"
+				},
+				{
+					"text": "Delete Period",
+					"emoji": "❌"
+				}
+			],
+			[
+				{
+					"text": "\"peri.od\"",
+					"emoji": "🩸"
+				},
+				{
+					"text": "Delete The Periods",
+					"emoji": "❌"
+				}
+			],
+			[
+				{
+					"text": "\"peri.od\"",
+					"emoji": "🩸"
+				},
+				{
+					"text": "Delete The Dot",
+					"emoji": "❌"
+				}
 			]
 		],
 		"Full Stop": [
@@ -89262,6 +90892,16 @@
 					"text": "Worship",
 					"emoji": "🙏"
 				}
+			],
+			[
+				{
+					"text": "Bali",
+					"emoji": "🌴"
+				},
+				{
+					"text": "Tomb",
+					"emoji": "🪦"
+				}
 			]
 		],
 		"Aqua": [
@@ -89349,6 +90989,26 @@
 				{
 					"text": "He",
 					"emoji": "👨"
+				}
+			],
+			[
+				{
+					"text": "Delete The",
+					"emoji": "❌"
+				},
+				{
+					"text": "Delete The /",
+					"emoji": "❌"
+				}
+			],
+			[
+				{
+					"text": "Delete The _",
+					"emoji": "❌"
+				},
+				{
+					"text": "The",
+					"emoji": "😜"
 				}
 			]
 		],
@@ -89872,6 +91532,16 @@
 					"text": "\"comman\"",
 					"emoji": "❓"
 				}
+			],
+			[
+				{
+					"text": ".d",
+					"emoji": "❌"
+				},
+				{
+					"text": ".om",
+					"emoji": "🇴🇲"
+				}
 			]
 		],
 		"Lunatic": [
@@ -89929,6 +91599,26 @@
 				{
 					"text": "Rearrange",
 					"emoji": "🔀"
+				}
+			],
+			[
+				{
+					"text": "#append",
+					"emoji": "📌"
+				},
+				{
+					"text": "Delete First Character",
+					"emoji": "🔡"
+				}
+			],
+			[
+				{
+					"text": "Retroverse",
+					"emoji": "🌌"
+				},
+				{
+					"text": "Serve",
+					"emoji": "🍽️"
 				}
 			]
 		],
@@ -92672,6 +94362,16 @@
 					"text": "App",
 					"emoji": "📱"
 				}
+			],
+			[
+				{
+					"text": "#append",
+					"emoji": "📌"
+				},
+				{
+					"text": "App",
+					"emoji": "📱"
+				}
 			]
 		],
 		"Dungeon": [
@@ -93695,6 +95395,16 @@
 				{
 					"text": "Remove Remove",
 					"emoji": "❌"
+				}
+			],
+			[
+				{
+					"text": "Prepend Hashtag",
+					"emoji": "#🏷️"
+				},
+				{
+					"text": "Prepend Hyphen",
+					"emoji": "➖"
 				}
 			]
 		],
@@ -95334,6 +97044,26 @@
 					"text": "\"linux,comma\"",
 					"emoji": "💻"
 				}
+			],
+			[
+				{
+					"text": ".on",
+					"emoji": "👌"
+				},
+				{
+					"text": "\"aprepend.co.l\"",
+					"emoji": "🔒"
+				}
+			],
+			[
+				{
+					"text": ".on",
+					"emoji": "👌"
+				},
+				{
+					"text": "\"aprependsemi.col\"",
+					"emoji": "❌"
+				}
 			]
 		],
 		"\" + \"": [
@@ -95971,6 +97701,16 @@
 				{
 					"text": "/c/",
 					"emoji": "📱"
+				}
+			],
+			[
+				{
+					"text": ".ki",
+					"emoji": "🥝"
+				},
+				{
+					"text": "/d/",
+					"emoji": "📂"
 				}
 			]
 		],
@@ -101127,6 +102867,16 @@
 				{
 					"text": ".no",
 					"emoji": "👎"
+				}
+			],
+			[
+				{
+					"text": ".col/o/",
+					"emoji": "🤖"
+				},
+				{
+					"text": ".n",
+					"emoji": "❌"
 				}
 			]
 		],
@@ -126442,6 +128192,16 @@
 					"text": "Opposite",
 					"emoji": "🔀"
 				}
+			],
+			[
+				{
+					"text": "#append",
+					"emoji": "📌"
+				},
+				{
+					"text": "End",
+					"emoji": "🔚"
+				}
 			]
 		],
 		"Append": [
@@ -129907,6 +131667,16 @@
 				{
 					"text": "Prepend Hashtag",
 					"emoji": "#🏷️"
+				}
+			],
+			[
+				{
+					"text": "#append",
+					"emoji": "📌"
+				},
+				{
+					"text": "Remove The Hashtag",
+					"emoji": "❌"
 				}
 			]
 		],
@@ -133930,6 +135700,16 @@
 					"text": "T",
 					"emoji": "🅱️"
 				}
+			],
+			[
+				{
+					"text": "Or",
+					"emoji": "🌟"
+				},
+				{
+					"text": "RT",
+					"emoji": "🔁"
+				}
 			]
 		],
 		"Desert Island": [
@@ -133966,6 +135746,16 @@
 					"text": "Synonym",
 					"emoji": "🔀"
 				}
+			],
+			[
+				{
+					"text": "Rose",
+					"emoji": "🌹"
+				},
+				{
+					"text": "State",
+					"emoji": "🌎"
+				}
 			]
 		],
 		"RI": [
@@ -133973,6 +135763,16 @@
 				{
 					"text": "Initials",
 					"emoji": "🆔"
+				},
+				{
+					"text": "Rhode Island",
+					"emoji": "🌊"
+				}
+			],
+			[
+				{
+					"text": "Abbreviation",
+					"emoji": "🔠"
 				},
 				{
 					"text": "Rhode Island",
@@ -138971,6 +140771,16 @@
 				{
 					"text": "U+27",
 					"emoji": "❓"
+				}
+			],
+			[
+				{
+					"text": "Converting To Unicode",
+					"emoji": "💻"
+				},
+				{
+					"text": "Utf-8",
+					"emoji": "💻"
 				}
 			]
 		],
@@ -147290,7 +149100,6 @@
 				}
 			]
 		],
-		".p": [],
 		".sp": [
 			[
 				{
@@ -147639,7 +149448,6 @@
 				}
 			]
 		],
-		"\"f\"": [],
 		"\"fy\"": [
 			[
 				{
@@ -148474,7 +150282,6 @@
 				}
 			]
 		],
-		"Delete The Special Characters": [],
 		"colinux": [
 			[
 				{
@@ -148697,8 +150504,6 @@
 				}
 			]
 		],
-		"#mr. Add Hashtag": [],
-		"#mr. Hashtag": [],
 		"\"linuxcomman.d#\"": [
 			[
 				{
@@ -150177,7 +151982,6 @@
 				}
 			]
 		],
-		"\"d\"": [],
 		".adhash": [
 			[
 				{
@@ -150236,6 +152040,16 @@
 					"text": "The Hashtags",
 					"emoji": "#️⃣"
 				}
+			],
+			[
+				{
+					"text": "\"prepend.dot\"",
+					"emoji": "🔵"
+				},
+				{
+					"text": "The Hashtags",
+					"emoji": "#️⃣"
+				}
 			]
 		],
 		"Prepend": [
@@ -150243,6 +152057,26 @@
 				{
 					"text": "#prepend",
 					"emoji": "🔝"
+				},
+				{
+					"text": "Delete First Character",
+					"emoji": "🔡"
+				}
+			],
+			[
+				{
+					"text": "#prepend-hyphen",
+					"emoji": "➖"
+				},
+				{
+					"text": "Delete The Hyphen",
+					"emoji": "❌"
+				}
+			],
+			[
+				{
+					"text": "#prepend.period",
+					"emoji": "👍"
 				},
 				{
 					"text": "Delete First Character",
@@ -150322,7 +152156,6 @@
 				}
 			]
 		],
-		"\"o\"": [],
 		"\"om\"": [
 			[
 				{
@@ -150611,18 +152444,6 @@
 				}
 			]
 		],
-		"avicii": [
-			[
-				{
-					"text": "#avicii",
-					"emoji": "🎵"
-				},
-				{
-					"text": "Delete First Character",
-					"emoji": "🔡"
-				}
-			]
-		],
 		"Avicii": [
 			[
 				{
@@ -150633,15 +152454,3787 @@
 					"text": "Unplural",
 					"emoji": "🤔"
 				}
+			]
+		],
+		"\"aprepend.co\"": [
+			[
+				{
+					"text": ".co",
+					"emoji": "🇨🇴"
+				},
+				{
+					"text": "\"aprepend\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"aprepend.co.l\"": [
+			[
+				{
+					"text": ".l",
+					"emoji": "❌"
+				},
+				{
+					"text": "\"aprepend.co\"",
+					"emoji": "🔗"
+				}
+			]
+		],
+		"\"aprepend.co.l:on\"": [
+			[
+				{
+					"text": "\"aprepend.co.l\"",
+					"emoji": "🔒"
+				},
+				{
+					"text": "Colon",
+					"emoji": "💩"
+				}
+			]
+		],
+		"\"aprependcolon\"": [
+			[
+				{
+					"text": "\"aprepend.co.l:on\"",
+					"emoji": "🔍"
+				},
+				{
+					"text": "Delete The Special Characters",
+					"emoji": "❌"
+				}
+			]
+		],
+		"\"prependcolon\"": [
+			[
+				{
+					"text": "\"aprependcolon\"",
+					"emoji": "❌"
+				},
+				{
+					"text": "Delete First Character",
+					"emoji": "🔡"
+				}
+			]
+		],
+		"#Hashtag": [
+			[
+				{
+					"text": "\"prependcolon\"",
+					"emoji": "❌"
+				},
+				{
+					"text": "Hashtag",
+					"emoji": "#️⃣"
+				}
+			]
+		],
+		"#The Hashtag": [
+			[
+				{
+					"text": "\"prependcolon\"",
+					"emoji": "❌"
+				},
+				{
+					"text": "The Hashtag",
+					"emoji": "#"
+				}
+			]
+		],
+		"#the Hashtag": [
+			[
+				{
+					"text": "#The Hashtag",
+					"emoji": "#️⃣"
+				},
+				{
+					"text": "#The Hashtag",
+					"emoji": "#️⃣"
+				}
+			]
+		],
+		"#theprependcolon": [
+			[
+				{
+					"text": "\"prependcolon\"",
+					"emoji": "❌"
+				},
+				{
+					"text": "#The Hashtag",
+					"emoji": "#️⃣"
+				}
+			]
+		],
+		"Prepend Colon": [
+			[
+				{
+					"text": "#theprependcolon",
+					"emoji": "🤔"
+				},
+				{
+					"text": "Delete The The",
+					"emoji": "🚫"
+				}
+			]
+		],
+		"Prepend Colon Hashtag": [
+			[
+				{
+					"text": "Prepend Colon",
+					"emoji": "🔵"
+				},
+				{
+					"text": "Prepend Hashtag",
+					"emoji": "#🏷️"
+				}
+			]
+		],
+		"\"aprepend.h\"": [
+			[
+				{
+					"text": ".h",
+					"emoji": "❓"
+				},
+				{
+					"text": "\"aprepend\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		".py": [
+			[
+				{
+					"text": ".p",
+					"emoji": "🤔"
+				},
+				{
+					"text": ".y",
+					"emoji": "👍"
+				}
+			]
+		],
+		"\"aprepend.py\"": [
+			[
+				{
+					"text": ".py",
+					"emoji": "💻"
+				},
+				{
+					"text": "\"aprepend.h\"",
+					"emoji": "❌"
+				}
+			]
+		],
+		"\"aprepend.hi\"": [
+			[
+				{
+					"text": ".hi",
+					"emoji": "👋"
+				},
+				{
+					"text": "\"aprepend\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"aprepend.hi.y\"": [
+			[
+				{
+					"text": ".y",
+					"emoji": "👍"
+				},
+				{
+					"text": "\"aprepend.hi\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"aprepend.hi.y.p\"": [
+			[
+				{
+					"text": ".p",
+					"emoji": "🤔"
+				},
+				{
+					"text": "\"aprepend.hi.y\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"aprepend.hi.y.p.en\"": [
+			[
+				{
+					"text": ".en",
+					"emoji": "❌"
+				},
+				{
+					"text": "\"aprepend.hi.y.p\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"aprependhiypen\"": [
+			[
+				{
+					"text": "\"aprepend.hi.y.p.en\"",
+					"emoji": "🤔"
+				},
+				{
+					"text": "Delete White Space",
+					"emoji": "🗑️"
+				}
+			]
+		],
+		"\"aprependhiypenhashtag\"": [
+			[
+				{
+					"text": "\"aprependhiypen\"",
+					"emoji": "🤔"
+				},
+				{
+					"text": "Hashtag",
+					"emoji": "#️⃣"
+				}
+			]
+		],
+		"\"rependhiypen\"": [
+			[
+				{
+					"text": "\"aprependhiypen\"",
+					"emoji": "🤔"
+				},
+				{
+					"text": "Delete First Character",
+					"emoji": "🔡"
+				}
+			]
+		],
+		"\"aprepend.hi.y.p.h\"": [
+			[
+				{
+					"text": ".h",
+					"emoji": "❓"
+				},
+				{
+					"text": "\"aprepend.hi.y.p\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"aprepend.hi.y.p.h.en\"": [
+			[
+				{
+					"text": ".en",
+					"emoji": "❌"
+				},
+				{
+					"text": "\"aprepend.hi.y.p.h\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"aprependhiyphe\"": [
+			[
+				{
+					"text": "\"aprepend.hi.y.p.h.en\"",
+					"emoji": "🤔"
+				},
+				{
+					"text": "Without Spaces",
+					"emoji": "🚫"
+				}
+			]
+		],
+		"\"Prepend Hi Y\"": [
+			[
+				{
+					"text": "\"aprependhiyphe\"",
+					"emoji": "🤔"
+				},
+				{
+					"text": "Delete First",
+					"emoji": "🗑️"
+				}
+			]
+		],
+		".hy": [
+			[
+				{
+					"text": ".h",
+					"emoji": "❓"
+				},
+				{
+					"text": "/y/",
+					"emoji": "🤘"
+				}
+			]
+		],
+		"\"aprepend.hy\"": [
+			[
+				{
+					"text": ".hy",
+					"emoji": "👋"
+				},
+				{
+					"text": "\"aprepend\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"prepend.hy\"": [
+			[
+				{
+					"text": "\"aprepend.hy\"",
+					"emoji": "🤔"
+				},
+				{
+					"text": "Delete First Character",
+					"emoji": "🔡"
+				}
+			]
+		],
+		"\"prepend-hyphen\"": [
+			[
+				{
+					"text": "\"prepend.hy\"",
+					"emoji": "🤖"
+				},
+				{
+					"text": "Hyphen",
+					"emoji": "➖"
+				}
+			]
+		],
+		"#prepend-hyphen": [
+			[
+				{
+					"text": "\"prepend-hyphen\"",
+					"emoji": "➖"
+				},
+				{
+					"text": "Hashtag",
+					"emoji": "#️⃣"
+				}
+			]
+		],
+		"Delete The Hyphens": [
+			[
+				{
+					"text": "Delete The Hyphen",
+					"emoji": "❌"
+				},
+				{
+					"text": "Pluralize",
+					"emoji": "👥"
+				}
+			]
+		],
+		"Prepend Hyphen": [
+			[
+				{
+					"text": "#prepend-hyphen",
+					"emoji": "➖"
+				},
+				{
+					"text": "Delete The Hyphens",
+					"emoji": "❌"
+				}
+			]
+		],
+		"Prepend Colon-Hyphen": [
+			[
+				{
+					"text": "Prepend Colon",
+					"emoji": "🔵"
+				},
+				{
+					"text": "Prepend Hyphen",
+					"emoji": "➖"
+				}
+			]
+		],
+		"\"aprependplus\"": [
+			[
+				{
+					"text": "\"aprepend\"",
+					"emoji": "🤔"
+				},
+				{
+					"text": "\"plus\"",
+					"emoji": "➕"
+				}
+			]
+		],
+		"\"append\"": [
+			[
+				{
+					"text": "\"+\"",
+					"emoji": "➕"
+				},
+				{
+					"text": "\"aprepend\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"#append": [
+			[
+				{
+					"text": "\"append\"",
+					"emoji": "➕"
+				},
+				{
+					"text": "Hashtag",
+					"emoji": "#️⃣"
+				}
+			]
+		],
+		"#delete": [
+			[
+				{
+					"text": "#append",
+					"emoji": "📌"
+				},
+				{
+					"text": "Delete The Hashtag",
+					"emoji": "❌"
+				}
 			],
 			[
 				{
-					"text": "avicii",
-					"emoji": "🎵"
+					"text": "#append",
+					"emoji": "📌"
 				},
 				{
-					"text": "avicii",
-					"emoji": "🎵"
+					"text": "#clear",
+					"emoji": "🧹"
+				}
+			]
+		],
+		"The Special Character": [
+			[
+				{
+					"text": "#append",
+					"emoji": "📌"
+				},
+				{
+					"text": "Delete The Special Character",
+					"emoji": "❌"
+				}
+			]
+		],
+		"Last": [
+			[
+				{
+					"text": "#append",
+					"emoji": "📌"
+				},
+				{
+					"text": "Delete First",
+					"emoji": "🗑️"
+				}
+			]
+		],
+		"#clear": [
+			[
+				{
+					"text": "#append",
+					"emoji": "📌"
+				},
+				{
+					"text": "#Delete",
+					"emoji": "❌"
+				}
+			]
+		],
+		"#thePrepend": [
+			[
+				{
+					"text": "#The Hashtag",
+					"emoji": "#️⃣"
+				},
+				{
+					"text": "Prepend",
+					"emoji": "🔙"
+				}
+			]
+		],
+		"#theprepend": [
+			[
+				{
+					"text": "#thePrepend",
+					"emoji": "🔝"
+				},
+				{
+					"text": "Hashtag",
+					"emoji": "#️⃣"
+				}
+			],
+			[
+				{
+					"text": "#thePrepend",
+					"emoji": "🔝"
+				},
+				{
+					"text": "Reverse",
+					"emoji": "🔙"
+				}
+			]
+		],
+		"\"aprependi\"": [
+			[
+				{
+					"text": "\"aprepend\"",
+					"emoji": "🤔"
+				},
+				{
+					"text": "\"ti\"",
+					"emoji": "🕰️"
+				}
+			]
+		],
+		"\"aprependi ti\"": [
+			[
+				{
+					"text": "\"aprependi\"",
+					"emoji": "🤔"
+				},
+				{
+					"text": "\"ti\"",
+					"emoji": "🕰️"
+				}
+			]
+		],
+		"\"aprepend.t\"": [
+			[
+				{
+					"text": ".t",
+					"emoji": "❌"
+				},
+				{
+					"text": "\"aprepend\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"aprepend.i\"": [
+			[
+				{
+					"text": ".i",
+					"emoji": "❌"
+				},
+				{
+					"text": "\"aprepend.t\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"aprepend.it\"": [
+			[
+				{
+					"text": "\"aprepend.i\"",
+					"emoji": "🤔"
+				},
+				{
+					"text": "\"aprepend.t\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"Retro": [
+			[
+				{
+					"text": "Reverse",
+					"emoji": "🔙"
+				},
+				{
+					"text": "Time",
+					"emoji": "⏰"
+				}
+			]
+		],
+		"Retroverse": [
+			[
+				{
+					"text": "Retro",
+					"emoji": "📺"
+				},
+				{
+					"text": "Reverse",
+					"emoji": "🔙"
+				}
+			]
+		],
+		"Serious": [
+			[
+				{
+					"text": "Reverse",
+					"emoji": "🔙"
+				},
+				{
+					"text": "Sire",
+					"emoji": "🚨"
+				}
+			]
+		],
+		"Napalm": [
+			[
+				{
+					"text": "Napper",
+					"emoji": "😴"
+				},
+				{
+					"text": "Serious",
+					"emoji": "😐"
+				}
+			]
+		],
+		"Honeymoon": [],
+		"Turtle Dove": [
+			[
+				{
+					"text": "Honeymoon",
+					"emoji": "💑"
+				},
+				{
+					"text": "Turtle",
+					"emoji": "🐢"
+				}
+			]
+		],
+		"Noah’s Ark": [
+			[
+				{
+					"text": "Cedar",
+					"emoji": "🌲"
+				},
+				{
+					"text": "Turtle Dove",
+					"emoji": "🐦"
+				}
+			]
+		],
+		"Ferry": [
+			[
+				{
+					"text": "Boat",
+					"emoji": "🚤"
+				},
+				{
+					"text": "Mountain Range",
+					"emoji": "🏔️"
+				}
+			]
+		],
+		"Australia": [
+			[
+				{
+					"text": "Austronesia",
+					"emoji": "🌴"
+				},
+				{
+					"text": "Ferry",
+					"emoji": "⛴"
+				}
+			],
+			[
+				{
+					"text": "Canberra",
+					"emoji": "🇦🇺"
+				},
+				{
+					"text": "Noun",
+					"emoji": "📖"
+				}
+			],
+			[
+				{
+					"text": "Capitalize",
+					"emoji": "🔠"
+				},
+				{
+					"text": "Vegemite",
+					"emoji": "🥄"
+				}
+			]
+		],
+		"Canberra": [
+			[
+				{
+					"text": "Australia",
+					"emoji": "🦘"
+				},
+				{
+					"text": "Capital",
+					"emoji": "🏛️"
+				}
+			]
+		],
+		"Vegemite": [
+			[
+				{
+					"text": "Australia",
+					"emoji": "🦘"
+				},
+				{
+					"text": "Verb",
+					"emoji": "💬"
+				}
+			]
+		],
+		"Austria": [
+			[
+				{
+					"text": "Australia",
+					"emoji": "🦘"
+				},
+				{
+					"text": "Vowel",
+					"emoji": "🔤"
+				}
+			]
+		],
+		"Wiener": [
+			[
+				{
+					"text": "Austria",
+					"emoji": "🇦🇹"
+				},
+				{
+					"text": "Coffee",
+					"emoji": "☕️"
+				}
+			]
+		],
+		"Indonesia": [
+			[
+				{
+					"text": "Bahasa",
+					"emoji": "🇮🇩"
+				},
+				{
+					"text": "Wiener",
+					"emoji": "🌭"
+				}
+			],
+			[
+				{
+					"text": "Bahasa Inggris",
+					"emoji": "🇬🇧"
+				},
+				{
+					"text": "Java",
+					"emoji": "☕️"
+				}
+			]
+		],
+		"Java": [
+			[
+				{
+					"text": "Coffee",
+					"emoji": "☕️"
+				},
+				{
+					"text": "Indonesia",
+					"emoji": "🇮🇩"
+				}
+			]
+		],
+		"Bali": [
+			[
+				{
+					"text": "Hexagon",
+					"emoji": "⬢"
+				},
+				{
+					"text": "Indonesia",
+					"emoji": "🇮🇩"
+				}
+			]
+		],
+		"Parthenon": [
+			[
+				{
+					"text": "Acropolis",
+					"emoji": "🏛️"
+				},
+				{
+					"text": "Temple",
+					"emoji": "🏯"
+				}
+			],
+			[
+				{
+					"text": "Acropolis",
+					"emoji": "🏛️"
+				},
+				{
+					"text": "Translator",
+					"emoji": "📖"
+				}
+			]
+		],
+		"Acropolis": [
+			[
+				{
+					"text": "Abbreviation",
+					"emoji": "🔠"
+				},
+				{
+					"text": "Parthenon",
+					"emoji": "🏛️"
+				}
+			]
+		],
+		"Aksara Parthenon": [
+			[
+				{
+					"text": "Aksara Bali",
+					"emoji": "🌴"
+				},
+				{
+					"text": "Parthenon",
+					"emoji": "🏛️"
+				}
+			]
+		],
+		"Cyrillic": [
+			[
+				{
+					"text": "Aksara Parthenon",
+					"emoji": "🏛️"
+				},
+				{
+					"text": "Russian",
+					"emoji": "🇷🇺"
+				}
+			]
+		],
+		"Unicode": [
+			[
+				{
+					"text": "Cyrillic",
+					"emoji": "🇷🇺"
+				},
+				{
+					"text": "Hexadecimal",
+					"emoji": "🔢"
+				}
+			]
+		],
+		"Unicode Batak": [],
+		"Batak": [],
+		"Huckleberry Finn": [],
+		"\"rependhiypen Huckleberry Finn\"": [
+			[
+				{
+					"text": "\"rependhiypen\"",
+					"emoji": "🤔"
+				},
+				{
+					"text": "Huckleberry Finn",
+					"emoji": "🐻"
+				}
+			]
+		],
+		".ti": [
+			[
+				{
+					"text": ".it",
+					"emoji": "🇮🇹"
+				},
+				{
+					"text": "Inverse",
+					"emoji": "🔀"
+				}
+			]
+		],
+		"\"aprepend.ti\"": [
+			[
+				{
+					"text": ".ti",
+					"emoji": "🕰️"
+				},
+				{
+					"text": "\"aprepend\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"aprepend.ti.l\"": [
+			[
+				{
+					"text": ".l",
+					"emoji": "❌"
+				},
+				{
+					"text": "\"aprepend.ti\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"aprepend.tild.de\"": [
+			[
+				{
+					"text": ".de",
+					"emoji": "🇩🇪"
+				},
+				{
+					"text": "\"aprepend.ti.l\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"aprepend.til\"": [
+			[
+				{
+					"text": ".il",
+					"emoji": "❌"
+				},
+				{
+					"text": "\"aprepend.ti\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"aprepend.de\"": [
+			[
+				{
+					"text": ".de",
+					"emoji": "🇩🇪"
+				},
+				{
+					"text": "\"aprepend.til\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"prepend.til\"": [
+			[
+				{
+					"text": "\"aprepend.til\"",
+					"emoji": "🤔"
+				},
+				{
+					"text": "Delete First",
+					"emoji": "🗑️"
+				}
+			]
+		],
+		"\"prepend.til.de\"": [
+			[
+				{
+					"text": ".de",
+					"emoji": "🇩🇪"
+				},
+				{
+					"text": "\"prepend.til\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"#prepend.til.de": [
+			[
+				{
+					"text": "\"prepend.til.de\"",
+					"emoji": "🤔"
+				},
+				{
+					"text": "Prepend Hashtag",
+					"emoji": "#🏷️"
+				}
+			]
+		],
+		"Prepend Tilde": [
+			[
+				{
+					"text": "#prepend.til.de",
+					"emoji": "🤔"
+				},
+				{
+					"text": "Tilde",
+					"emoji": "➰"
+				}
+			]
+		],
+		"Taliban": [
+			[
+				{
+					"text": "Afghanistan",
+					"emoji": "🇦🇫"
+				},
+				{
+					"text": "America",
+					"emoji": "🇺🇸"
+				}
+			]
+		],
+		"Samaritan": [
+			[
+				{
+					"text": "San Marino",
+					"emoji": "🇸🇲"
+				},
+				{
+					"text": "Taliban",
+					"emoji": "👳"
+				}
+			]
+		],
+		"Converting To Unicode": [
+			[
+				{
+					"text": "Convert To Unicode",
+					"emoji": "💬"
+				},
+				{
+					"text": "Samaritan",
+					"emoji": "🕊️"
+				}
+			]
+		],
+		"\"aprepend.dot\"": [
+			[
+				{
+					"text": ".dot",
+					"emoji": "🔵"
+				},
+				{
+					"text": "\"aprepend\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"prepend.dot\"": [
+			[
+				{
+					"text": "\"aprepend.dot\"",
+					"emoji": "❌"
+				},
+				{
+					"text": "Delete First Character",
+					"emoji": "🔡"
+				}
+			]
+		],
+		"#prepend.dot": [
+			[
+				{
+					"text": "\"prepend.dot\"",
+					"emoji": "🔵"
+				},
+				{
+					"text": "The Hashtag",
+					"emoji": "#"
+				}
+			]
+		],
+		"Prepend Dot": [
+			[
+				{
+					"text": "#prepend.dot",
+					"emoji": "🔵"
+				},
+				{
+					"text": "Delete The Hyphen",
+					"emoji": "❌"
+				}
+			]
+		],
+		"\"amp\"": [
+			[
+				{
+					"text": "\"am\"",
+					"emoji": "🕰️"
+				},
+				{
+					"text": "Prepend Dot",
+					"emoji": "🔵"
+				}
+			]
+		],
+		"\"agran prepend dot\"": [
+			[
+				{
+					"text": "\"agran\"",
+					"emoji": "👍"
+				},
+				{
+					"text": "Prepend Dot",
+					"emoji": "🔵"
+				}
+			]
+		],
+		"\"aprepend.pe\"": [
+			[
+				{
+					"text": ".pe",
+					"emoji": "🇵🇪"
+				},
+				{
+					"text": "\"aprepend\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"aprepend.re\"": [
+			[
+				{
+					"text": ".r",
+					"emoji": "❌"
+				},
+				{
+					"text": "\"aprepend.pe\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		".ri": [
+			[
+				{
+					"text": ".li",
+					"emoji": "❌"
+				},
+				{
+					"text": ".r",
+					"emoji": "❌"
+				}
+			]
+		],
+		"\"aprepend.peri\"": [
+			[
+				{
+					"text": ".ri",
+					"emoji": "🤔"
+				},
+				{
+					"text": "\"aprepend.pe\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"aprepend.peri.o\"": [
+			[
+				{
+					"text": ".o",
+					"emoji": "👌"
+				},
+				{
+					"text": "\"aprepend.peri\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"aprepend.peri.od\"": [
+			[
+				{
+					"text": ".d",
+					"emoji": "❌"
+				},
+				{
+					"text": "\"aprepend.peri.o\"",
+					"emoji": "🔍"
+				}
+			]
+		],
+		"\"peri.od\"": [
+			[
+				{
+					"text": "\"aprepend.peri.od\"",
+					"emoji": "🔤"
+				},
+				{
+					"text": "Delete First",
+					"emoji": "🗑️"
+				}
+			]
+		],
+		"\"prepend.peri.od\"": [
+			[
+				{
+					"text": "\"aprepend.peri.od\"",
+					"emoji": "🔤"
+				},
+				{
+					"text": "Delete First Character",
+					"emoji": "🔡"
+				}
+			]
+		],
+		"\"prepend.peri.od#the#hashtags\"": [
+			[
+				{
+					"text": "\"prepend.peri.od\"",
+					"emoji": "🔠"
+				},
+				{
+					"text": "The Hashtags",
+					"emoji": "#️⃣"
+				}
+			]
+		],
+		"\"prepend.peri.od#\"": [
+			[
+				{
+					"text": "\"prepend.peri.od\"",
+					"emoji": "🔠"
+				},
+				{
+					"text": "The Hashtag",
+					"emoji": "#"
+				}
+			]
+		],
+		"\"prepend.period\"": [
+			[
+				{
+					"text": "\"prepend.peri.od\"",
+					"emoji": "🔠"
+				},
+				{
+					"text": "Without Spaces",
+					"emoji": "🚫"
+				}
+			]
+		],
+		"\"prepend.period#\"": [
+			[
+				{
+					"text": "\"prepend.period\"",
+					"emoji": "🔵"
+				},
+				{
+					"text": "Hashtag",
+					"emoji": "#️⃣"
+				}
+			]
+		],
+		"#prepend.period": [
+			[
+				{
+					"text": "\"prepend.period\"",
+					"emoji": "🔵"
+				},
+				{
+					"text": "The Hashtag",
+					"emoji": "#"
+				}
+			]
+		],
+		"Prepend Period": [
+			[
+				{
+					"text": "#prepend.period",
+					"emoji": "👍"
+				},
+				{
+					"text": "Delete The Hyphen",
+					"emoji": "❌"
+				}
+			]
+		],
+		"Jump. Then. Fall.": [
+			[
+				{
+					"text": "Jump Then Fall",
+					"emoji": "🏃‍♀️💨"
+				},
+				{
+					"text": "Prepend Period",
+					"emoji": "🔴"
+				}
+			]
+		],
+		"Prepend Performing": [
+			[
+				{
+					"text": "Performing",
+					"emoji": "🎭"
+				},
+				{
+					"text": "Prepend Period",
+					"emoji": "🔴"
+				}
+			]
+		],
+		"Piston Period": [
+			[
+				{
+					"text": "Piston",
+					"emoji": "🔧"
+				},
+				{
+					"text": "Prepend Period",
+					"emoji": "🔴"
+				}
+			]
+		],
+		"Leave Period": [
+			[
+				{
+					"text": "Leave",
+					"emoji": "🚪"
+				},
+				{
+					"text": "Prepend Period",
+					"emoji": "🔴"
+				}
+			]
+		],
+		"The Best Fucking Maid": [
+			[
+				{
+					"text": "Fucking",
+					"emoji": "🖕"
+				},
+				{
+					"text": "The Best Maid",
+					"emoji": "👩‍🍳"
+				}
+			],
+			[
+				{
+					"text": "Fuck",
+					"emoji": "🖕"
+				},
+				{
+					"text": "The Best Maid",
+					"emoji": "👩‍🍳"
+				}
+			]
+		],
+		"The Fucking Bear Hug": [
+			[
+				{
+					"text": "Fucking",
+					"emoji": "🖕"
+				},
+				{
+					"text": "The Bear Hug",
+					"emoji": "🐻🤗"
+				}
+			]
+		],
+		"The Fucking Best Hug": [
+			[
+				{
+					"text": "The Best Fucking Maid",
+					"emoji": "👩‍🦰"
+				},
+				{
+					"text": "The Fucking Bear Hug",
+					"emoji": "🐻🤗"
+				}
+			]
+		],
+		"The Fucking Best Fucking Hug": [
+			[
+				{
+					"text": "Fucking",
+					"emoji": "🖕"
+				},
+				{
+					"text": "The Fucking Best Hug",
+					"emoji": "🤗"
+				}
+			]
+		],
+		"The Rest": [
+			[
+				{
+					"text": "Fucking",
+					"emoji": "🖕"
+				},
+				{
+					"text": "The Best",
+					"emoji": "💛"
+				}
+			]
+		],
+		"The Best Couple": [
+			[
+				{
+					"text": "The Best Hug",
+					"emoji": "🤗"
+				},
+				{
+					"text": "The Best Maid",
+					"emoji": "👩‍🍳"
+				}
+			]
+		],
+		"Fucking": [],
+		"Grizzly": [
+			[
+				{
+					"text": "Fucking",
+					"emoji": "🖕"
+				},
+				{
+					"text": "The Bear",
+					"emoji": "🐻"
+				}
+			]
+		],
+		"Grizzly Bear": [
+			[
+				{
+					"text": "Grizzly",
+					"emoji": "🐻"
+				},
+				{
+					"text": "The Bear",
+					"emoji": "🐻"
+				}
+			],
+			[
+				{
+					"text": "Grizzly",
+					"emoji": "🐻"
+				},
+				{
+					"text": "The Best Sex",
+					"emoji": "💋🔥💦"
+				}
+			]
+		],
+		"Fucking Awesome": [
+			[
+				{
+					"text": "Fuck",
+					"emoji": "🖕"
+				},
+				{
+					"text": "The Best Day",
+					"emoji": "🌞🌈🎉"
+				}
+			]
+		],
+		"Fester": [
+			[
+				{
+					"text": "Fuck",
+					"emoji": "🖕"
+				},
+				{
+					"text": "The Rest",
+					"emoji": "🛌"
+				}
+			]
+		],
+		"Maid": [
+			[
+				{
+					"text": "Anime Maid",
+					"emoji": "🎀👩‍"
+				},
+				{
+					"text": "Fuck",
+					"emoji": "🖕"
+				}
+			]
+		],
+		"Pregnant": [
+			[
+				{
+					"text": "Baby",
+					"emoji": "👶"
+				},
+				{
+					"text": "Fuck",
+					"emoji": "🖕"
+				}
+			]
+		],
+		"Dragon Ball Z": [
+			[
+				{
+					"text": "Anime Battle",
+					"emoji": "⚔️"
+				},
+				{
+					"text": "Fuck",
+					"emoji": "🖕"
+				}
+			]
+		],
+		"Anime Fuck": [
+			[
+				{
+					"text": "Anime Fight",
+					"emoji": "💥👊🏻"
+				},
+				{
+					"text": "Fuck",
+					"emoji": "🖕"
+				}
+			]
+		],
+		"The Best Sex": [
+			[
+				{
+					"text": "Sex",
+					"emoji": "🍆"
+				},
+				{
+					"text": "The Best Hug",
+					"emoji": "🤗"
+				}
+			]
+		],
+		"Fuck The Best": [
+			[
+				{
+					"text": "Fuck",
+					"emoji": "🖕"
+				},
+				{
+					"text": "The Best Sex",
+					"emoji": "💋🔥💦"
+				}
+			]
+		],
+		"Fucking The Best": [
+			[
+				{
+					"text": "Fuck The Best",
+					"emoji": "🤬"
+				},
+				{
+					"text": "Fucking",
+					"emoji": "🖕"
+				}
+			]
+		],
+		"The Best Fucking The Best": [
+			[
+				{
+					"text": "Fucking The Best",
+					"emoji": "👍"
+				},
+				{
+					"text": "The Best Sex",
+					"emoji": "💋🔥💦"
+				}
+			]
+		],
+		"Festivus": [
+			[
+				{
+					"text": "Fester",
+					"emoji": "👻"
+				},
+				{
+					"text": "The Best",
+					"emoji": "💛"
+				}
+			]
+		],
+		"Anime Fuck The Best": [
+			[
+				{
+					"text": "Anime Fuck",
+					"emoji": "🚫"
+				},
+				{
+					"text": "The Best Sex",
+					"emoji": "💋🔥💦"
+				}
+			]
+		],
+		"The Best Fucking Hug": [
+			[
+				{
+					"text": "The Best Fucking The Best",
+					"emoji": "👌"
+				},
+				{
+					"text": "The Fucking Best Fucking Hug",
+					"emoji": "🤗"
+				}
+			]
+		],
+		"The Best Fucking Bear Hug": [
+			[
+				{
+					"text": "Grizzly Bear",
+					"emoji": "🐻"
+				},
+				{
+					"text": "The Best Fucking Hug",
+					"emoji": "🤗"
+				}
+			]
+		],
+		"Check The Fucking Pins": [
+			[
+				{
+					"text": "Check The Pins",
+					"emoji": "📌"
+				},
+				{
+					"text": "Fucking",
+					"emoji": "🖕"
+				}
+			]
+		],
+		"Cheque": [
+			[
+				{
+					"text": "Check",
+					"emoji": "✅"
+				},
+				{
+					"text": "Fuck",
+					"emoji": "🖕"
+				}
+			],
+			[
+				{
+					"text": "Check",
+					"emoji": "✅"
+				},
+				{
+					"text": "Fucking",
+					"emoji": "🖕"
+				}
+			]
+		],
+		"Cash": [
+			[
+				{
+					"text": "Bank",
+					"emoji": "💰"
+				},
+				{
+					"text": "Cheque",
+					"emoji": "🧾"
+				}
+			]
+		],
+		"The Fucking Best Fucking Bear Hug": [
+			[
+				{
+					"text": "Check The Fucking Pins",
+					"emoji": "📌"
+				},
+				{
+					"text": "The Best Fucking Bear Hug",
+					"emoji": "🐻🤗"
+				}
+			]
+		],
+		"The Best is Yet to Come": [
+			[
+				{
+					"text": "The Best Sex",
+					"emoji": "💋🔥💦"
+				},
+				{
+					"text": "The Rest",
+					"emoji": "🛌"
+				}
+			]
+		],
+		"The Best Is Yet To Come": [
+			[
+				{
+					"text": "The Best is Yet to Come",
+					"emoji": "🌟"
+				},
+				{
+					"text": "The Best Sex",
+					"emoji": "💋🔥💦"
+				}
+			]
+		],
+		"The Best Fucking Maid Is Yet To Come": [
+			[
+				{
+					"text": "The Best Fucking Maid",
+					"emoji": "👩‍🦰"
+				},
+				{
+					"text": "The Best is Yet to Come",
+					"emoji": "🌟"
+				}
+			]
+		],
+		"Jumping Frog": [
+			[
+				{
+					"text": "Jump. Then. Fall.",
+					"emoji": "🏃‍♂️🔄"
+				},
+				{
+					"text": "Prepend Performing",
+					"emoji": "🎭"
+				}
+			]
+		],
+		"Frogger": [
+			[
+				{
+					"text": "Jumping Frog",
+					"emoji": "🐸"
+				},
+				{
+					"text": "Prepend Performing",
+					"emoji": "🎭"
+				}
+			]
+		],
+		"Piston Pete": [
+			[
+				{
+					"text": "Piston Period",
+					"emoji": "🔧"
+				},
+				{
+					"text": "Prepend Performing",
+					"emoji": "🎭"
+				}
+			]
+		],
+		"\"marry\"": [
+			[
+				{
+					"text": ".r",
+					"emoji": "❌"
+				},
+				{
+					"text": "\"mar\"",
+					"emoji": "🌊"
+				}
+			]
+		],
+		"\"marry me\"": [
+			[
+				{
+					"text": ".me",
+					"emoji": "🤖"
+				},
+				{
+					"text": "\"marry\"",
+					"emoji": "💍"
+				}
+			]
+		],
+		"\"marryma\"": [
+			[
+				{
+					"text": ".ma",
+					"emoji": "🇲🇦"
+				},
+				{
+					"text": "\"marry\"",
+					"emoji": "💍"
+				}
+			]
+		],
+		"\"marryme\"": [
+			[
+				{
+					"text": ".e",
+					"emoji": "❌"
+				},
+				{
+					"text": "\"marryma\"",
+					"emoji": "💍"
+				}
+			]
+		],
+		"#marryme": [
+			[
+				{
+					"text": "\"marryme\"",
+					"emoji": "💍"
+				},
+				{
+					"text": "Hashtag",
+					"emoji": "#️⃣"
+				}
+			]
+		],
+		"Marry Me": [
+			[
+				{
+					"text": "#marryme",
+					"emoji": "💍"
+				},
+				{
+					"text": "Delete The Hyphen",
+					"emoji": "❌"
+				}
+			]
+		],
+		"Pretty Please": [
+			[
+				{
+					"text": "Marry Me",
+					"emoji": "💍💒"
+				},
+				{
+					"text": "Please",
+					"emoji": "🙏"
+				}
+			]
+		],
+		"Please Please": [
+			[
+				{
+					"text": "Please",
+					"emoji": "🙏"
+				},
+				{
+					"text": "Pretty Please",
+					"emoji": "🙏"
+				}
+			]
+		],
+		"Fucking Please": [
+			[
+				{
+					"text": "Fucking",
+					"emoji": "🖕"
+				},
+				{
+					"text": "Please Please",
+					"emoji": "🙏"
+				}
+			]
+		],
+		"\"please.ch\"": [
+			[
+				{
+					"text": ".ch",
+					"emoji": "❌"
+				},
+				{
+					"text": "\"please\"",
+					"emoji": "🙏"
+				}
+			]
+		],
+		"\"please.ch.thecheckpins\"": [
+			[
+				{
+					"text": "\"please.ch\"",
+					"emoji": "🙏"
+				},
+				{
+					"text": "The Check Pins",
+					"emoji": "📌"
+				}
+			]
+		],
+		"\"please.ch.ck.the.pins\"": [
+			[
+				{
+					"text": "\"please.ch\"",
+					"emoji": "🙏"
+				},
+				{
+					"text": "Check The Pins",
+					"emoji": "📌"
+				}
+			]
+		],
+		"\"please.check.the.pins\"": [
+			[
+				{
+					"text": "\"please.ch.ck.the.pins\"",
+					"emoji": "🔒"
+				},
+				{
+					"text": "Check The Pins",
+					"emoji": "📌"
+				}
+			]
+		],
+		"#pleasecheckthepins": [
+			[
+				{
+					"text": "\"please.check.the.pins\"",
+					"emoji": "📌"
+				},
+				{
+					"text": "The Hashtag",
+					"emoji": "#"
+				}
+			]
+		],
+		"Please Check The Pins": [
+			[
+				{
+					"text": "#pleasecheckthepins",
+					"emoji": "📌"
+				},
+				{
+					"text": "Delete The Hyphen",
+					"emoji": "❌"
+				}
+			]
+		],
+		"Fucking Please Check The Pins": [
+			[
+				{
+					"text": "Fucking Please",
+					"emoji": "🤬"
+				},
+				{
+					"text": "Please Check The Pins",
+					"emoji": "📌"
+				}
+			]
+		],
+		"Fiston Pete": [
+			[
+				{
+					"text": "Fucking",
+					"emoji": "🖕"
+				},
+				{
+					"text": "Piston Pete",
+					"emoji": "🔧"
+				}
+			]
+		],
+		"20,000 Leagues Under the Sea": [
+			[
+				{
+					"text": "Captain Nemo",
+					"emoji": "🐳"
+				},
+				{
+					"text": "Fairy Tale",
+					"emoji": "🧚‍♀️"
+				}
+			]
+		],
+		"Subtitanic": [
+			[
+				{
+					"text": "Subway",
+					"emoji": "🚇"
+				},
+				{
+					"text": "Titanic",
+					"emoji": "🚢"
+				}
+			]
+		],
+		"Subway Sandwich": [
+			[
+				{
+					"text": "Subtitanic",
+					"emoji": "🚢"
+				},
+				{
+					"text": "Subway",
+					"emoji": "🚇"
+				}
+			]
+		],
+		"Soggy Subway Sandwich": [
+			[
+				{
+					"text": "Subway Sandwich",
+					"emoji": "🍞"
+				},
+				{
+					"text": "Water",
+					"emoji": "💧"
+				}
+			]
+		],
+		"Captain Nemo's Revenge": [
+			[
+				{
+					"text": "Captain Nemo",
+					"emoji": "🐳"
+				},
+				{
+					"text": "Soggy Subway Sandwich",
+					"emoji": "🥪💦"
+				}
+			]
+		],
+		"Coins": [
+			[
+				{
+					"text": "Coin",
+					"emoji": "💰"
+				},
+				{
+					"text": "Plural",
+					"emoji": "🤝"
+				}
+			]
+		],
+		"Property": [
+			[
+				{
+					"text": "Earth",
+					"emoji": "🌍"
+				},
+				{
+					"text": "Real Estate",
+					"emoji": "🏠"
+				}
+			]
+		],
+		"\"ri.al\"": [
+			[
+				{
+					"text": ".al",
+					"emoji": "👋"
+				},
+				{
+					"text": "\"ri\"",
+					"emoji": "🇷🇮"
+				}
+			]
+		],
+		"\"rial\"": [
+			[
+				{
+					"text": "\"ri.al\"",
+					"emoji": "🔍"
+				},
+				{
+					"text": "Without Spacing",
+					"emoji": "👍"
+				}
+			]
+		],
+		"#mr. Add Hashtag Rial": [
+			[
+				{
+					"text": "\"rial\"",
+					"emoji": "💰"
+				},
+				{
+					"text": "#mr. Add Hashtag",
+					"emoji": "#️⃣"
+				}
+			]
+		],
+		"\"air\"": [
+			[
+				{
+					"text": "\"a\"",
+					"emoji": "🅰️"
+				},
+				{
+					"text": "\"rial\"",
+					"emoji": "💰"
+				}
+			]
+		],
+		"Ireland": [
+			[
+				{
+					"text": "\"rial\"",
+					"emoji": "💰"
+				},
+				{
+					"text": "Territory",
+					"emoji": "🏞️"
+				}
+			]
+		],
+		"\"to.r\"": [
+			[
+				{
+					"text": ".r",
+					"emoji": "❌"
+				},
+				{
+					"text": "\"to\"",
+					"emoji": "➡️"
+				}
+			]
+		],
+		"\"tor\"": [
+			[
+				{
+					"text": "\"to.r\"",
+					"emoji": "🤖"
+				},
+				{
+					"text": "Without Spaces",
+					"emoji": "🚫"
+				}
+			]
+		],
+		"\"torn\"": [
+			[
+				{
+					"text": "\"tor\"",
+					"emoji": "🔥"
+				},
+				{
+					"text": "Hashtag",
+					"emoji": "#️⃣"
+				}
+			]
+		],
+		"\"tortag\"": [
+			[
+				{
+					"text": "\"tor\"",
+					"emoji": "🔥"
+				},
+				{
+					"text": "Prepend Hashtag",
+					"emoji": "#🏷️"
+				}
+			]
+		],
+		"\"riot\"": [
+			[
+				{
+					"text": "\"rial\"",
+					"emoji": "💰"
+				},
+				{
+					"text": "\"tor\"",
+					"emoji": "🔥"
+				}
+			]
+		],
+		"\"tor\"mr. Hashtag": [
+			[
+				{
+					"text": "\"tor\"",
+					"emoji": "🔥"
+				},
+				{
+					"text": "#mr. Hashtag",
+					"emoji": "#️⃣"
+				}
+			]
+		],
+		"#tor": [
+			[
+				{
+					"text": "\"tor\"",
+					"emoji": "🔥"
+				},
+				{
+					"text": "#mr. Add Hashtag",
+					"emoji": "#️⃣"
+				}
+			]
+		],
+		"or": [
+			[
+				{
+					"text": "#tor",
+					"emoji": "🔒"
+				},
+				{
+					"text": "Delete First Character",
+					"emoji": "🔡"
+				}
+			]
+		],
+		"Delete The Hyphen": [],
+		"Delete Last": [
+			[
+				{
+					"text": "#tor",
+					"emoji": "🔒"
+				},
+				{
+					"text": "Delete First",
+					"emoji": "🗑️"
+				}
+			]
+		],
+		"Or": [
+			[
+				{
+					"text": "#tor",
+					"emoji": "🔒"
+				},
+				{
+					"text": "Delete First Letter",
+					"emoji": "🔡"
+				}
+			]
+		],
+		"RT": [
+			[
+				{
+					"text": "R",
+					"emoji": "®"
+				},
+				{
+					"text": "Time",
+					"emoji": "⏰"
+				}
+			]
+		],
+		"\"riall#\"": [
+			[
+				{
+					"text": "\"riall\"",
+					"emoji": "🤔"
+				},
+				{
+					"text": "Hashtag",
+					"emoji": "#️⃣"
+				}
+			]
+		],
+		"\"append.the\"": [
+			[
+				{
+					"text": ".the",
+					"emoji": "🤔"
+				},
+				{
+					"text": "\"append\"",
+					"emoji": "➕"
+				}
+			]
+		],
+		"Deletethehyphenwithoutspaces": [
+			[
+				{
+					"text": "Delete The Hyphen",
+					"emoji": "❌"
+				},
+				{
+					"text": "Without Spaces",
+					"emoji": "🚫"
+				}
+			]
+		],
+		"\"append.the.period\"": [
+			[
+				{
+					"text": "\"append.the\"",
+					"emoji": "🤔"
+				},
+				{
+					"text": "\"peri.od\"",
+					"emoji": "🩸"
+				}
+			]
+		],
+		"#append.the.period": [
+			[
+				{
+					"text": "\"append.the.period\"",
+					"emoji": "🔵"
+				},
+				{
+					"text": "#PrependTheHashtags",
+					"emoji": "#️⃣"
+				}
+			]
+		],
+		"Append.the.period.pluralize": [
+			[
+				{
+					"text": "#append.the.period",
+					"emoji": "👍"
+				},
+				{
+					"text": "Pluralize",
+					"emoji": "👥"
+				}
+			]
+		],
+		"#append.the.periods": [
+			[
+				{
+					"text": "#append.the.period",
+					"emoji": "👍"
+				},
+				{
+					"text": "Pluralizer",
+					"emoji": "👥"
+				}
+			]
+		],
+		"Append.the.periods": [
+			[
+				{
+					"text": "#append.the.periods",
+					"emoji": "❌"
+				},
+				{
+					"text": "Append.the.period.pluralize",
+					"emoji": "❌"
+				}
+			]
+		],
+		"Append The Periods": [
+			[
+				{
+					"text": "Append.the.periods",
+					"emoji": "👍"
+				},
+				{
+					"text": "Delete The Dot",
+					"emoji": "❌"
+				}
+			]
+		],
+		".sea": [
+			[
+				{
+					"text": ".se",
+					"emoji": "🇸🇪"
+				},
+				{
+					"text": "/m/",
+					"emoji": "🌌"
+				}
+			]
+		],
+		".mi.se": [
+			[
+				{
+					"text": ".mi",
+					"emoji": "🇲🇮"
+				},
+				{
+					"text": ".se",
+					"emoji": "🇸🇪"
+				}
+			]
+		],
+		"\"aprepend.se\"": [
+			[
+				{
+					"text": ".se",
+					"emoji": "🇸🇪"
+				},
+				{
+					"text": "\"aprepend\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"aprepend.se.m\"": [
+			[
+				{
+					"text": ".m",
+					"emoji": "❌"
+				},
+				{
+					"text": "\"aprepend.se\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"aprepend.se.m.i\"": [
+			[
+				{
+					"text": ".i",
+					"emoji": "❌"
+				},
+				{
+					"text": "\"aprepend.se.m\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"aprependsemi\"": [
+			[
+				{
+					"text": "\"aprepend.se.m.i\"",
+					"emoji": "🔍"
+				},
+				{
+					"text": "Delete The White Spaces",
+					"emoji": "🚫"
+				}
+			]
+		],
+		".col": [
+			[
+				{
+					"text": ".ce",
+					"emoji": "❌"
+				},
+				{
+					"text": ".ol",
+					"emoji": "👌"
+				}
+			]
+		],
+		".col/o/": [
+			[
+				{
+					"text": ".col",
+					"emoji": "💻"
+				},
+				{
+					"text": "/o/",
+					"emoji": "🚀"
+				}
+			]
+		],
+		"\"aprependsemi.col\"": [
+			[
+				{
+					"text": ".col/o/",
+					"emoji": "🤖"
+				},
+				{
+					"text": "\"aprependsemi\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"aprependsemi.colo\"": [
+			[
+				{
+					"text": "\"aprependsemi.col\"",
+					"emoji": "❌"
+				},
+				{
+					"text": "\"o\"",
+					"emoji": "👌"
+				}
+			]
+		],
+		"\"aprependsemi.colony\"": [
+			[
+				{
+					"text": "\"aprependsemi.colo\"",
+					"emoji": "🤔"
+				},
+				{
+					"text": "\"n\"",
+					"emoji": "🆖"
+				}
+			]
+		],
+		"/on/": [
+			[
+				{
+					"text": ".col/o/",
+					"emoji": "🤖"
+				},
+				{
+					"text": "/n/",
+					"emoji": "🚶‍♂️"
+				}
+			]
+		],
+		"/ol/": [
+			[
+				{
+					"text": ".col/o/",
+					"emoji": "🤖"
+				},
+				{
+					"text": "/on/",
+					"emoji": "👍"
+				}
+			]
+		],
+		"colon": [
+			[
+				{
+					"text": ".col/o/",
+					"emoji": "🤖"
+				},
+				{
+					"text": "`n`",
+					"emoji": "🤔"
+				}
+			]
+		],
+		".em": [
+			[
+				{
+					"text": ".me",
+					"emoji": "🤖"
+				},
+				{
+					"text": "Inverse",
+					"emoji": "🔀"
+				}
+			]
+		],
+		".sem": [
+			[
+				{
+					"text": ".em",
+					"emoji": "❓"
+				},
+				{
+					"text": ".se",
+					"emoji": "🇸🇪"
+				}
+			]
+		],
+		".semi": [
+			[
+				{
+					"text": ".i",
+					"emoji": "❌"
+				},
+				{
+					"text": ".sem",
+					"emoji": "❌"
+				}
+			]
+		],
+		"\"aprepend.sem\"": [
+			[
+				{
+					"text": ".sem",
+					"emoji": "❌"
+				},
+				{
+					"text": "\"aprepend\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"aprepend.semi\"": [
+			[
+				{
+					"text": ".semi",
+					"emoji": "🚛"
+				},
+				{
+					"text": "\"aprepend.sem\"",
+					"emoji": "❌"
+				}
+			]
+		],
+		"\"aprepend.semi.col/o/\"": [
+			[
+				{
+					"text": ".col/o/",
+					"emoji": "🤖"
+				},
+				{
+					"text": "\"aprepend.semi\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"aprepend.semi.col/o/n\"": [
+			[
+				{
+					"text": ".n",
+					"emoji": "❌"
+				},
+				{
+					"text": "\"aprepend.semi.col/o/\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"prepend.semi.colon\"": [
+			[
+				{
+					"text": "\"aprepend.semi.col/o/n\"",
+					"emoji": "🤔"
+				},
+				{
+					"text": "Delete First Letter",
+					"emoji": "🔡"
+				}
+			]
+		],
+		"\"prependsemicolon\"": [
+			[
+				{
+					"text": "\"prepend.semi.colon\"",
+					"emoji": "🔵"
+				},
+				{
+					"text": "Delete The Periods",
+					"emoji": "❌"
+				}
+			]
+		],
+		"Prepend Semicolon": [
+			[
+				{
+					"text": "\"prependsemicolon\"",
+					"emoji": "❌"
+				},
+				{
+					"text": "Prepend Colon",
+					"emoji": "🔵"
+				}
+			]
+		],
+		".qu": [
+			[
+				{
+					"text": ".q",
+					"emoji": "❓"
+				},
+				{
+					"text": ".ue",
+					"emoji": "🤔"
+				}
+			]
+		],
+		".que": [
+			[
+				{
+					"text": ".e",
+					"emoji": "❌"
+				},
+				{
+					"text": ".qu",
+					"emoji": "❓"
+				}
+			]
+		],
+		".quest": [
+			[
+				{
+					"text": ".que",
+					"emoji": "🤔"
+				},
+				{
+					"text": ".st",
+					"emoji": "❌"
+				}
+			]
+		],
+		".question": [
+			[
+				{
+					"text": ".ion",
+					"emoji": "🤔"
+				},
+				{
+					"text": ".quest",
+					"emoji": "❓"
+				}
+			]
+		],
+		"\"aprepend.question\"": [
+			[
+				{
+					"text": ".question",
+					"emoji": "❓"
+				},
+				{
+					"text": "\"aprepend\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"aprepend.question.m\"": [
+			[
+				{
+					"text": ".m",
+					"emoji": "❌"
+				},
+				{
+					"text": "\"aprepend.question\"",
+					"emoji": "❓"
+				}
+			]
+		],
+		"\"prepend.question.m\"": [
+			[
+				{
+					"text": "\"aprepend.question.m\"",
+					"emoji": "❓"
+				},
+				{
+					"text": "Delete First Character",
+					"emoji": "🔡"
+				}
+			]
+		],
+		"\"prepend.question.mark\"": [
+			[
+				{
+					"text": "\"prepend.question.m\"",
+					"emoji": "❓"
+				},
+				{
+					"text": "Mark",
+					"emoji": "📝"
+				}
+			]
+		],
+		"#prepend.question.mark": [
+			[
+				{
+					"text": "\"prepend.question.mark\"",
+					"emoji": "❓"
+				},
+				{
+					"text": "Prepend Hashtag",
+					"emoji": "#🏷️"
+				}
+			]
+		],
+		"Prepend Question Mark": [
+			[
+				{
+					"text": "#prepend.question.mark",
+					"emoji": "❓"
+				},
+				{
+					"text": "Question Mark",
+					"emoji": "❓"
+				}
+			]
+		],
+		"\"aprepend.el.lips.is\"": [
+			[
+				{
+					"text": ".is",
+					"emoji": "👀"
+				},
+				{
+					"text": "\"aprepend.el.lips\"",
+					"emoji": "👄"
+				}
+			]
+		],
+		"\"prepend.el.lips.is\"": [
+			[
+				{
+					"text": "\"aprepend.el.lips.is\"",
+					"emoji": "👄"
+				},
+				{
+					"text": "Delete First Character",
+					"emoji": "🔡"
+				}
+			]
+		],
+		"\"prependellipsis\"": [
+			[
+				{
+					"text": "\"prepend.el.lips.is\"",
+					"emoji": "👄"
+				},
+				{
+					"text": "Delete The Periods",
+					"emoji": "❌"
+				}
+			]
+		],
+		"#prependellipsis": [
+			[
+				{
+					"text": "\"prependellipsis\"",
+					"emoji": "🔠"
+				},
+				{
+					"text": "The Hashtags",
+					"emoji": "#️⃣"
+				}
+			]
+		],
+		"Prepend Ellipsis": [
+			[
+				{
+					"text": "#prependellipsis",
+					"emoji": "🔍"
+				},
+				{
+					"text": "Prepend Hyphen",
+					"emoji": "➖"
+				}
+			]
+		],
+		".apos": [
+			[
+				{
+					"text": ".ap",
+					"emoji": "❌"
+				},
+				{
+					"text": ".os",
+					"emoji": "👀"
+				}
+			]
+		],
+		".tr": [
+			[
+				{
+					"text": ".t",
+					"emoji": "❌"
+				},
+				{
+					"text": "/r/",
+					"emoji": "💬"
+				}
+			]
+		],
+		".part": [
+			[
+				{
+					"text": ".apos",
+					"emoji": "❌"
+				},
+				{
+					"text": ".tr",
+					"emoji": "❌"
+				}
+			],
+			[
+				{
+					"text": ".apos",
+					"emoji": "❌"
+				},
+				{
+					"text": ".tra",
+					"emoji": "🚂"
+				}
+			]
+		],
+		".tor": [
+			[
+				{
+					"text": ".tr",
+					"emoji": "❌"
+				},
+				{
+					"text": "/o/",
+					"emoji": "🚀"
+				}
+			]
+		],
+		".ort": [
+			[
+				{
+					"text": ".o",
+					"emoji": "👌"
+				},
+				{
+					"text": ".tr",
+					"emoji": "❌"
+				}
+			]
+		],
+		".of": [
+			[
+				{
+					"text": ".fr",
+					"emoji": "🇫🇷"
+				},
+				{
+					"text": ".o",
+					"emoji": "👌"
+				}
+			]
+		],
+		".tra": [
+			[
+				{
+					"text": ".of",
+					"emoji": "👍"
+				},
+				{
+					"text": ".tr",
+					"emoji": "❌"
+				}
+			]
+		],
+		"/os/": [
+			[
+				{
+					"text": "/o/",
+					"emoji": "🚀"
+				},
+				{
+					"text": "/s/",
+					"emoji": "💬"
+				}
+			]
+		],
+		".ap/os/": [
+			[
+				{
+					"text": ".ap",
+					"emoji": "❌"
+				},
+				{
+					"text": "/os/",
+					"emoji": "🤖"
+				}
+			]
+		],
+		".esp": [
+			[
+				{
+					"text": ".es",
+					"emoji": "🇪🇸"
+				},
+				{
+					"text": ".ps",
+					"emoji": "🇵🇸"
+				}
+			]
+		],
+		"\"prepend.esp\"": [
+			[
+				{
+					"text": ".esp",
+					"emoji": "🇪🇸"
+				},
+				{
+					"text": "\"prepend\"",
+					"emoji": "🔄"
+				}
+			]
+		],
+		"\"prepend.ap/os/\"": [
+			[
+				{
+					"text": ".ap/os/",
+					"emoji": "🤖"
+				},
+				{
+					"text": "\"prepend.esp\"",
+					"emoji": "📄"
+				}
+			]
+		],
+		"/rt/": [
+			[
+				{
+					"text": "/r/",
+					"emoji": "💬"
+				},
+				{
+					"text": "/t/",
+					"emoji": "🚂"
+				}
+			]
+		],
+		"Tart": [
+			[
+				{
+					"text": "/rt/",
+					"emoji": "📻"
+				},
+				{
+					"text": "Reverse",
+					"emoji": "🔙"
+				}
+			]
+		],
+		".rt": [
+			[
+				{
+					"text": ".r",
+					"emoji": "❌"
+				},
+				{
+					"text": "/t/",
+					"emoji": "🚂"
+				}
+			]
+		],
+		"Delete The Slash": [
+			[
+				{
+					"text": "Delete The _",
+					"emoji": "❌"
+				},
+				{
+					"text": "Slash",
+					"emoji": "✂️"
+				}
+			]
+		],
+		"/rr/": [
+			[
+				{
+					"text": "/r/",
+					"emoji": "💬"
+				},
+				{
+					"text": "/r/",
+					"emoji": "💬"
+				}
+			]
+		],
+		".tr/": [
+			[
+				{
+					"text": ".t",
+					"emoji": "❌"
+				},
+				{
+					"text": "/rr/",
+					"emoji": "🎢"
+				}
+			]
+		],
+		"/tr/": [
+			[
+				{
+					"text": ".tr/",
+					"emoji": "🇹🇷"
+				},
+				{
+					"text": "/aa/",
+					"emoji": "🌌"
+				}
+			]
+		],
+		"\"prepend.ap/os/tr/\"": [
+			[
+				{
+					"text": "\"prepend.ap/os/\"",
+					"emoji": "🤖"
+				},
+				{
+					"text": "/tr/",
+					"emoji": "🇹🇷"
+				}
+			]
+		],
+		"\"prepend.apostrophe\"": [
+			[
+				{
+					"text": "\"prepend.ap/os/tr/\"",
+					"emoji": "🤔"
+				},
+				{
+					"text": "Delete The Slash",
+					"emoji": "❌"
+				}
+			]
+		],
+		"#Prepend Hashtag": [
+			[
+				{
+					"text": "\"prepend.apostrophe\"",
+					"emoji": "🔠"
+				},
+				{
+					"text": "Prepend Hashtag",
+					"emoji": "#🏷️"
+				}
+			]
+		],
+		"#prepend.apostrophe": [
+			[
+				{
+					"text": "\"prepend.apostrophe\"",
+					"emoji": "🔠"
+				},
+				{
+					"text": "The Hashtag",
+					"emoji": "#"
+				}
+			]
+		],
+		"Prepend Apostrophe": [
+			[
+				{
+					"text": "#prepend.apostrophe",
+					"emoji": "🔠"
+				},
+				{
+					"text": "Delete The Dots",
+					"emoji": "❌"
+				}
+			]
+		],
+		"\"sh.da\"": [
+			[
+				{
+					"text": ".da",
+					"emoji": "👍"
+				},
+				{
+					"text": "\"sh\"",
+					"emoji": "🤫"
+				}
+			]
+		],
+		"\"aprepend.da\"": [
+			[
+				{
+					"text": ".da",
+					"emoji": "👍"
+				},
+				{
+					"text": "\"aprepend\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"aprepend.dash\"": [
+			[
+				{
+					"text": "\"aprepend.da\"",
+					"emoji": "🤔"
+				},
+				{
+					"text": "\"sh\"",
+					"emoji": "🤫"
+				}
+			]
+		],
+		"\"repend.dash\"": [
+			[
+				{
+					"text": "\"aprepend.dash\"",
+					"emoji": "🤔"
+				},
+				{
+					"text": "Delete First Character",
+					"emoji": "🔡"
+				}
+			]
+		],
+		"#repend.dash": [
+			[
+				{
+					"text": "\"repend.dash\"",
+					"emoji": "🔍"
+				},
+				{
+					"text": "The Hashtag",
+					"emoji": "#"
+				}
+			]
+		],
+		"#prepend.dash": [
+			[
+				{
+					"text": "#prepend",
+					"emoji": "🔝"
+				},
+				{
+					"text": "#repend.dash",
+					"emoji": "🔙"
+				}
+			]
+		],
+		"Prepend Dash": [
+			[
+				{
+					"text": "#prepend.dash",
+					"emoji": "➖"
+				},
+				{
+					"text": "Prepend Hyphen",
+					"emoji": "➖"
+				}
+			]
+		],
+		"Backflip": [
+			[
+				{
+					"text": "Reverse",
+					"emoji": "🔙"
+				},
+				{
+					"text": "Spin",
+					"emoji": "🌀"
+				}
+			]
+		],
+		"Backslash": [
+			[
+				{
+					"text": "Backflip",
+					"emoji": "🤸"
+				},
+				{
+					"text": "Division",
+					"emoji": "➗"
+				}
+			],
+			[
+				{
+					"text": "Backslash",
+					"emoji": "\\"
+				},
+				{
+					"text": "Slash",
+					"emoji": "✂️"
+				}
+			]
+		],
+		"Delete The Backslash": [
+			[
+				{
+					"text": "Backslash",
+					"emoji": "\\"
+				},
+				{
+					"text": "Delete The _",
+					"emoji": "❌"
+				}
+			]
+		],
+		"Delete The": [
+			[
+				{
+					"text": "Delete The _",
+					"emoji": "❌"
+				},
+				{
+					"text": "Delete The /",
+					"emoji": "❌"
+				}
+			]
+		],
+		"\"adda\"": [
+			[
+				{
+					"text": ".a",
+					"emoji": "❌"
+				},
+				{
+					"text": "\"add\"",
+					"emoji": "➕"
+				}
+			]
+		],
+		"#adda": [
+			[
+				{
+					"text": "\"adda\"",
+					"emoji": "🤔"
+				},
+				{
+					"text": "The Hashtag",
+					"emoji": "#"
+				}
+			]
+		],
+		"#adda.hashtag": [
+			[
+				{
+					"text": ".hashTag",
+					"emoji": "#️⃣"
+				},
+				{
+					"text": "#adda",
+					"emoji": "🔗"
+				}
+			]
+		],
+		"Adda": [
+			[
+				{
+					"text": "\"adda\"",
+					"emoji": "🤔"
+				},
+				{
+					"text": "Add",
+					"emoji": "🆕"
+				}
+			]
+		],
+		"#addahashtag": [
+			[
+				{
+					"text": "#adda.hashtag",
+					"emoji": "🔗"
+				},
+				{
+					"text": "Delete The Period",
+					"emoji": "❌"
+				}
+			]
+		],
+		"Addahashtag": [
+			[
+				{
+					"text": "#addahashtag",
+					"emoji": "#️⃣"
+				},
+				{
+					"text": "Adda",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"Add A Hashtag": [
+			[
+				{
+					"text": "Addahashtag",
+					"emoji": "#️⃣"
+				},
+				{
+					"text": "With Spacing",
+					"emoji": "↔️"
+				}
+			]
+		],
+		"Arcane": [
+			[
+				{
+					"text": "League of Legends",
+					"emoji": "💥"
+				},
+				{
+					"text": "Multiverse",
+					"emoji": "🌌"
+				}
+			]
+		],
+		".ki": [
+			[
+				{
+					"text": ".net",
+					"emoji": "💻"
+				},
+				{
+					"text": "Kiribati",
+					"emoji": "🇰🇮"
+				}
+			]
+		],
+		".kid": [
+			[
+				{
+					"text": ".d",
+					"emoji": "❌"
+				},
+				{
+					"text": ".ki",
+					"emoji": "🥝"
+				}
+			]
+		],
+		"the.kid": [
+			[
+				{
+					"text": ".kid",
+					"emoji": "👶"
+				},
+				{
+					"text": "\"the\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"k\"": [
+			[
+				{
+					"text": ".d",
+					"emoji": "❌"
+				},
+				{
+					"text": "\"k\"",
+					"emoji": "👍"
+				}
+			]
+		],
+		"The Backwards": [
+			[
+				{
+					"text": "Backwards",
+					"emoji": "🔙"
+				},
+				{
+					"text": "The ~",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"bk\"": [
+			[
+				{
+					"text": "\"b\"",
+					"emoji": "🅱️"
+				},
+				{
+					"text": "\"k\"",
+					"emoji": "👍"
+				}
+			]
+		],
+		"\"bkd\"": [
+			[
+				{
+					"text": "\"bk\"",
+					"emoji": "🍔"
+				},
+				{
+					"text": "\"d\"",
+					"emoji": "🇩"
+				}
+			]
+		],
+		"\"kd\"": [
+			[
+				{
+					"text": "\"bkd\"",
+					"emoji": "🤔"
+				},
+				{
+					"text": "Delete First Character",
+					"emoji": "🔡"
+				}
+			],
+			[
+				{
+					"text": "\"kd\"",
+					"emoji": "🤔"
+				},
+				{
+					"text": "The Backwards",
+					"emoji": "🔄"
+				}
+			]
+		],
+		"“kd”": [
+			[
+				{
+					"text": ".d",
+					"emoji": "❌"
+				},
+				{
+					"text": "“k”",
+					"emoji": "👌"
+				}
+			]
+		],
+		"The Kids": [
+			[
+				{
+					"text": "“kd”",
+					"emoji": "🏀"
+				},
+				{
+					"text": "The Backwards",
+					"emoji": "🔄"
+				}
+			]
+		],
+		"The Kids ate": [
+			[
+				{
+					"text": "\"ate\"",
+					"emoji": "🍽️"
+				},
+				{
+					"text": "The Kids",
+					"emoji": "👶👧👦"
+				}
+			]
+		],
+		"The Kids Ate My Homework": [
+			[
+				{
+					"text": "Arcane",
+					"emoji": "🧙‍♀️"
+				},
+				{
+					"text": "The Kids ate",
+					"emoji": "👶🍽️"
+				}
+			],
+			[
+				{
+					"text": "Hebrew",
+					"emoji": "🕎"
+				},
+				{
+					"text": "The Kids Ate My Homework",
+					"emoji": "🤷‍♂️"
+				}
+			]
+		],
+		"\"ty\"": [
+			[
+				{
+					"text": "\"t\"",
+					"emoji": "🕒"
+				},
+				{
+					"text": "\"y\"",
+					"emoji": "🤔"
+				}
+			]
+		],
+		"\"tys\"": [
+			[
+				{
+					"text": "\"ty\"",
+					"emoji": "👍"
+				},
+				{
+					"text": "Plural",
+					"emoji": "🤝"
+				}
+			]
+		],
+		"\"tysm\"": [
+			[
+				{
+					"text": "\"tys\"",
+					"emoji": "👍"
+				},
+				{
+					"text": "/m/",
+					"emoji": "🌌"
+				}
+			]
+		],
+		"Jonah and the Whale": [
+			[
+				{
+					"text": "Jonah",
+					"emoji": "🐳"
+				},
+				{
+					"text": "Kite",
+					"emoji": "🪁"
+				}
+			]
+		],
+		"Nineveh": [
+			[
+				{
+					"text": "Island",
+					"emoji": "🏝️"
+				},
+				{
+					"text": "Jonah and the Whale",
+					"emoji": "🐳"
+				}
+			]
+		],
+		"Assyria": [
+			[
+				{
+					"text": "Kite",
+					"emoji": "🪁"
+				},
+				{
+					"text": "Nineveh",
+					"emoji": "🐘"
+				}
+			]
+		],
+		"Aramaic": [
+			[
+				{
+					"text": "Assyria",
+					"emoji": "🏛️"
+				},
+				{
+					"text": "Language",
+					"emoji": "💬"
+				}
+			]
+		],
+		"Hebrew": [
+			[
+				{
+					"text": "Aramaic",
+					"emoji": "📖"
+				},
+				{
+					"text": "Language",
+					"emoji": "💬"
+				}
+			]
+		],
+		"Amharic": [
+			[
+				{
+					"text": "Ethiopia",
+					"emoji": "🇪🇹"
+				},
+				{
+					"text": "Language",
+					"emoji": "💬"
+				}
+			],
+			[
+				{
+					"text": "Alphabet",
+					"emoji": "🔠"
+				},
+				{
+					"text": "Ethiopia",
+					"emoji": "🇪🇹"
+				}
+			]
+		],
+		"Geez": [
+			[
+				{
+					"text": "Alphabet",
+					"emoji": "🔠"
+				},
+				{
+					"text": "Amharic",
+					"emoji": "🇪🇹"
+				}
+			]
+		],
+		"Ethiopic": [
+			[
+				{
+					"text": "Amharic",
+					"emoji": "🇪🇹"
+				},
+				{
+					"text": "Geez",
+					"emoji": "🤦‍♂️"
+				}
+			]
+		],
+		"Unicode Javanese": [
+			[
+				{
+					"text": "Javanese",
+					"emoji": "🇮🇩"
+				},
+				{
+					"text": "Unicode Batak",
+					"emoji": "🇮🇩"
+				}
+			]
+		],
+		"Unicode Sundanese": [
+			[
+				{
+					"text": "Unicode Batak",
+					"emoji": "🇮🇩"
+				},
+				{
+					"text": "Unicode Javanese",
+					"emoji": "🇮🇩"
+				}
+			]
+		],
+		"Batak Unicode": [
+			[
+				{
+					"text": "Batak Script",
+					"emoji": "📜"
+				},
+				{
+					"text": "Unicode Sundanese",
+					"emoji": "🇸🇪"
+				}
+			]
+		],
+		"Ethiopic Unicode": [
+			[
+				{
+					"text": "Batak Unicode",
+					"emoji": "💻"
+				},
+				{
+					"text": "Ethiopic",
+					"emoji": "🇪🇹"
+				}
+			]
+		],
+		"Shavian": [
+			[
+				{
+					"text": "Ethiopic Unicode",
+					"emoji": "💻"
+				},
+				{
+					"text": "Shaving",
+					"emoji": "💈"
+				}
+			]
+		],
+		"Shavian Unicode": [
+			[
+				{
+					"text": "Ethiopic Unicode",
+					"emoji": "💻"
+				},
+				{
+					"text": "Shavian",
+					"emoji": "🔠"
+				}
+			]
+		],
+		"Unicode Buginese": [
+			[
+				{
+					"text": "Shavian Unicode",
+					"emoji": "💻"
+				},
+				{
+					"text": "Unicode Batak",
+					"emoji": "🇮🇩"
+				}
+			]
+		],
+		"Unicode Aramaic": [
+			[
+				{
+					"text": "Aramaic",
+					"emoji": "📖"
+				},
+				{
+					"text": "Unicode Buginese",
+					"emoji": "🇮🇩"
+				}
+			]
+		],
+		"Tav": [
+			[
+				{
+					"text": "T",
+					"emoji": "🅱️"
+				},
+				{
+					"text": "Unicode Aramaic",
+					"emoji": "🔠"
+				}
+			]
+		],
+		"Tysm": [
+			[
+				{
+					"text": "\"tysm\"",
+					"emoji": "🙏"
+				},
+				{
+					"text": "Tav",
+					"emoji": "🌌"
+				}
+			]
+		],
+		"Latin": [
+			[
+				{
+					"text": "Language",
+					"emoji": "💬"
+				},
+				{
+					"text": "The Kids Ate My Homework",
+					"emoji": "🤷‍♂️"
+				}
+			]
+		],
+		"Thank You So Much": [
+			[
+				{
+					"text": "Complete The Phrase",
+					"emoji": "🤔"
+				},
+				{
+					"text": "Tysm",
+					"emoji": "🙏"
 				}
 			]
 		]
