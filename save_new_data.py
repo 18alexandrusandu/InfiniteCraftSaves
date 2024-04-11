@@ -48,9 +48,9 @@ while 1:
  print("now:")
  print(now)
  
- 
- for file in files:
-  if (re.search(pattern,file) is not None) or  (re.search(pattern2,file) is not  None):
+ if difference<120:
+  for file in files:
+   if (re.search(pattern,file) is not None) or  (re.search(pattern2,file) is not  None):
     nameFile=pathC+file
     shutil.copy(nameFile, './')
     print(file)
@@ -58,9 +58,9 @@ while 1:
 
 
 
- os.system("git add .")
- os.system("git commit -m \"first\"")
- os.system("git push origin main")
+  os.system("git add .")
+  os.system("git commit -m \"first\"")
+  os.system("git push origin main")
  time.sleep(120)
 
 
