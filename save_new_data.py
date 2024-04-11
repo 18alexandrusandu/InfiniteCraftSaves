@@ -26,12 +26,19 @@ while 1:
  now = time.time()
  
  status = os.stat(pathC).st_mtime
+
+now=datetime.fromtimestamp(now, tz=timezone.utc)
+status=datetime.fromtimestamp(status, tz=timezone.utc)
+ 
  print("status download folder:")
+ 
  print(status)
+
+
+ 
+ 
  print("now:")
- print(now)
- 
- 
+  print(now)
  
  
  for file in files:
