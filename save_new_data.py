@@ -22,7 +22,7 @@ while 1:
  files=os.listdir(path=pathC)
  filesHere=os.listdir(path=pathC)
  
- status = os.stat(pathC)
+ status = os.stat(pathC).st_mtime
  print("status:")
  print(status)
  for file in files:
