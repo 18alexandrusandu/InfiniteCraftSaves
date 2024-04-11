@@ -33,7 +33,7 @@ while 1:
  
  status = os.stat(pathC).st_mtime
 
- now=datetime.fromtimestamp(now, tz=timezone.utc)
+ now=datetime.fromtimestamp(now, tz=romania_tz)
  status=datetime.fromtimestamp(status, tz=romania_tz)
  
  print("status download folder:")
