@@ -20,7 +20,11 @@ while 1:
 
  print("again")
  files=os.listdir(path=pathC)
-
+ filesHere=os.listdir(path=pathC)
+ 
+ status = os.stat(pathC)
+ print("status:")
+ print(status)
  for file in files:
   if (re.search(pattern,file) is not None) or  (re.search(pattern2,file) is not  None):
     nameFile=pathC+file
