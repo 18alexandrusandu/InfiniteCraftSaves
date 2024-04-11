@@ -3,7 +3,7 @@ import os
 import re
 import shutil
 import time
-import datetime
+from datetime import datetime,timezone
 pathC="C:/Users/Alexandru Andercou/Downloads/"
 
 baseName="infinitysave"
@@ -27,8 +27,8 @@ while 1:
  
  status = os.stat(pathC).st_mtime
 
-now=datetime.fromtimestamp(now, tz=timezone.utc)
-status=datetime.fromtimestamp(status, tz=timezone.utc)
+ now=datetime.fromtimestamp(now, tz=timezone.utc)
+ status=datetime.fromtimestamp(status, tz=timezone.utc)
  
  print("status download folder:")
  
@@ -38,7 +38,7 @@ status=datetime.fromtimestamp(status, tz=timezone.utc)
  
  
  print("now:")
-  print(now)
+ print(now)
  
  
  for file in files:
