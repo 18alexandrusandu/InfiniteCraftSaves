@@ -4,6 +4,12 @@ import re
 import shutil
 import time
 from datetime import datetime,timezone
+import pytz
+
+# Get the Romania timezone
+romania_tz = pytz.timezone('Europe/Bucharest')
+
+
 pathC="C:/Users/Alexandru Andercou/Downloads/"
 
 baseName="infinitysave"
@@ -28,7 +34,7 @@ while 1:
  status = os.stat(pathC).st_mtime
 
  now=datetime.fromtimestamp(now, tz=timezone.utc)
- status=datetime.fromtimestamp(status, tz=timezone.utc)
+ status=datetime.fromtimestamp(status, tz=romania_tz)
  
  print("status download folder:")
  
