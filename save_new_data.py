@@ -32,7 +32,9 @@ while 1:
  now = time.time()
  
  status = os.stat(pathC).st_mtime
-
+ difference=now-status
+ print("difference in sec")
+ print(difference)
  now=datetime.fromtimestamp(now, tz=romania_tz)
  status=datetime.fromtimestamp(status, tz=romania_tz)
  
